@@ -1,0 +1,1115 @@
+DOC_ID,CANONICAL,CONTEXT,FORMATTED,VERBATIM,CONTAINING_ELEMENT,PATH_TO_ELEMENT
+NDAR_V02_0004,Mercury,MASTER'S LOG OF H.M.S. MERCURY Sepr 1775 Sunday 3d Remarks On,Mercury,MERCURY,title,/TaggedPDF-doc/div/doc[4]/title/ship
+NDAR_V02_0004,Mercury (Ship),Sunday 3d Remarks On Bd His Majt. Ship MERCURY [off Norfolk] A,Mercury,Mercury,dl,/TaggedPDF-doc/div/doc[4]/dl/ship
+NDAR_V02_0005,Otter (Sloop),"JOURNAL OF H.M. SLOOP OTTER , CAPTAIN MATTHEW SQUIRE Septem",Otter,OTTER,title,/TaggedPDF-doc/div/doc[5]/title/ship
+NDAR_V02_0012,Preston,"TO FRANCIS LEGGE Sir, PRESTON Boston 4 Sepr 1775",Preston,Preston,dl,/TaggedPDF-doc/div/doc[12]/dl/ship
+NDAR_V02_0013,Preston,MIRAL ROBERT DUFF Sir PRESTON Boston 4 Sepr 1775,Preston,Preston,dl,/TaggedPDF-doc/div/doc[13]/dl/ship
+NDAR_V02_0014,Somerset,"RAVES TO CAPTAIN EDWARD LE CRAS, H.M.S. SOMERSET , HALIFAX Sir Preston",Somerset,SOMERSET,title,/TaggedPDF-doc/div/doc[14]/title/ship
+NDAR_V02_0014,Preston,"SOMERSET, HALIFAX Sir PRESTON at Boston 4 Sepr 1775, Herewit",Preston,Preston,dl,/TaggedPDF-doc/div/doc[14]/dl/ship
+NDAR_V02_0015,Gaspee (Brig),"TO LIEUTENANT WILLIAM HUNTER, H.M. BRIG GASPEE Whereas it appears to me from",Gaspee,GASPEE,title,/TaggedPDF-doc/div/doc[15]/title/ship
+NDAR_V02_0016,Rose,"JOURNAL OF H.M.S. ROSE , CAPTAIN JAMES WALLACE Septr 1",Rose,ROSE,title,/TaggedPDF-doc/div/doc[16]/title/ship
+NDAR_V02_0017,Polly (Sloop),"ugust 29].1 . . . 1. The sloop POLLY , Samuel Perkins, master, from New Haven",Polly,Polly,note,/TaggedPDF-doc/div/doc[17]/note/ship[1]
+NDAR_V02_0017,Kingsfisher,"h cattle, horses and corn, taken by the KINGSFISHER , August 3, 1775, and condemned and sold",Kingsfisher,Kingsfisher,note,/TaggedPDF-doc/div/doc[17]/note/ship[2]
+NDAR_V02_0018,Spy (Schooner),s. 2. The Connecticut schooner SPY .,Spy,Spy,note,/TaggedPDF-doc/div/doc[18]/note/ship
+NDAR_V02_0024,Thomas (Ship),"last they were impressed from the ship THOMAS , James Crawford master, and put on boar",Thomas,Thomas,p,/TaggedPDF-doc/div/doc[24]/p[1]/ship[1]
+NDAR_V02_0024,Otter (Ship),"rn capt. Squires, of his majesty's ship OTTER , my warmest thanks for his very kind ho",Otter,Otter,p,/TaggedPDF-doc/div/doc[24]/p[1]/ship[2]
+NDAR_V02_0024,Otter (Ship),"rn capt. Squires, of his majesty's ship OTTER , my warmest thanks for his very kind ho",Otter,Otter,p,/TaggedPDF-doc/div/doc[24]/p[2]/ship[1]
+NDAR_V02_0024,Otter (Ship),"rn capt. Squires, of his majesty's ship OTTER , my warmest thanks for his very kind ho",Otter,Otter,p,/TaggedPDF-doc/div/doc[24]/p[2]/ship[2]
+NDAR_V02_0024,Otter (Ship),"rn capt. Squires, of his majesty's ship OTTER , my warmest thanks for his very kind ho",Otter,Otter,p,/TaggedPDF-doc/div/doc[24]/p[2]/ship[3]
+NDAR_V02_0025,Mercury,MASTER'S LOG OF H.M.S. MERCURY Sepr 1775 Monday 4th Remarks O,Mercury,MERCURY,title,/TaggedPDF-doc/div/doc[25]/title/ship
+NDAR_V02_0025,Mercury (Ship),Monday 4th Remarks On Bd His Majt. Ship MERCURY [off Norfolk] A,Mercury,Mercury,dl,/TaggedPDF-doc/div/doc[25]/dl/ship
+NDAR_V02_0026,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH Se",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[26]/title/ship
+NDAR_V02_0026,Tamar,"1. PRO, Admiralty 51/968. TAMAR frequently spelled Tamer in contemporar",Tamar,Tamar,src,/TaggedPDF-doc/div/doc[26]/src/ship[1]
+NDAR_V02_0026,Tamer,iralty 51/968. Tamar frequently spelled TAMER in contemporary documents.,Tamer,Tamer,src,/TaggedPDF-doc/div/doc[26]/src/ship[2]
+NDAR_V02_0028,Lively,"JOURNAL OF H.M.S. LIVELY , CAPTAIN THOMAS BISHOP Septr 1",Lively,LIVELY,title,/TaggedPDF-doc/div/doc[28]/title/ship
+NDAR_V02_0028,Unity,"PRO, Admiralty 51/546. 2. The UNITY , owned by John Langdon of Portsmouth, N",Unity,Unity,note,/TaggedPDF-doc/div/doc[28]/note/ship[1]
+NDAR_V02_0028,Hannah (Schooner),"tured September 7 by the armed schooner HANNAH , Captain Nicholson Broughton, of Washin",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[28]/note/ship[2]
+NDAR_V02_0029,Nautilus,AL SAMUEL GRAVES Copy NAUTILUS in Nantasket Road the 5th of September,Nautilus,Nautilus,dl,/TaggedPDF-doc/div/doc[29]/dl/ship
+NDAR_V02_0035,Tryal (Schooner),"LXXXV, 17, 18. 2. The schooner TRYAL , James Warden, master, taken by H.M. Sl",Tryal,Tryal,note,/TaggedPDF-doc/div/doc[35]/note[1]/ship[1]
+NDAR_V02_0035,Nautilus (Sloop),"mes Warden, master, taken by H.M. Sloop NAUTILUS . See Graves's Conduct, Prize List, II,",Nautilus,Nautilus,note,/TaggedPDF-doc/div/doc[35]/note[1]/ship[2]
+NDAR_V02_0035,Franklin (Galley),"he was appointed to the Command of the FRANKLIN Galley then just built."" Nicholas Biddl",Franklin,Franklin,note,/TaggedPDF-doc/div/doc[35]/note[2]/ship
+NDAR_V02_0036,Mercury,MASTER'S LOG OF H.M.S. MERCURY Sepr 1775 Tuesday 5th Rem[ark],Mercury,MERCURY,title,/TaggedPDF-doc/div/doc[36]/title/ship
+NDAR_V02_0036,Mercury (Ship),sday 5th Rem[ark]s on Bo His Majts Ship MERCURY [off Norfolk] A,Mercury,Mercury,dl,/TaggedPDF-doc/div/doc[36]/dl/ship
+NDAR_V02_0037,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH Se",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[37]/title/ship
+NDAR_V02_0040,Lively,"JOURNAL OF H.M.S. LIVELY , CAPTAIN THOMAS BISHOP Septr 1",Lively,LIVELY,title,/TaggedPDF-doc/div/doc[40]/title/ship
+NDAR_V02_0045,Preston,"O PHILIP STEPHENS Sir PRESTON Boston September 6, 1775",Preston,Preston,dl,/TaggedPDF-doc/div/doc[45]/dl/ship
+NDAR_V02_0046,Nancy (Brig),"Volume 1, 1212. 3. In the brig NANCY .",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[46]/note[2]/ship
+NDAR_V02_0047,Polly (Sloop),"ied into Boston.1 1. The sloop POLLY , Captain Samuel Perkins, from New Haven",Polly,Polly,src,/TaggedPDF-doc/div/doc[47]/src/ship[1]
+NDAR_V02_0047,Kingsfisher (Sloop),"orses and corn, was taken by H.M. Sloop KINGSFISHER ; the sloop Cherry, Captain Amos Munson,",Kingsfisher,Kingsfisher,src,/TaggedPDF-doc/div/doc[47]/src/ship[2]
+NDAR_V02_0047,Cherry (Sloop),"en by H.M. Sloop Kingsfisher; the sloop CHERRY , Captain Amos Munson, with a cargo of m",Cherry,Cherry,src,/TaggedPDF-doc/div/doc[47]/src/ship[3]
+NDAR_V02_0047,Rose,"molasses and sugar, was taken by H.M.S. ROSE . The sloop Polly was condemned and sold",Rose,Rose,src,/TaggedPDF-doc/div/doc[47]/src/ship[4]
+NDAR_V02_0047,Polly (Sloop),"ied into Boston.1 1. The sloop POLLY , Captain Samuel Perkins, from New Haven",Polly,Polly,src,/TaggedPDF-doc/div/doc[47]/src/ship[5]
+NDAR_V02_0047,Cherry (Sloop),"en by H.M. Sloop Kingsfisher; the sloop CHERRY , Captain Amos Munson, with a cargo of m",Cherry,Cherry,src,/TaggedPDF-doc/div/doc[47]/src/ship[6]
+NDAR_V02_0051,Sea Nymph (Brig),"of the letters found on board the brig SEA NYMPH , Joseph Bradford, master, taken by H.M.",Sea Nymph,Sea Nymph,src,/TaggedPDF-doc/div/doc[51]/src/ship[1]
+NDAR_V02_0051,Mercury,"oseph Bradford, master, taken by H.M.S. MERCURY , September 20, 1775. 2. Henry",Mercury,Mercury,src,/TaggedPDF-doc/div/doc[51]/src/ship[2]
+NDAR_V02_0051,Hannah (Sloop),"es Wynne, master and owner of the sloop HANNAH , with a cargo of rum and sugar, en rout",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[51]/note/ship[1]
+NDAR_V02_0051,Scarborough,"g from there, was intercepted by H.M.S. SCARBOROUGH , but was allowed to proceed. Graves's C",Scarborough,Scarborough,note,/TaggedPDF-doc/div/doc[51]/note/ship[2]
+NDAR_V02_0053,Mercury,"rfolk, are totally demolished; that the MERCURY Man of War there, is now lying in two f",Mercury,Mercury,note,/TaggedPDF-doc/div/doc[53]/note[2]/ship
+NDAR_V02_0054,Mercury,MASTER'S LOG OF H.M.S. MERCURY Sepr 1775 Wednesday 6th Rem[ar,Mercury,MERCURY,title,/TaggedPDF-doc/div/doc[54]/title/ship
+NDAR_V02_0054,Mercury (Ship),sday 6th Rem[ark]s on Bd His Majts Ship MERCURY [off Norfolk] A,Mercury,Mercury,dl,/TaggedPDF-doc/div/doc[54]/dl/ship
+NDAR_V02_0055,Argo,"TO CAPTAIN FRANCIS GRANT GORDON, H.M.S. ARGO Whereas I have been informed (",Argo,ARGO,title,/TaggedPDF-doc/div/doc[55]/title/ship
+NDAR_V02_0056,Unity,"5, Volume 1, 1287-1288. 3. The UNITY .",Unity,Unity,note,/TaggedPDF-doc/div/doc[56]/note[2]/ship
+NDAR_V02_0066,Sea Nymph,"66e. This letter was found on board the SEA NYMPH , taken by H.M.S. Mercury. 2. C",Sea Nymph,Sea Nymph,src,/TaggedPDF-doc/div/doc[66]/src/ship[1]
+NDAR_V02_0066,Mercury,"on board the Sea Nymph, taken by H.M.S. MERCURY . 2. Captain John Papley of the",Mercury,Mercury,src,/TaggedPDF-doc/div/doc[66]/src/ship[2]
+NDAR_V02_0066,Proteus (Snow),2. Captain John Papley of the snow PROTEUS which cleared the port of Philadelphia,Proteus,Proteus,note,/TaggedPDF-doc/div/doc[66]/note/ship
+NDAR_V02_0068,Otter (Sloop),"JOURNAL OF H.M. SLOOP OTTER , CAPTAIN MATTHEW SQUIRE Septem",Otter,OTTER,title,/TaggedPDF-doc/div/doc[68]/title/ship
+NDAR_V02_0069,Mercury,MASTER'S LOG OF H.M.S. MERCURY Sepr 1775 Thursday 7th Rem[ark,Mercury,MERCURY,title,/TaggedPDF-doc/div/doc[69]/title/ship
+NDAR_V02_0069,Mercury (Ship),sday 7th Rem[ark]s on Bd His Majts Ship MERCURY [off Norfolk] A,Mercury,Mercury,dl,/TaggedPDF-doc/div/doc[69]/dl/ship
+NDAR_V02_0072,Unity,"nd carried into Boston. 1. The UNITY ; taken en route to the West Indies, and",Unity,Unity,note,/TaggedPDF-doc/div/doc[72]/note/ship[1]
+NDAR_V02_0072,Hannah (Schooner),"s, and retaken by Washington's schooner HANNAH , Captain Nicholson Broughton.",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[72]/note/ship[2]
+NDAR_V02_0073,Lively,"JOURNAL OF H.M.S. LIVELY , CAPTAIN THOMAS BISHOP Septr 1",Lively,LIVELY,title,/TaggedPDF-doc/div/doc[73]/title/ship
+NDAR_V02_0073,Woolwich (Sloop),"2. The final prize was the sloop WOOLWICH , Benjamin Crocker, master, with lumber",Woolwich,Woolwich,note,/TaggedPDF-doc/div/doc[73]/note/ship
+NDAR_V02_0077,Rose,"JOURNAL OF H.M.S. ROSE , CAPTAIN JAMES WALLACE Septr 1",Rose,ROSE,title,/TaggedPDF-doc/div/doc[77]/title/ship
+NDAR_V02_0077,Neptune (Sloop),n the Charlotte T[ende]r with the Sloop NEPTUNE from Turks Island with Sugar and Salt.2,Neptune,Neptune,note,/TaggedPDF-doc/div/doc[77]/note/ship
+NDAR_V02_0080,Peggy (Ship),"t. Croix 1. Ships Papers, Ship PEGGY , NHS. 2. The ship",Peggy,Peggy,src,/TaggedPDF-doc/div/doc[80]/src/ship
+NDAR_V02_0080,Peggy (Ship),"t. Croix 1. Ships Papers, Ship PEGGY , NHS. 2. The ship",Peggy,Peggy,note,/TaggedPDF-doc/div/doc[80]/note/ship
+NDAR_V02_0081,Black Joke (Sloop),"selves. 1. The sloop BLACK JOKE , John Mackibbin, master, owned by Natha",Black Joke,Black Joke,note,/TaggedPDF-doc/div/doc[81]/note/ship
+NDAR_V02_0083,Friendship (Ship),"2. Frost was master of the 200 ton ship FRIENDSHIP , which had arrived at Annapolis, June 1",Friendship,Friendship,note,/TaggedPDF-doc/div/doc[83]/note[1]/ship
+NDAR_V02_0083,Sidney,inclose them to us. The Invoice of the SIDNEY 's Cargo you have already. we expect it,Sidney,Sidney,note,/TaggedPDF-doc/div/doc[83]/note[3]/ship[1]
+NDAR_V02_0083,Sidney,inclose them to us. The Invoice of the SIDNEY 's Cargo you have already. we expect it,Sidney,Sidney,note,/TaggedPDF-doc/div/doc[83]/note[3]/ship[2]
+NDAR_V02_0083,Sidney,inclose them to us. The Invoice of the SIDNEY 's Cargo you have already. we expect it,Sidney,Sidney,note,/TaggedPDF-doc/div/doc[83]/note[3]/ship[3]
+NDAR_V02_0083,Sidney,inclose them to us. The Invoice of the SIDNEY 's Cargo you have already. we expect it,Sidney,Sidney,note,/TaggedPDF-doc/div/doc[83]/note[3]/ship[4]
+NDAR_V02_0084,Mary (Brig),"Letter Book, MdHS. 2. The brig MARY , Robert Wallace, master, which arrived",Mary,Mary,note,/TaggedPDF-doc/div/doc[84]/note/ship
+NDAR_V02_0085,Betsey (Snow),hat you have done in Regard of the Snow BETSEY 2 are well pleas'd with her Sale. altho:,Betsey,Betsey,note,/TaggedPDF-doc/div/doc[85]/note/ship
+NDAR_V02_0087,Baltimore (Snow),"Book, MdHS. 2. Ibid., the snow BALTIMORE , Captain James Clark; see Smith to Jame",Baltimore,Baltimore,note,/TaggedPDF-doc/div/doc[87]/note[1]/ship
+NDAR_V02_0087,Union,er an Accot Sales & Accot Currt for the UNION 's Cargo3 to Mildred & Roberts. if Oppty,Union,Union,note,/TaggedPDF-doc/div/doc[87]/note[2]/ship
+NDAR_V02_0089,Kingsfisher (Sloop),"JOURNAL OF H.M. SLOOP KINGSFISHER , CAPTAIN JAMES MONTAGU Septr 1",Kingsfisher,KINGSFISHER,title,/TaggedPDF-doc/div/doc[89]/title/ship
+NDAR_V02_0090,Mercury,MASTER'S LOG OF H.M.S. MERCURY Sepr 1775 Friday 8th Rem[ark]s,Mercury,MERCURY,title,/TaggedPDF-doc/div/doc[90]/title/ship
+NDAR_V02_0090,Mercury (Ship),iday 8th Rem[ark]s on Bd His Majts Ship MERCURY [off Norfolk] A,Mercury,Mercury,dl,/TaggedPDF-doc/div/doc[90]/dl/ship
+NDAR_V02_0091,Mercury,"JOURNAL OF H.M.S. MERCURY , LIEUTENANT ALEXANDER GRAEME S",Mercury,MERCURY,title,/TaggedPDF-doc/div/doc[91]/title/ship
+NDAR_V02_0096,Rose,SAMUEL GRAVES (Copy) ROSE Rhode Island Septr 9th 1775,Rose,Rose,dl,/TaggedPDF-doc/div/doc[96]/dl/ship
+NDAR_V02_0097,Asia,"CAPTAIN GEORGE VANDEPUT, H.M.S. ASIA , TO ABRAHAM LOTT [Extract]",Asia,ASIA,title,/TaggedPDF-doc/div/doc[97]/title/ship
+NDAR_V02_0100,Sea Nymph,e for sundry Merchdz ship'd p the Briga SEA NYMPH Joseph Bradford Mastr on our Joint Acco,Sea Nymph,Sea Nymph,src,/TaggedPDF-doc/div/doc[100]/src/ship[1]
+NDAR_V02_0100,Mercury,oard the Sea Nymph when taken by H.M.S. MERCURY .,Mercury,Mercury,src,/TaggedPDF-doc/div/doc[100]/src/ship[2]
+NDAR_V02_0101,Mercury,"ard the Sea Nymph, when taken by H.M.S. MERCURY . 2. The ship Caesar, W. Miller",Mercury,Mercury,src,/TaggedPDF-doc/div/doc[101]/src/ship
+NDAR_V02_0101,Caesar (Ship),"by H.M.S. Mercury. 2. The ship CAESAR , W. Miller, master, which cleared Phila",Caesar,Caesar,note,/TaggedPDF-doc/div/doc[101]/note[1]/ship
+NDAR_V02_0102,Sea Nymph,6d. This letter also found on board the SEA NYMPH .,Sea Nymph,Sea Nymph,note,/TaggedPDF-doc/div/doc[102]/note/ship
+NDAR_V02_0104,Nell Gwyn,"nt on board a small schooner called the NELL GWYN . Our accomodations here were but bad, a",Nell Gwyn,Nell Gwyn,note,/TaggedPDF-doc/div/doc[104]/note/ship[1]
+NDAR_V02_0104,Choptank Frigate (Ship),"essel we reached our destined ship, the CHOPTANK FRIGATE , then lying off Quantico. Here we staye",Choptank Frigate,Choptank frigate,note,/TaggedPDF-doc/div/doc[104]/note/ship[2]
+NDAR_V02_0105,Mercury,"d continued most part of the night, the MERCURY man of war was drove from her station a",Mercury,Mercury,note,/TaggedPDF-doc/div/doc[105]/note/ship[1]
+NDAR_V02_0105,Otter,"f without a great deal of trouble.1 The OTTER 's tender went ashore in the night, near",Otter,Otter,note,/TaggedPDF-doc/div/doc[105]/note/ship[2]
+NDAR_V02_0105,Mercury,"d continued most part of the night, the MERCURY man of war was drove from her station a",Mercury,Mercury,note,/TaggedPDF-doc/div/doc[105]/note/ship[3]
+NDAR_V02_0106,Otter (Sloop),"JOHN HUNTER HOLT Sir, OTTER sloop, Norfolk river, September 9, 1775",Otter,Otter,dl,/TaggedPDF-doc/div/doc[106]/dl/ship
+NDAR_V02_0108,Lively,"JOURNAL OF H.M.S. LIVELY , CAPTAIN THOMAS BISHOP Septr 1",Lively,LIVELY,title,/TaggedPDF-doc/div/doc[108]/title/ship
+NDAR_V02_0108,Recourse (Schooner),"iralty 51/546. 2. The schooner RECOURSE , Steel, master, which ""being the proper",Recourse,Recourse,note,/TaggedPDF-doc/div/doc[108]/note/ship
+NDAR_V02_0110,Senegal,"TO CAPTAIN WILLIAM DUDDINGSTON, H.M.S. SENEGAL Whereas there is great Reason",Senegal,SENEGAL,title,/TaggedPDF-doc/div/doc[110]/title/ship
+NDAR_V02_0111,Somerset,"RAVES TO CAPTAIN EDWARD LE CRAS, H.M.S. SOMERSET Whereas during the Rebellion u",Somerset,SOMERSET,title,/TaggedPDF-doc/div/doc[111]/title/ship
+NDAR_V02_0113,Hunter (Sloop),"TO CAPTAIN THOMAS MACKENZIE, H.M. SLOOP HUNTER Whereas the Rebels have invade",Hunter,HUNTER,title,/TaggedPDF-doc/div/doc[113]/title/ship
+NDAR_V02_0114,Asia,"AVES TO CAPTAIN GEORGE VANDEPUT, H.M.S. ASIA [Extract] Preston",Asia,ASIA,title,/TaggedPDF-doc/div/doc[114]/title/ship
+NDAR_V02_0114,Preston,"H.M.S. ASIA [Extract] PRESTON Boston 10 September 1775,",Preston,Preston,dl,/TaggedPDF-doc/div/doc[114]/dl/ship
+NDAR_V02_0116,Enterprise,e 1 for numerous references to both the ENTERPRISE and the schooner Liberty which operated,Enterprise,Enterprise,src,/TaggedPDF-doc/div/doc[116]/src/ship[1]
+NDAR_V02_0116,Liberty (Schooner),to both the Enterprise and the schooner LIBERTY which operated on Lake Champlain.,Liberty,Liberty,src,/TaggedPDF-doc/div/doc[116]/src/ship[2]
+NDAR_V02_0119,Otter (Sloop),"COMMITTEE Gentlemen, OTTER Sloop, Norfolk river, September 10, 177",Otter,Otter,dl,/TaggedPDF-doc/div/doc[119]/dl/ship
+NDAR_V02_0120,Otter,resident. 2. The tender of the OTTER ; see Matthew Squire to the Committee of,Otter,Otter,note,/TaggedPDF-doc/div/doc[120]/note[1]/ship
+NDAR_V02_0120,Mercury,"tion of the storm, which also drove the MERCURY ashore, see Pinkney's Virginia Gazette,",Mercury,Mercury,note,/TaggedPDF-doc/div/doc[120]/note[3]/ship[1]
+NDAR_V02_0120,Mercury,"tion of the storm, which also drove the MERCURY ashore, see Pinkney's Virginia Gazette,",Mercury,Mercury,note,/TaggedPDF-doc/div/doc[120]/note[3]/ship[2]
+NDAR_V02_0121,Lively,"JOURNAL OF H.M.S. LIVELY , CAPTAIN THOMAS BISHOP Septr 1",Lively,LIVELY,title,/TaggedPDF-doc/div/doc[121]/title/ship
+NDAR_V02_0121,Joseph (Brig),"Islands in the West Indies,"" were brig JOSEPH , Enoch Pike, master; brig Abigail, Jno",Joseph,Joseph,note,/TaggedPDF-doc/div/doc[121]/note/ship[1]
+NDAR_V02_0121,Abigail (Brig),"e brig Joseph, Enoch Pike, master; brig ABIGAIL , Jno Wheelwright, master; ship Two Brot",Abigail,Abigail,note,/TaggedPDF-doc/div/doc[121]/note/ship[2]
+NDAR_V02_0121,Two Brothers (Ship),"Abigail, Jno Wheelwright, master; ship TWO BROTHERS , Elias Warner, master; brig Unity, Mark",Two Brothers,Two Brothers,note,/TaggedPDF-doc/div/doc[121]/note/ship[3]
+NDAR_V02_0121,Unity (Brig),"wo Brothers, Elias Warner, master; brig UNITY , Mark Fernauld, master; sloop Betsey, m",Unity,Unity,note,/TaggedPDF-doc/div/doc[121]/note/ship[4]
+NDAR_V02_0121,Betsey (Sloop),"rig Unity, Mark Fernauld, master; sloop BETSEY , master not named; ship Crisis, John Sa",Betsey,Betsey,note,/TaggedPDF-doc/div/doc[121]/note/ship[5]
+NDAR_V02_0121,Crisis (Ship),"r; sloop Betsey, master not named; ship CRISIS , John Salter, master; schooner Recourse",Crisis,Crisis,note,/TaggedPDF-doc/div/doc[121]/note/ship[6]
+NDAR_V02_0121,Recourse (Schooner),"p Crisis, John Salter, master; schooner RECOURSE , Steel, master. All were condemned and",Recourse,Recourse,note,/TaggedPDF-doc/div/doc[121]/note/ship[7]
+NDAR_V02_0121,Unity (Brig),"wo Brothers, Elias Warner, master; brig UNITY , Mark Fernauld, master; sloop Betsey, m",Unity,Unity,note,/TaggedPDF-doc/div/doc[121]/note/ship[8]
+NDAR_V02_0121,Recourse (Schooner),"p Crisis, John Salter, master; schooner RECOURSE , Steel, master. All were condemned and",Recourse,Recourse,note,/TaggedPDF-doc/div/doc[121]/note/ship[9]
+NDAR_V02_0122,Unity,"mbridge last Saturday.2 1. The UNITY . 2. Retaken by the Hannah, Nic",Unity,Unity,note,/TaggedPDF-doc/div/doc[122]/note[1]/ship
+NDAR_V02_0122,Hannah,". The Unity. 2. Retaken by the HANNAH , Nicholson Broughton, commanding.",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[122]/note[2]/ship
+NDAR_V02_0124,Katy (Sloop),braham Whipple ー Commander of the Sloop KATY in the Service of the said Colony.You a,Katy,Katy,p,/TaggedPDF-doc/div/doc[124]/p/ship
+NDAR_V02_0125,Rose,"Capt. Malbone was detained on board the ROSE man of war till last Thursday, and his",Rose,Rose,note,/TaggedPDF-doc/div/doc[125]/note/ship
+NDAR_V02_0129,Rose,"GRAVES TO CAPTAIN JAMES WALLACE, H.M.S. ROSE , RHODE ISLAND Sir Pre",Rose,ROSE,title,/TaggedPDF-doc/div/doc[129]/title/ship
+NDAR_V02_0129,Preston,"OSE, RHODE ISLAND Sir PRESTON Boston 12 September 1775 ー",Preston,Preston,dl,/TaggedPDF-doc/div/doc[129]/dl/ship
+NDAR_V02_0130,Preston,TO SAMUEL HOLLAND Sir PRESTON at Boston 12 Sepr 1775 Your Le,Preston,Preston,dl,/TaggedPDF-doc/div/doc[130]/dl/ship
+NDAR_V02_0131,Preston,"O PHILIP STEPHENS Sir PRESTON Boston Sepr 12, 1775.",Preston,Preston,dl,/TaggedPDF-doc/div/doc[131]/dl/ship
+NDAR_V02_0134,William (Ship),EL GRAVES (Copy) Ship WILLIAM in Elizabeth River by Norfolk 12 Septem,William,William,dl,/TaggedPDF-doc/div/doc[134]/dl/ship
+NDAR_V02_0135,Cruizer (Sloop),tract] No Carolina CRUIZER Sloop of War in Cape Fear River Septr 1,Cruizer,Cruizer,dl,/TaggedPDF-doc/div/doc[135]/dl/ship
+NDAR_V02_0135,Unity,"orth Carolina. 2. Probably the UNITY , Samuel Cooper, master.",Unity,Unity,note,/TaggedPDF-doc/div/doc[135]/note/ship
+NDAR_V02_0137,Asia,"AVES TO CAPTAIN GEORGE VANDEPUT, H.M.S. ASIA Whenever it may be in your Pow",Asia,ASIA,title,/TaggedPDF-doc/div/doc[137]/title/ship
+NDAR_V02_0138,Viper,"TO VICE ADMIRAL SAMUEL GRAVES [ VIPER , Boston Harbor] Sepr 13 1775 I",Viper,Viper,dl,/TaggedPDF-doc/div/doc[138]/dl/ship
+NDAR_V02_0139,Minerva (Brig),ommittee to take up and employ the brig MINERVA in the service of Connecticut. See Minu,Minerva,Minerva,note,/TaggedPDF-doc/div/doc[139]/note/ship
+NDAR_V02_0141,Rebecca and Frances,"1. For the eventual fate of the REBECCA & FRANCES , see Worthington C. Ford, et al., eds.,",Rebecca & Frances,Rebecca & Frances,note,/TaggedPDF-doc/div/doc[141]/note/ship
+NDAR_V02_0142,Minerva (Ship),"the storm are recorded thus: ""The Ship MINERVA , Capt. Ewing, from this Port, for Maryl",Minerva,Minerva,note,/TaggedPDF-doc/div/doc[142]/note/ship[1]
+NDAR_V02_0142,Hibernia (Ship),"m this Port, for Maryland, and the Ship HIBERNIA , from Ireland for this place, are both",Hibernia,Hibernia,note,/TaggedPDF-doc/div/doc[142]/note/ship[2]
+NDAR_V02_0142,Friendship (Ship),"and Samuel Jackson, owners of the ship FRIENDSHIP , Thomas Jann, Master, was presented to",Friendship,Friendship,note,/TaggedPDF-doc/div/doc[142]/note/ship[3]
+NDAR_V02_0145,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH Se",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[145]/title/ship
+NDAR_V02_0145,Swallow,P M sent the Cutter Armed on Board the SWALLOW Packet2 and took the Mail out to presir,Swallow,Swallow,note,/TaggedPDF-doc/div/doc[145]/note/ship
+NDAR_V02_0147,Lady Catherine,"ed put on board of a Vessel, Called the LADY CATHERINE , belonging to Virginia, bound to Philad",Lady Catherine,Lady Catherine,note,/TaggedPDF-doc/div/doc[147]/note[1]/ship[1]
+NDAR_V02_0147,Charles Town and Savannah Packet,"erine was George Ord; the master of the CHARLES TOWN AND SAVANNAH PACKET , John Turner. 3. Vice Admiral",Charles Town and Savannah Packet,Charles Town and Savannah Packet,note,/TaggedPDF-doc/div/doc[147]/note[1]/ship[2]
+NDAR_V02_0148,Unity,are of the Main-Guard.2 1. The UNITY . 2. See Nicholson Broughton's,Unity,Unity,note,/TaggedPDF-doc/div/doc[148]/note[1]/ship
+NDAR_V02_0149,Pomona (Ship),"n October 1775, a passenger in the ship POMONA , John Green, master.",Pomona,Pomona,note,/TaggedPDF-doc/div/doc[149]/note/ship
+NDAR_V02_0156,Scarborough,"List, II, 36-38, BM, indicates that the SCARBOROUGH took the sloop Hannah, Henry Lascelles",Scarborough,Scarborough,note,/TaggedPDF-doc/div/doc[156]/note/ship[1]
+NDAR_V02_0156,Hannah (Sloop),"tes that the Scarborough took the sloop HANNAH , Henry Lascelles Wynne, master, from Ja",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[156]/note/ship[2]
+NDAR_V02_0159,Mary and Elizabeth (Ship),"ter badly torn. 2. In the ship MARY AND ELIZABETH from London. 3. On May 25, 177",Mary and Elizabeth,Mary and Elizabeth,note,/TaggedPDF-doc/div/doc[159]/note[1]/ship
+NDAR_V02_0166,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , EDWARD THORNBROUGH September",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[166]/title/ship
+NDAR_V02_0168,Betsey (Brig),"r letters and papers, on board the brig BETSEY , sent into Beverly by John Manley.",Betsey,Betsey,src,/TaggedPDF-doc/div/doc[168]/src/ship
+NDAR_V02_0168,Prosper (Ship),"ere was appointed commander of the ship PROSPER on November 14, 1775, and declined the",Prosper,Prosper,note,/TaggedPDF-doc/div/doc[168]/note[1]/ship
+NDAR_V02_0169,Tamer,"P.S. I am told Cap Thornborough of the TAMER , lies at Charlestown in a total state o",Tamer,Tamer,p2,/TaggedPDF-doc/div/doc[169]/p2/ship
+NDAR_V02_0169,Betsey (Brig),"e letter, found on board the prize brig BETSEY , was forwarded to Congress in George Wa",Betsey,Betsey,src,/TaggedPDF-doc/div/doc[169]/src/ship
+NDAR_V02_0171,Scarborough,"JOURNAL OF H.M.S. SCARBOROUGH , CAPTAIN ANDREW BARKLEY Septr",Scarborough,SCARBOROUGH,title,/TaggedPDF-doc/div/doc[171]/title/ship
+NDAR_V02_0171,Hannah (Sloop),"Admiralty 51/867. 2. The sloop HANNAH , Henry Lascelles Wynne, master, with ru",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[171]/note/ship
+NDAR_V02_0172,Scorpion (Sloop),", CL. 2. Commanding H.M. Sloop SCORPION .",Scorpion,Scorpion,note,/TaggedPDF-doc/div/doc[172]/note/ship
+NDAR_V02_0173,St. Lawrence (Schooner),"O LIEUTENANT JOHN GRAVES, H.M. SCHOONER ST. LAWRENCE You are hereby required and di",St. Lawrence,ST. LAWRENCE,title,/TaggedPDF-doc/div/doc[173]/title/ship
+NDAR_V02_0174,Arundel (Schooner),"or Virginia in Dunmore's armed schooner ARUNDEL on September 20, 1775, and, according t",Arundel,Arundel,note,/TaggedPDF-doc/div/doc[174]/note/ship
+NDAR_V02_0176,Rose,"JOURNAL OF H.M.S. ROSE , CAPTAIN JAMES WALLACE Septr 1",Rose,ROSE,title,/TaggedPDF-doc/div/doc[176]/title/ship
+NDAR_V02_0176,Phoenix,"PRO, Admiralty 51/804. 2. The PHOENIX was bound to Jamaica. She was still und",Phoenix,Phoenix,note,/TaggedPDF-doc/div/doc[176]/note/ship
+NDAR_V02_0181,Otter (Sloop),"JOURNAL OF H.M. SLOOP OTTER , CAPTAIN MATTHEW SQUIRE Septem",Otter,OTTER,title,/TaggedPDF-doc/div/doc[181]/title/ship
+NDAR_V02_0186,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH Se",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[186]/title/ship
+NDAR_V02_0188,Tamar (Sloop),"October 5, 1775. 2. H.M. Sloop TAMAR , H.M. Armed Vessel Cherokee, and the pa",Tamar,Tamar,note,/TaggedPDF-doc/div/doc[188]/note/ship[1]
+NDAR_V02_0188,Cherokee,"2. H.M. Sloop Tamar, H.M. Armed Vessel CHEROKEE , and the packet boats Falmouth and Swal",Cherokee,Cherokee,note,/TaggedPDF-doc/div/doc[188]/note/ship[2]
+NDAR_V02_0188,Falmouth (Boat),"d Vessel Cherokee, and the packet boats FALMOUTH and Swallow.",Falmouth,Falmouth,note,/TaggedPDF-doc/div/doc[188]/note/ship[3]
+NDAR_V02_0188,Swallow,"okee, and the packet boats Falmouth and SWALLOW .",Swallow,Swallow,note,/TaggedPDF-doc/div/doc[188]/note/ship[4]
+NDAR_V02_0199,Otter (Ship),"er of his majesty's ship OTTER , lying in Hampton road. Sir,",Otter,Otter,sal,/TaggedPDF-doc/div/doc[199]/sal[1]/ship
+NDAR_V02_0201,Tamar (Sloop),"JOURNAL OF H. M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH, S",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[201]/title/ship
+NDAR_V02_0205,Tartar,"JOURNAL OF H.M.S. TARTAR , CAPTAIN EDWARD MEDOWS Septer",Tartar,TARTAR,title,/TaggedPDF-doc/div/doc[205]/title/ship
+NDAR_V02_0205,Tartar (Sloop),"Admiralty 51/972. 2. The sloop TARTAR , Isaac Soames, master, with molasses, s",Tartar,Tartar,note,/TaggedPDF-doc/div/doc[205]/note/ship
+NDAR_V02_0208,Rose,"GRAVES TO CAPTAIN JAMES WALLACE, H.M.S. ROSE Preston Boston 17",Rose,ROSE,title,/TaggedPDF-doc/div/doc[208]/title/ship
+NDAR_V02_0208,Preston,"TAIN JAMES WALLACE, H.M.S.ROSE PRESTON Boston 17 Septr 1775,",Preston,Preston,dl,/TaggedPDF-doc/div/doc[208]/dl/ship
+NDAR_V02_0210,Nautilus (Sloop),"DER TO CAPTAIN JOHN COLLINS, H.M. SLOOP NAUTILUS You are hereby required and di",Nautilus,NAUTILUS,title,/TaggedPDF-doc/div/doc[210]/title/ship
+NDAR_V02_0211,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Sept 75 Sunday 17 Remarks in B,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[211]/title/ship
+NDAR_V02_0212,Swan (Sloop),"JOURNAL OF H.M. SLOOP SWAN , CAPTAIN JAMES AYSCOUGH Septem",Swan,SWAN,title,/TaggedPDF-doc/div/doc[212]/title/ship
+NDAR_V02_0213,Mercury,"JOURNAL OF H.M.S. MERCURY , LIEUTENANT ALEXANDER GRAEME S",Mercury,MERCURY,title,/TaggedPDF-doc/div/doc[213]/title/ship
+NDAR_V02_0213,Harlequin (Sloop),"Admiralty 51/600. 2. The sloop HARLEQUIN , Billings Thropp, master, from Newport",Harlequin,Harlequin,note,/TaggedPDF-doc/div/doc[213]/note/ship
+NDAR_V02_0218,Fowey,"JOURNAL OF H.M.S. FOWEY , CAPTAIN GEORGE MONTAGU Septem",Fowey,FOWEY,title,/TaggedPDF-doc/div/doc[218]/title/ship
+NDAR_V02_0219,Industry (Brigantine),TION PROCEEDINGS AGAINST THE BRIGANTINE INDUSTRY Province of the Massachusetts,Industry,INDUSTRY,title,/TaggedPDF-doc/div/doc[219]/title/ship
+NDAR_V02_0219,Industry (Brigantine),"f the Massachusetts Bay, The Brigantine INDUSTRY , whereof John McFarland was then Master",Industry,Industry,p2,/TaggedPDF-doc/div/doc[219]/p2/ship
+NDAR_V02_0219,Industry (Brigantine),"f the Massachusetts Bay, The Brigantine INDUSTRY , whereof John McFarland was then Master",Industry,Industry,note,/TaggedPDF-doc/div/doc[219]/note/ship
+NDAR_V02_0221,Swan (Sloop),"JOURNAL OF H.M. SLOOP SWAN , CAPTAIN JAMES AYSCOUGH Septem",Swan,SWAN,title,/TaggedPDF-doc/div/doc[221]/title/ship
+NDAR_V02_0222,Phoenix (Sloop),"5, with footnote. 2. The sloop PHOENIX , John Sheridan, master, with flour, sug",Phoenix,Phoenix,note,/TaggedPDF-doc/div/doc[222]/note/ship
+NDAR_V02_0228,Baltimore,"ON, DUBLIN [Extract] [ BALTIMORE ] 18th Septr 1775 I wrote you U",Baltimore,Baltimore,note,/TaggedPDF-doc/div/doc[228]/note[1]/ship
+NDAR_V02_0228,Industry (Schooner),urther identified. 3. Schooner INDUSTRY .,Industry,Industry,note,/TaggedPDF-doc/div/doc[228]/note[2]/ship
+NDAR_V02_0229,Otter (Sloop),"LORD DUNMORE My Lord, OTTER Sloop, Hampton Road, 18 Sept. [17]75.",Otter,Otter,dl,/TaggedPDF-doc/div/doc[229]/dl/ship
+NDAR_V02_0230,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH Se",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[230]/title/ship
+NDAR_V02_0232,Swallow,[Charleston] 18 Septemr 1775 p SWALLOW Packet The King's Officers hav,Swallow,Swallow,sal,/TaggedPDF-doc/div/doc[232]/sal[2]/ship
+NDAR_V02_0233,Scorpion (Sloop),"ember 18]2 Dear S. George The SCORPION Sloop of War, commanded by The Honble C",Scorpion,Scorpion,note,/TaggedPDF-doc/div/doc[233]/note[1]/ship
+NDAR_V02_0233,Scorpion (Sloop),"ember 18]2 Dear S. George The SCORPION Sloop of War, commanded by The Honble C",Scorpion,Scorpion,note,/TaggedPDF-doc/div/doc[233]/note[3]/ship
+NDAR_V02_0237,Woodbridge,"u have heard in this, of the Scho[one]r WOODBRIDGE Capt [John] Williamson, being carried i",Woodbridge,Woodbridge,note,/TaggedPDF-doc/div/doc[237]/note[2]/ship[1]
+NDAR_V02_0237,Merlin (Sloop),"sold. She had been taken by H.M. Sloop MERLIN , when bound from Philadelphia to Newbur",Merlin,Merlin,note,/TaggedPDF-doc/div/doc[237]/note[2]/ship[2]
+NDAR_V02_0241,Minerva (Brigantine),R POWDER FOR THE CONNECTICUT BRIGANTINE MINERVA Received of Nathaniel Shaw Jun,Minerva,MINERVA,title,/TaggedPDF-doc/div/doc[241]/title/ship
+NDAR_V02_0246,Fowey,2. Captains respectively of H.M.S. FOWEY and Otter. 3. An erroneous rep,Fowey,Fowey,note,/TaggedPDF-doc/div/doc[246]/note[1]/ship[1]
+NDAR_V02_0246,Otter,ptains respectively of H.M.S. Fowey and OTTER . 3. An erroneous report.,Otter,Otter,note,/TaggedPDF-doc/div/doc[246]/note[1]/ship[2]
+NDAR_V02_0247,Tamer (Sloop),"TO HENRY LAURENS Sir, TAMER Sloop, Rebellion Road. So. Carolina, 19",Tamer,Tamer,dl,/TaggedPDF-doc/div/doc[247]/dl/ship
+NDAR_V02_0251,Rose (Ship),"nders, belonging to his Majesty's Ships ROSE , James Wallis, Esq., commander, and Gla",Rose,Rose,note,/TaggedPDF-doc/div/doc[251]/note[1]/ship[1]
+NDAR_V02_0251,Charlotte,"y, September 8, 1775: ""A.M. came in the CHARLOTTE Jr. with the Sloop Neptune from Turks I",Charlotte,Charlotte,note,/TaggedPDF-doc/div/doc[251]/note[1]/ship[2]
+NDAR_V02_0251,Neptune (Sloop),"Lemuel Brooks, late master of the Sloop NEPTUNE ,2 of, and belonging to Connecticut, and",Neptune,Neptune,note,/TaggedPDF-doc/div/doc[251]/note[1]/ship[3]
+NDAR_V02_0251,Neptune (Sloop),"Lemuel Brooks, late master of the Sloop NEPTUNE ,2 of, and belonging to Connecticut, and",Neptune,Neptune,note,/TaggedPDF-doc/div/doc[251]/note[2]/ship
+NDAR_V02_0258,Washington,ander of the Packet ー WASHINGTON on the Opening these Orders You are to,Washington,Washington,src,/TaggedPDF-doc/div/doc[258]/src/ship
+NDAR_V02_0264,Mercury,"JOURNAL OF H.M.S. MERCURY , LIEUTENANT ALEXANDER GRAEME S",Mercury,MERCURY,title,/TaggedPDF-doc/div/doc[264]/title/ship
+NDAR_V02_0264,Sea Nymph (Brig),"Admiralty 51/600. 2. The brig SEA NYMPH , Joseph Bradford, master, with flour, i",Sea Nymph,Sea Nymph,note,/TaggedPDF-doc/div/doc[264]/note/ship[1]
+NDAR_V02_0264,Sea Nymph (Brig),"Admiralty 51/600. 2. The brig SEA NYMPH , Joseph Bradford, master, with flour, i",Sea Nymph,Sea Nymph,note,/TaggedPDF-doc/div/doc[264]/note/ship[2]
+NDAR_V02_0266,Tamer,NERAL THOMAS GAGE Sir TAMER in Rebelion Road 20th Sept 1775,Tamer,Tamer,dl,/TaggedPDF-doc/div/doc[266]/dl/ship
+NDAR_V02_0266,Betsey (Brig),"ers and papers, on board the prize brig BETSEY , sent into Beverly by John Manley.",Betsey,Betsey,src,/TaggedPDF-doc/div/doc[266]/src/ship
+NDAR_V02_0271,Unity (Ship),&c.[Endorsed] To the Owner of the Ship UNITY 1. HUL. John Langdon,Unity,Unity,src,/TaggedPDF-doc/div/doc[271]/src/ship
+NDAR_V02_0273,Lively,"GRAVES TO CAPTAIN THOMAS BISHOP, H.M.S. LIVELY The Transports named in the in",Lively,LIVELY,title,/TaggedPDF-doc/div/doc[273]/title/ship
+NDAR_V02_0274,Black Joke (Sloop),"1. Gage Papers, CL. 2. Sloop BLACK JOKE , John Mackibbin master, from New London",Black Joke,Black Joke,note,/TaggedPDF-doc/div/doc[274]/note/ship[1]
+NDAR_V02_0274,Rose,"w London for Jamaica, sent in by H.M.S. ROSE , and later condemned and sold. See Grav",Rose,Rose,note,/TaggedPDF-doc/div/doc[274]/note/ship[2]
+NDAR_V02_0278,Ninety Two (Schooner),"Isaiah Stetson, master of the schooner NINETY-TWO which had cleared for Bristol from Mary",Ninety Two,Ninety-Two,src,/TaggedPDF-doc/div/doc[278]/src/ship
+NDAR_V02_0283,Hannah,"foregoing were the mutinous crew of the HANNAH , referred to in Washington's letter to",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[283]/note/ship
+NDAR_V02_0288,Preston,O PHILIP STEPHENS Sir PRESTON Boston Sept 22. 1775 ー,Preston,Preston,dl,/TaggedPDF-doc/div/doc[288]/dl/ship
+NDAR_V02_0289,Nautilus (Sloop),"JOURNAL OF H.M. SLOOP NAUTILUS , CAPTAIN JOHN COLLINS Septembe",Nautilus,NAUTILUS,title,/TaggedPDF-doc/div/doc[289]/title/ship
+NDAR_V02_0289,Polly (Brig),"k; the New York Pilot Boat was the brig POLLY , Joseph Lee, master, with rum, sugar an",Polly,Polly,note,/TaggedPDF-doc/div/doc[289]/note/ship[1]
+NDAR_V02_0289,St. James,"as condemned and sold. The brig was the ST. JAMES , David Huntington, master, with rum, su",St. James,St. James,note,/TaggedPDF-doc/div/doc[289]/note/ship[2]
+NDAR_V02_0292,Jenny and Polly (Ship),"Letter Book, MdHS. 2. The ship JENNY & POLLY , 100 tons, Thomas Johnson, master, whic",Jenny & Polly,Jenny & Polly,note,/TaggedPDF-doc/div/doc[292]/note[1]/ship
+NDAR_V02_0292,Hercules,ive a port. We are Gent [&c.][P.S.] The HERCULES 3 who arriv'd with the J. & P. will conv,Hercules,Hercules,note,/TaggedPDF-doc/div/doc[292]/note[2]/ship
+NDAR_V02_0293,Sidney,"ufferers on this Occasion 'Tis true the SIDNEY was old, but till this Voyage had carri",Sidney,Sidney,note,/TaggedPDF-doc/div/doc[293]/note/ship[1]
+NDAR_V02_0293,Sidney,"ufferers on this Occasion 'Tis true the SIDNEY was old, but till this Voyage had carri",Sidney,Sidney,note,/TaggedPDF-doc/div/doc[293]/note/ship[2]
+NDAR_V02_0294,Magdalen (Schooner),LC. 2. His Majesty's Schooner MAGDALEN .,Magdalen,Magdalen,note,/TaggedPDF-doc/div/doc[294]/note/ship
+NDAR_V02_0296,Kingsfisher (Sloop),"JOURNAL OF H.M. SLOOP KINGSFISHER , CAPTAIN JAMES MONTAGU Septr 1",Kingsfisher,KINGSFISHER,title,/TaggedPDF-doc/div/doc[296]/title/ship
+NDAR_V02_0308,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH Se",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[308]/title/ship
+NDAR_V02_0308,Polly (Schooner),So Carolina ー P M detained the POLLY Schooner Stone Master2 on Account of he,Polly,Polly,note,/TaggedPDF-doc/div/doc[308]/note/ship
+NDAR_V02_0310,Polly (Schooner),"lection, SCHS. 2. The schooner POLLY , from Santee for Charleston, Shuldham's",Polly,Polly,note,/TaggedPDF-doc/div/doc[310]/note/ship
+NDAR_V02_0312,Phillipa (Ship),vernor of Georgia. 2. The ship PHILLIPA .,Phillipa,Phillipa,note,/TaggedPDF-doc/div/doc[312]/note/ship
+NDAR_V02_0316,Asia,"AVES TO CAPTAIN GEORGE VANDEPUT, H.M.S. ASIA , NEW YORK [Extract] P",Asia,ASIA,title,/TaggedPDF-doc/div/doc[316]/title/ship
+NDAR_V02_0316,Preston,"A, NEW YORK [Extract] PRESTON Boston Sepr 24. 1775",Preston,Preston,dl,/TaggedPDF-doc/div/doc[316]/dl/ship
+NDAR_V02_0317,Asia,"AVES TO CAPTAIN GEORGE VANDEPUT, H.M.S. ASIA , NEW YORK Whereas General Gage",Asia,ASIA,title,/TaggedPDF-doc/div/doc[317]/title/ship
+NDAR_V02_0318,Charlotte (Sloop),"b Commander of his Majs Hired Sloop The CHARLOTTE 1. Graves's Conduct, Appendix,",Charlotte,Charlotte,p2,/TaggedPDF-doc/div/doc[318]/p2/ship
+NDAR_V02_0319,Lively,"JOURNAL OF H.M.S. LIVELY , CAPTAIN THOMAS BISHOP Septemb",Lively,LIVELY,title,/TaggedPDF-doc/div/doc[319]/title/ship
+NDAR_V02_0319,Lively,"51/546. 2. Under convoy of the LIVELY , bound to Penobscot for wood.",Lively,Lively,note,/TaggedPDF-doc/div/doc[319]/note/ship
+NDAR_V02_0320,Viper (Sloop),"JOURNAL OF H.M. SLOOP VIPER , LIEUTENANT SAMUEL GRAVES Sept",Viper,VIPER,title,/TaggedPDF-doc/div/doc[320]/title/ship
+NDAR_V02_0320,Three Brothers,"PRO, Admiralty 51/1039. 2. The THREE BROTHERS (not the Two Brothers), Isaac Easton, m",Three Brothers,Three Brothers,note,/TaggedPDF-doc/div/doc[320]/note/ship[1]
+NDAR_V02_0320,Two Brothers,ps sent A Petty Officer & 2 Men in the TWO BROTHERS to Boston2 & fitted out the other for a,Two Brothers,Two Brothers,note,/TaggedPDF-doc/div/doc[320]/note/ship[2]
+NDAR_V02_0321,Otter (Sloop),"JOURNAL OF H.M. SLOOP OTTER , CAPTAIN MATTHEW SQUIRE Septem",Otter,OTTER,title,/TaggedPDF-doc/div/doc[321]/title/ship
+NDAR_V02_0322,William (Ship),TH [Extract] The Ship WILLIAM in Elizabeth River Virginia 24th Septem,William,William,dl,/TaggedPDF-doc/div/doc[322]/dl/ship
+NDAR_V02_0329,Spy (Schooner),2. For the Connecticut schooner SPY .,Spy,Spy,note,/TaggedPDF-doc/div/doc[329]/note/ship
+NDAR_V02_0334,Two Brothers (Brig),"1. Captain Peter Brewster, of the brig TWO BROTHERS . 2. Captain James Hanrick.",Two Brothers,Two Brothers,src,/TaggedPDF-doc/div/doc[334]/src/ship
+NDAR_V02_0342,Cerberus,"JOURNAL OF H.M.S. CERBERUS , CAPTAIN JOHN SYMONS Sept. 177",Cerberus,CERBERUS,title,/TaggedPDF-doc/div/doc[342]/title/ship
+NDAR_V02_0343,Preston,O PHILIP STEPHENS Sir PRESTON Boston 26 Sepr 1775.,Preston,Preston,dl,/TaggedPDF-doc/div/doc[343]/dl/ship
+NDAR_V02_0344,Viper (Sloop),"JOURNAL OF H.M. SLOOP VIPER , LIEUTENANT SAMUEL GRAVES Sept",Viper,VIPER,title,/TaggedPDF-doc/div/doc[344]/title/ship
+NDAR_V02_0355,Lively,"JOURNAL OF H.M.S. LIVELY , CAPTAIN THOMAS BISHOP Septemb",Lively,LIVELY,title,/TaggedPDF-doc/div/doc[355]/title/ship
+NDAR_V02_0360,Phoenix (Sloop),The vessels referred to were the sloop PHOENIX and the schooner Woodbridge. See the jo,Phoenix,Phoenix,note,/TaggedPDF-doc/div/doc[360]/note/ship[1]
+NDAR_V02_0360,Woodbridge (Schooner),"were the sloop Phoenix and the schooner WOODBRIDGE . See the journal of H.M.S. Rose, June 2",Woodbridge,Woodbridge,note,/TaggedPDF-doc/div/doc[360]/note/ship[2]
+NDAR_V02_0360,Rose,"r Woodbridge. See the journal of H.M.S. ROSE , June 25, 1775, Volume 1, 750-751, and",Rose,Rose,note,/TaggedPDF-doc/div/doc[360]/note/ship[3]
+NDAR_V02_0360,Merlin (Sloop),"750-751, and the journal of H.M. Sloop MERLIN , July 31, 1775; Volume 1, 1016.",Merlin,Merlin,note,/TaggedPDF-doc/div/doc[360]/note/ship[4]
+NDAR_V02_0361,Otter (Sloop),"JOURNAL OF H.M. SLOOP OTTER , CAPTAIN MATTHEW SQUIRE Septem",Otter,OTTER,title,/TaggedPDF-doc/div/doc[361]/title/ship
+NDAR_V02_0367,Lively,"JOURNAL OF H.M.S. LIVELY , CAPTAIN THOMAS BISHOP Septemb",Lively,LIVELY,title,/TaggedPDF-doc/div/doc[367]/title/ship
+NDAR_V02_0367,Lively,"eet of vessels, under protection of the LIVELY , continued in Penobscot River and Bay,",Lively,Lively,note,/TaggedPDF-doc/div/doc[367]/note/ship[1]
+NDAR_V02_0367,Lively's,h no incident of moment recorded in the LIVELY'S Journal.,Lively's,Lively's,note,/TaggedPDF-doc/div/doc[367]/note/ship[2]
+NDAR_V02_0370,Dolphin (Brigantine),"l. 206, 383. 2. The brigantine DOLPHIN . 3. See ""Extract of a letter f",Dolphin,Dolphin,note,/TaggedPDF-doc/div/doc[370]/note[1]/ship
+NDAR_V02_0374,Dolphin,"orsed by the recipient. 3. The DOLPHIN and the Industry, respectively.",Dolphin,Dolphin,note,/TaggedPDF-doc/div/doc[374]/note[2]/ship[1]
+NDAR_V02_0374,Industry,"ipient. 3. The Dolphin and the INDUSTRY , respectively.",Industry,Industry,note,/TaggedPDF-doc/div/doc[374]/note[2]/ship[2]
+NDAR_V02_0375,Preston,TO GEORGE BRUERE Sir PRESTON Boston 28th Sepr 1775.,Preston,Preston,dl,/TaggedPDF-doc/div/doc[375]/dl/ship
+NDAR_V02_0376,Phoenix (Sloop),"duct, I, 135-136, BM. 2. Sloop PHOENIX , John Sheridan, master.",Phoenix,Phoenix,note,/TaggedPDF-doc/div/doc[376]/note/ship
+NDAR_V02_0377,Viper (Sloop),"JOURNAL OF H.M. SLOOP VIPER , LIEUTENANT SAMUEL GRAVES Sept",Viper,VIPER,title,/TaggedPDF-doc/div/doc[377]/title/ship
+NDAR_V02_0378,Rose,"RAL SAMUEL GRAVES Sir ROSE Rhode Island Septr 28, 1775",Rose,Rose,dl,/TaggedPDF-doc/div/doc[378]/dl/ship
+NDAR_V02_0378,Sally (Brig),"pendix, 94-95, BM. 2. The brig SALLY , John Darling, master, bound for Nantuc",Sally,Sally,note,/TaggedPDF-doc/div/doc[378]/note/ship
+NDAR_V02_0383,Otter,"ngham, the Franklin, the Dickenson, the OTTER , the Bull Dog, and one more, whose Name",Otter,Otter,note,/TaggedPDF-doc/div/doc[383]/note[1]/ship[1]
+NDAR_V02_0383,Ranger,"called the Otter. This was probably the RANGER , and the forgotten one, the Chatham.",Ranger,Ranger,note,/TaggedPDF-doc/div/doc[383]/note[1]/ship[2]
+NDAR_V02_0383,Chatham,"the Ranger, and the forgotten one, the CHATHAM . 3. All first names in bracket",Chatham,Chatham,note,/TaggedPDF-doc/div/doc[383]/note[1]/ship[3]
+NDAR_V02_0385,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH Se",Tamar,Tamar,title,/TaggedPDF-doc/div/doc[385]/title/ship
+NDAR_V02_0385,Cherokee,Sail and fired a Gun as a Signal to the CHEROKEE 2 At 4 Anchored with the Bt Br in 5 fm,Cherokee,Cherokee,note,/TaggedPDF-doc/div/doc[385]/note/ship[1]
+NDAR_V02_0385,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH Se",Tamar,Tamar,note,/TaggedPDF-doc/div/doc[385]/note/ship[2]
+NDAR_V02_0386,Falcon,"HN BROWN TO CAPTAIN JOHN LINZEE, H.M.S. FALCON Sir New Providence 28",Falcon,FALCON,title,/TaggedPDF-doc/div/doc[386]/title/ship
+NDAR_V02_0391,Symmetry (Transport),2. To report on board the transport SYMMETRY for an expedition under the command of,Symmetry,Symmetry,note,/TaggedPDF-doc/div/doc[391]/note/ship
+NDAR_V02_0399,Kingsfisher (Sloop),"JOURNAL OF H.M. SLOOP KINGSFISHER , CAPTAIN JAMES MONTAGU Septr 1",Kingsfisher,KINGSFISHER,title,/TaggedPDF-doc/div/doc[399]/title/ship
+NDAR_V02_0399,Kingsfisher,ust within the Virginia capes by H.M.S. KINGSFISHER . His interception was likely by the ten,Kingsfisher,Kingsfisher,note,/TaggedPDF-doc/div/doc[399]/note/ship[1]
+NDAR_V02_0399,Kingsfisher,ust within the Virginia capes by H.M.S. KINGSFISHER . His interception was likely by the ten,Kingsfisher,Kingsfisher,note,/TaggedPDF-doc/div/doc[399]/note/ship[2]
+NDAR_V02_0399,Kingfisher,"officers, and the gaping mouths of the ' KINGFISHER ,' from making such an exhibition of his",Kingfisher,Kingfisher,note,/TaggedPDF-doc/div/doc[399]/note/ship[3]
+NDAR_V02_0400,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH Se",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[400]/title/ship
+NDAR_V02_0401,Tamer (Sloop),"olina, &c. on board his Majesty's Sloop TAMER , in Rebellion road. 1. Drayton",Tamer,Tamer,p2,/TaggedPDF-doc/div/doc[401]/p2/ship
+NDAR_V02_0404,Betsey (Brig),"ers and papers, on board the prize brig BETSEY , sent into Beverly by John Manley.",Betsey,Betsey,src,/TaggedPDF-doc/div/doc[404]/src/ship
+NDAR_V02_0408,Dolphin (Brigantine),"175-176, NA. 2. The brigantine DOLPHIN , carried into Gloucester.",Dolphin,Dolphin,note,/TaggedPDF-doc/div/doc[408]/note/ship
+NDAR_V02_0410,Dolphin (Brigantine),"al Congress. 2. The brigantine DOLPHIN , taken by Gloucester fishermen, not by",Dolphin,Dolphin,note,/TaggedPDF-doc/div/doc[410]/note/ship
+NDAR_V02_0415,Preston,TO FRANCIS LEGGE Sir PRESTON Boston 30th Sepr 1775,Preston,Preston,dl,/TaggedPDF-doc/div/doc[415]/dl/ship
+NDAR_V02_0416,Somerset,"RAVES TO CAPTAIN EDWARD LE CRAS, H.M.S. SOMERSET , HALIFAX Sir Preston",Somerset,SOMERSET,title,/TaggedPDF-doc/div/doc[416]/title/ship
+NDAR_V02_0416,Preston,"SOMERSET, HALIFAX Sir PRESTON Boston 30 Sepr 1775",Preston,Preston,dl,/TaggedPDF-doc/div/doc[416]/dl/ship
+NDAR_V02_0417,Rose,"GRAVES TO CAPTAIN JAMES WALLACE, H.M.S. ROSE , RHODE ISLAND Sir Pre",Rose,ROSE,title,/TaggedPDF-doc/div/doc[417]/title/ship
+NDAR_V02_0417,Preston,"OSE, RHODE ISLAND Sir PRESTON , Boston, 30 Sepr 1775. A Vesse",Preston,Preston,dl,/TaggedPDF-doc/div/doc[417]/dl/ship
+NDAR_V02_0418,Fly (Sloop),MILITARY STORES IMPORTED IN THE SLOOP FLY Amount of Military Stores impo,Fly,FLY,title,/TaggedPDF-doc/div/doc[418]/title/ship
+NDAR_V02_0427,Tamer,"TO HENRY LAURENS Sir TAMER , Rebellion Road, September 30th.",Tamer,Tamer,dl,/TaggedPDF-doc/div/doc[427]/dl/ship
+NDAR_V02_0429,Tamar,ember 14; Governor Campbell fled to the TAMAR the next day; South Carolina troops too,Tamar,Tamar,note,/TaggedPDF-doc/div/doc[429]/note/ship[1]
+NDAR_V02_0429,Tamar,ember 14; Governor Campbell fled to the TAMAR the next day; South Carolina troops too,Tamar,Tamar,note,/TaggedPDF-doc/div/doc[429]/note/ship[2]
+NDAR_V02_0431,Dolphin,"rnal, October 11, 1775. 2. The DOLPHIN .",Dolphin,Dolphin,note,/TaggedPDF-doc/div/doc[431]/note/ship
+NDAR_V02_0432,Industry (Schooner),"s, I, 121-123. 2. The schooner INDUSTRY . 3. The Dolphin.",Industry,Industry,note,/TaggedPDF-doc/div/doc[432]/note[1]/ship
+NDAR_V02_0432,Dolphin,The schooner Industry. 3. The DOLPHIN .,Dolphin,Dolphin,note,/TaggedPDF-doc/div/doc[432]/note[2]/ship
+NDAR_V02_0433,Elizabeth,"olutionary War Prize Cases, ""No. 2, The ELIZABETH and Cargo, Wentworth, Appellant,"" Recor",Elizabeth,Elizabeth,src,/TaggedPDF-doc/div/doc[433]/src/ship
+NDAR_V02_0435,Mercury,SAMUEL GRAVES (Copy) MERCURY in Boston Harbour 1st October 1775.,Mercury,Mercury,dl,/TaggedPDF-doc/div/doc[435]/dl/ship
+NDAR_V02_0437,Swan (Sloop),"JOURNAL OF H.M. SLOOP SWAN , CAPTAIN JAMES AYSCOUGH Octor",Swan,SWAN,title,/TaggedPDF-doc/div/doc[437]/title/ship
+NDAR_V02_0437,Union (Schooner),"iralty 51/960. 2. The schooner UNION , ""from whaling Taken at Block Island wh",Union,Union,note,/TaggedPDF-doc/div/doc[437]/note/ship
+NDAR_V02_0438,Rose,"JOURNAL OF H.M.S. ROSE , CAPTAIN JAMES WALLACE October",Rose,ROSE,title,/TaggedPDF-doc/div/doc[438]/title/ship
+NDAR_V02_0438,Rose (Schooner),". SWBW 2 PM Spoke the Schooner ROSE , Bunker Mastr with 300 Bs Oil2 sent her",Rose,Rose,note,/TaggedPDF-doc/div/doc[438]/note/ship
+NDAR_V02_0442,Raven (Sloop),"aster yesterday Morning, Spoke with the RAVEN sloop of war from England bound to Bost",Raven,Raven,note,/TaggedPDF-doc/div/doc[442]/note/ship[1]
+NDAR_V02_0442,Prince George (Ship),"lease your Excellency The ship PRINCE GEORGE , Richard Emms, Master which Left Bristo",Prince George,Prince George,note,/TaggedPDF-doc/div/doc[442]/note/ship[2]
+NDAR_V02_0445,Dolphin,EPORT ON THE CREW AND PASSENGERS OF THE DOLPHIN The Comtee appointed for that,Dolphin,DOLPHIN,title,/TaggedPDF-doc/div/doc[445]/title/ship
+NDAR_V02_0450,Spy,at the lowest Sum Necessary to have the SPY to go out is £1502 ー Therefore,Spy,Spy,p,/TaggedPDF-doc/div/doc[450]/p[1]/ship
+NDAR_V02_0450,Spy,at the lowest Sum Necessary to have the SPY to go out is £1502 ー Therefore,Spy,Spy,p,/TaggedPDF-doc/div/doc[450]/p[2]/ship
+NDAR_V02_0455,Juliana (Brig),"ming up"" business. 2. The brig JULIANA , Walter Burke, master, with thirty-two",Juliana,Juliana,note,/TaggedPDF-doc/div/doc[455]/note[1]/ship
+NDAR_V02_0462,Prince George (Ship),"ection, Annapolis. 2. The ship PRINCE GEORGE , Richard Emmes, master. 3. The",Prince George,Prince George,note,/TaggedPDF-doc/div/doc[462]/note[1]/ship
+NDAR_V02_0462,Unity (Ship),"ard Emmes, master. 3. The ship UNITY , Captain Flagg, the property of Langdon",Unity,Unity,note,/TaggedPDF-doc/div/doc[462]/note[2]/ship[1]
+NDAR_V02_0462,Lively (Frigate),oyage to the West Indies by the frigate LIVELY . She was recaptured by Captain Nicholso,Lively,Lively,note,/TaggedPDF-doc/div/doc[462]/note[2]/ship[2]
+NDAR_V02_0462,Hannah (Schooner),"holson Broughton, in the armed schooner HANNAH , sailing under a commission from Washin",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[462]/note[2]/ship[3]
+NDAR_V02_0462,Hannah (Schooner),"holson Broughton, in the armed schooner HANNAH , sailing under a commission from Washin",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[462]/note[2]/ship[4]
+NDAR_V02_0463,Dolphin,", to General Gage, &c.1 1. The DOLPHIN .",Dolphin,Dolphin,src,/TaggedPDF-doc/div/doc[463]/src/ship
+NDAR_V02_0464,Industry (Schooner),"l Papers, YUL. 2. The schooner INDUSTRY",Industry,Industry,note,/TaggedPDF-doc/div/doc[464]/note/ship
+NDAR_V02_0467,Unity,"mouth. 3. Newell refers to the UNITY , taken in September by Captain Nicholso",Unity,Unity,note,/TaggedPDF-doc/div/doc[467]/note[2]/ship[1]
+NDAR_V02_0467,Hannah,r by Captain Nicholson Broughton in the HANNAH . 4. Taken when the boats of H.,Hannah,Hannah,note,/TaggedPDF-doc/div/doc[467]/note[2]/ship[2]
+NDAR_V02_0467,Falcon (Sloop),4. Taken when the boats of H.M. Sloop FALCON attempted to cut out a schooner from Gl,Falcon,Falcon,note,/TaggedPDF-doc/div/doc[467]/note[3]/ship
+NDAR_V02_0468,Preston,O PHILIP STEPHENS Sir PRESTON Boston 3 October 1775,Preston,Preston,dl,/TaggedPDF-doc/div/doc[468]/dl/ship
+NDAR_V02_0470,Viper (Sloop),"2. David Pryce, of H. M. sloop VIPER , arrived at Boston September 6, 1775, a",Viper,Viper,note,/TaggedPDF-doc/div/doc[470]/note/ship
+NDAR_V02_0476,St Lawrence,RAL SAMUEL GRAVES Sir ST LAWRENCE St Augustin Octbr the 3d 17,St Lawrence,St Lawrence,dl,/TaggedPDF-doc/div/doc[476]/dl/ship
+NDAR_V02_0476,Betsey (Brig),"r letters and papers, on board the brig BETSEY , a prize sent into Beverly by John Manl",Betsey,Betsey,note,/TaggedPDF-doc/div/doc[476]/note/ship
+NDAR_V02_0477,Betsey (Brig),"e letter, found on board the prize brig BETSEY , was forwarded to Congress in George Wa",Betsey,Betsey,note,/TaggedPDF-doc/div/doc[477]/note/ship
+NDAR_V02_0478,Betsey (Brig),"of many found on board the prize brig, BETSEY , was forwarded to Congress in George Wa",Betsey,Betsey,note,/TaggedPDF-doc/div/doc[478]/note/ship
+NDAR_V02_0479,Industry,"of Washington, IV, 4-6. 2. The INDUSTRY .",Industry,Industry,note,/TaggedPDF-doc/div/doc[479]/note/ship
+NDAR_V02_0480,Industry (Schooner),"em committee had charge of the schooner INDUSTRY , which, while brought into Marblehead,",Industry,Industry,src,/TaggedPDF-doc/div/doc[480]/src/ship[1]
+NDAR_V02_0480,Dolphin (Brig),ter committee was in charge of the brig DOLPHIN .,Dolphin,Dolphin,src,/TaggedPDF-doc/div/doc[480]/src/ship[2]
+NDAR_V02_0481,Dolphin (Brig),"on's refusal to utilize either the brig DOLPHIN at Gloucester, or the schooner Industry",Dolphin,Dolphin,note,/TaggedPDF-doc/div/doc[481]/note/ship[1]
+NDAR_V02_0481,Industry (Schooner),"Dolphin at Gloucester, or the schooner INDUSTRY at Marblehead, can probably be attribut",Industry,Industry,note,/TaggedPDF-doc/div/doc[481]/note/ship[2]
+NDAR_V02_0486,Raven (Sloop),"JOURNAL OF H. M. SLOOP RAVEN , CAPTAIN JOHN STANHOPE Octr 17",Raven,RAVEN,title,/TaggedPDF-doc/div/doc[486]/title/ship
+NDAR_V02_0488,Viper (Sloop),to Newport Rhode Island conveyed by the VIPER sloop of War of 12 guns commanded by Ca,Viper,Viper,note,/TaggedPDF-doc/div/doc[488]/note[3]/ship[1]
+NDAR_V02_0488,Aurrendel,"eptember 20, 1775, in company with the "" AURRENDEL Schooner,"" and arrived off Newport ten",Aurrendel,Aurrendel,note,/TaggedPDF-doc/div/doc[488]/note[3]/ship[2]
+NDAR_V02_0488,Arundel (Tender),ce he saild in his Lordships Tender the ARUNDEL for Boston with dispatches to General [,Arundel,Arundel,note,/TaggedPDF-doc/div/doc[488]/note[3]/ship[3]
+NDAR_V02_0491,Asia (Ship),"rnishing supplies to His Majesty's Ship ASIA , had made two previous attempts to be t",Asia,Asia,note,/TaggedPDF-doc/div/doc[491]/note[1]/ship
+NDAR_V02_0493,Cherokee,"s on board one of them. 1. The CHEROKEE . 2. Fort Johnson, in Charlesto",Cherokee,Cherokee,src,/TaggedPDF-doc/div/doc[493]/src/ship
+NDAR_V02_0496,Hunter (Sloop),"JOURNAL OF H. M. SLOOP HUNTER , CAPTAIN THOMAS MACKENZIE Octr",Hunter,HUNTER,title,/TaggedPDF-doc/div/doc[496]/title/ship
+NDAR_V02_0496,Pomona,"66. 2. Passengers on board the POMONA included Lord Pitt, eldest son of the E",Pomona,Pomona,note,/TaggedPDF-doc/div/doc[496]/note/ship
+NDAR_V02_0497,Industry (Schooner),INVENTORY OF THE CARGO OF THE SCHOONER INDUSTRY An Inventory of the Schooner I,Industry,INDUSTRY,title,/TaggedPDF-doc/div/doc[497]/title/ship
+NDAR_V02_0497,Industry (Schooner),Y An Inventory of the Schooner INDUSTRY CargoFrancis Buller Master Lately From,Industry,Industry,p2,/TaggedPDF-doc/div/doc[497]/p2/ship
+NDAR_V02_0499,Raven (Sloop),"ctober 9, 1775. 4. H. M. Sloop RAVEN arrived at Boston on October 4 with dis",Raven,Raven,note,/TaggedPDF-doc/div/doc[499]/note[3]/ship[1]
+NDAR_V02_0499,Cerberus,"all had been received earlier by H.M.S. CERBERUS , which arrived September 26, 1775. The",Cerberus,Cerberus,note,/TaggedPDF-doc/div/doc[499]/note[3]/ship[2]
+NDAR_V02_0499,Dolphin (Brig),"6. Captain Wallace, of the brig DOLPHIN .",Dolphin,Dolphin,note,/TaggedPDF-doc/div/doc[499]/note[5]/ship
+NDAR_V02_0502,Prince George (Ship),ed Army in Boston. 1. The ship PRINCE GEORGE .,Prince George,Prince George,note,/TaggedPDF-doc/div/doc[502]/note/ship
+NDAR_V02_0510,Diligent (Schooner),"e committee referred, were the schooner DILIGENT and sloop Machias Liberty, commanded re",Diligent,Diligent,note,/TaggedPDF-doc/div/doc[510]/note[4]/ship[1]
+NDAR_V02_0510,Machias Liberty (Sloop),"d, were the schooner Diligent and sloop MACHIAS LIBERTY , commanded respectively by Jeremiah O'B",Machias Liberty,Machias Liberty,note,/TaggedPDF-doc/div/doc[510]/note[4]/ship[2]
+NDAR_V02_0510,Diligent (Schooner),"e committee referred, were the schooner DILIGENT and sloop Machias Liberty, commanded re",Diligent,Diligent,note,/TaggedPDF-doc/div/doc[510]/note[4]/ship[3]
+NDAR_V02_0510,Machias Liberty (Sloop),"d, were the schooner Diligent and sloop MACHIAS LIBERTY , commanded respectively by Jeremiah O'B",Machias Liberty,Machias Liberty,note,/TaggedPDF-doc/div/doc[510]/note[4]/ship[4]
+NDAR_V02_0515,Aurora (Ship),"2. Thomas Read was master of the ship AURORA , from London.",Aurora,Aurora,note,/TaggedPDF-doc/div/doc[515]/note/ship
+NDAR_V02_0518,William (Ship),OUTH (No 32) The Ship WILLIAM by Norfolk Virginia 5th October 1775. ー,William,William,dl,/TaggedPDF-doc/div/doc[518]/dl/ship
+NDAR_V02_0520,St. John (Schooner),"JOURNAL OF H.M. SCHOONER ST. JOHN , LIEUTENANT WILLIAM GRANT Octo",St. John,ST. JOHN,title,/TaggedPDF-doc/div/doc[520]/title/ship
+NDAR_V02_0520,St. John,"miralty 51/4330. 2. Ibid., the ST. JOHN finally reached New Providence in the B",St. John,St. John,note,/TaggedPDF-doc/div/doc[520]/note/ship
+NDAR_V02_0529,Canceaux,"EUTENANT HENRY MOWAT, H.M. ARMED VESSEL CANCEAUX Whereas the four New England G",Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[529]/title/ship
+NDAR_V02_0530,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Octr 1775 Friday 6 Do [Moord i,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[530]/title/ship
+NDAR_V02_0535,Duke of York (Ship),tract tho not named. We bought the Ship DUKE OF YORK 3 Capt Higgins & sent her for Hamburg in,Duke of York,Duke of York,note,/TaggedPDF-doc/div/doc[535]/note[2]/ship[1]
+NDAR_V02_0535,Mercury,"Decemmber 3, 1774, had bern called the MERCURY . Ships' Registers, HSP.",Mercury,Mercury,note,/TaggedPDF-doc/div/doc[535]/note[2]/ship[2]
+NDAR_V02_0537,Tartar,"JOURNAL, OF H.M.S. TARTAR , CAPTAIN EDWARD MEDOWS October",Tartar,TARTAR,title,/TaggedPDF-doc/div/doc[537]/title/ship
+NDAR_V02_0537,Tartar (Sloop),Campy wth 6 sail of transports & Sloop TARTAR At Noon Employd Working out of the Gut,Tartar,Tartar,note,/TaggedPDF-doc/div/doc[537]/note/ship[1]
+NDAR_V02_0537,Tartar (Sloop),Campy wth 6 sail of transports & Sloop TARTAR At Noon Employd Working out of the Gut,Tartar,Tartar,note,/TaggedPDF-doc/div/doc[537]/note/ship[2]
+NDAR_V02_0538,Lively,RAL SAMUEL GRAVES Sir LIVELY Penobscot Bay 7 October 177,Lively,Lively,dl,/TaggedPDF-doc/div/doc[538]/dl/ship
+NDAR_V02_0541,Prince George (Ship),2. The barrels of flour on the ship PRINCE GEORGE .,Prince George,Prince George,note,/TaggedPDF-doc/div/doc[541]/note/ship
+NDAR_V02_0544,Mercury,"SAMUEL GRAVES (Copy) MERCURY at Boston Octo. 7, 1775 Sir I",Mercury,Mercury,dl,/TaggedPDF-doc/div/doc[544]/dl/ship
+NDAR_V02_0545,Preston,"ACARTNEY, R.N. (Copy) PRESTON Boston 7 October 1775",Preston,Preston,dl,/TaggedPDF-doc/div/doc[545]/dl/ship
+NDAR_V02_0546,Falcon,"Subscriber an officer belonging to the FALCON ,2 being under the closest confinement i",Falcon,Falcon,note,/TaggedPDF-doc/div/doc[546]/note/ship
+NDAR_V02_0547,Rose,"JOURNAL OF H.M.S. ROSE , CAPTAIN JAMES WALLACE October",Rose,ROSE,title,/TaggedPDF-doc/div/doc[547]/title/ship
+NDAR_V02_0548,Swan (Sloop),"JOURNAL OF H.M. SLOOP SWAN , CAPTAIN JAMES AYSCOUGH Octr 1",Swan,SWAN,title,/TaggedPDF-doc/div/doc[548]/title/ship
+NDAR_V02_0550,Glasgow,"JOURNAL OF H.M.S. GLASGOW , CAPTAIN TYRINGHAM HOWE 1775 O",Glasgow,GLASGOW,title,/TaggedPDF-doc/div/doc[550]/title/ship
+NDAR_V02_0550,Rose,"t 1 weigh'd & Came to sail in Compy the ROSE , Swan, Bolt[on] Brigg & Tenders with 2",Rose,Rose,note,/TaggedPDF-doc/div/doc[550]/note/ship
+NDAR_V02_0558,Cruizer (Sloop),"SAMUEL JOHNSTON Sir, CRUIZER Sloop of War in Cape Fear River, Octobe",Cruizer,Cruizer,dl,/TaggedPDF-doc/div/doc[558]/dl/ship
+NDAR_V02_0559,Cruizer (Sloop),"JOURNAL OF H.M. SLOOP CRUIZER , CAPTAIN FRANCIS PARRY Octor 7",Cruizer,CRUIZER,title,/TaggedPDF-doc/div/doc[559]/title/ship
+NDAR_V02_0559,Adventure (Brig),ort [Johnston] seiz'd the Brig ADVENTURE from St Ubes with salt; sent an officer,Adventure,Adventure,note,/TaggedPDF-doc/div/doc[559]/note/ship[1]
+NDAR_V02_0559,Adventure (Brig),ort [Johnston] seiz'd the Brig ADVENTURE from St Ubes with salt; sent an officer,Adventure,Adventure,note,/TaggedPDF-doc/div/doc[559]/note/ship[2]
+NDAR_V02_0560,Scorpion's,"ker-Coleman Papers, CW. 2. The SCORPION'S arrival at Bermuda on September 17, 177",Scorpion's,Scorpion's,note,/TaggedPDF-doc/div/doc[560]/note[1]/ship[1]
+NDAR_V02_0560,Palliser (Transport),"North Carolina, convoying the transport PALLISER . The guns from Fort Johnston, at the mo",Palliser,Palliser,note,/TaggedPDF-doc/div/doc[560]/note[1]/ship[2]
+NDAR_V02_0560,Scorpion (Sloop),emache Commander of his majesty's Sloop SCORPION 2 to Richard Fowle & Nathaniel Bell Esqu,Scorpion,Scorpion,note,/TaggedPDF-doc/div/doc[560]/note[1]/ship[3]
+NDAR_V02_0560,Cruizer,"rt, and the Scorpion was to relieve the CRUIZER on that station. Graves's Conduct, I, 1",Cruizer,Cruizer,note,/TaggedPDF-doc/div/doc[560]/note[1]/ship[4]
+NDAR_V02_0560,Scorpion (Sloop),emache Commander of his majesty's Sloop SCORPION 2 to Richard Fowle & Nathaniel Bell Esqu,Scorpion,Scorpion,note,/TaggedPDF-doc/div/doc[560]/note[1]/ship[5]
+NDAR_V02_0560,Scorpion (Sloop),emache Commander of his majesty's Sloop SCORPION 2 to Richard Fowle & Nathaniel Bell Esqu,Scorpion,Scorpion,note,/TaggedPDF-doc/div/doc[560]/note[3]/ship
+NDAR_V02_0560,Scorpion (Sloop),emache Commander of his majesty's Sloop SCORPION 2 to Richard Fowle & Nathaniel Bell Esqu,Scorpion,Scorpion,note,/TaggedPDF-doc/div/doc[560]/note[4]/ship
+NDAR_V02_0560,Scorpion (Sloop),emache Commander of his majesty's Sloop SCORPION 2 to Richard Fowle & Nathaniel Bell Esqu,Scorpion,Scorpion,note,/TaggedPDF-doc/div/doc[560]/note[5]/ship
+NDAR_V02_0561,Two Sisters,"e to work, and went on board the sloop [ TWO SISTERS ]. . . . We arrived at Martiniq",Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[561]/note[2]/ship
+NDAR_V02_0562,Portland,"R OF GUADELOUPE AND MARTINIQUE PORTLAND , English Harbour Antigua 7h October 177",Portland,Portland,dl,/TaggedPDF-doc/div/doc[562]/dl/ship
+NDAR_V02_0563,Washington (Brig),the armed Schooner the Eagle2 Brigg the WASHINGTON 1. You being appointed a Captain in the,Washington,Washington,src,/TaggedPDF-doc/div/doc[563]/src/ship[1]
+NDAR_V02_0563,Fowey,"when the Washington was taken by H.M.S. FOWEY on December 4, 1775. 2. Eagle",Fowey,Fowey,src,/TaggedPDF-doc/div/doc[563]/src/ship[2]
+NDAR_V02_0563,Eagle (Schooner),dale] Captain of the armed Schooner the EAGLE 2 Brigg the Washington1. You being appoi,Eagle,Eagle,note,/TaggedPDF-doc/div/doc[563]/note[1]/ship
+NDAR_V02_0565,Phoenix (Sloop),"ptains were John Sheridan, of the sloop PHOENIX , Thomas Dowman, of the ship Charming Pe",Phoenix,Phoenix,note,/TaggedPDF-doc/div/doc[565]/note/ship[1]
+NDAR_V02_0565,Charming Peggy (Ship),"oop Phoenix, Thomas Dowman, of the ship CHARMING PEGGY , and Joseph Bradford, of the brig Sea N",Charming Peggy,Charming Peggy,note,/TaggedPDF-doc/div/doc[565]/note/ship[2]
+NDAR_V02_0565,Sea Nymph (Brig),"Peggy, and Joseph Bradford, of the brig SEA NYMPH (all on Graves's Prize List, II, 36-38,",Sea Nymph,Sea Nymph,note,/TaggedPDF-doc/div/doc[565]/note/ship[3]
+NDAR_V02_0565,Tryal (Schooner),"New York, James Warden of the schooner TRYAL and G. Hurst, of the brig Polly, which",Tryal,Tryal,note,/TaggedPDF-doc/div/doc[565]/note/ship[4]
+NDAR_V02_0565,Polly (Brig),", Bradford, Mullowny, Warden,2 and Brig POLLY , Hurst, for Madeira, besides about 50 s",Polly,Polly,note,/TaggedPDF-doc/div/doc[565]/note/ship[5]
+NDAR_V02_0566,Roebuck (Ship),lty have Ordered his Majesty's Ship the ROEBUCK to be one of the Squadron under my comm,Roebuck,Roebuck,p2,/TaggedPDF-doc/div/doc[566]/p2[2]/ship
+NDAR_V02_0567,Diligent (Schooner),"ssed. to be his Majesty's late Schooner DILIGENT , that the Rebels had taken some time ag",Diligent,Diligent,note,/TaggedPDF-doc/div/doc[567]/note/ship[1]
+NDAR_V02_0567,Diligence,"f the transport was not the ""Diligent"" [ DILIGENCE ], which never came that far west, but W",Diligence,Diligence,note,/TaggedPDF-doc/div/doc[567]/note/ship[2]
+NDAR_V02_0567,Hannah (Schooner),"r west, but Washintgon's armed schooner HANNAH , commanded by Captain Nicholson Brought",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[567]/note/ship[3]
+NDAR_V02_0568,Rose,"JOURNAL OF H.M.S. ROSE , CAPTAIN JAMES WALLACE October",Rose,ROSE,title,/TaggedPDF-doc/div/doc[568]/title/ship
+NDAR_V02_0569,Swan (Sloop),"JOURNAL OF H.M. SLOOP SWAN , CAPTAIN JAMES AYSCOUGH Octr 1",Swan,SWAN,title,/TaggedPDF-doc/div/doc[569]/title/ship
+NDAR_V02_0570,Glasgow,"JOURNAL OF H.M.S. GLASGOW , CAPTAIN TYRINGHAM HOWE 1775 O",Glasgow,GLASGOW,title,/TaggedPDF-doc/div/doc[570]/title/ship
+NDAR_V02_0575,Argo,"TO CAPTAIN FRANCIS GRANT GORDON, H.M.S. ARGO By James Young Esqr Vice Admir",Argo,ARGO,title,/TaggedPDF-doc/div/doc[575]/title/ship
+NDAR_V02_0578,Hannah,"ualitys, & will be ready to take in the HANNAH s Company & Stores in 12 or 14 days the",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[578]/note[1]/ship
+NDAR_V02_0578,Hannah,"ualitys, & will be ready to take in the HANNAH s Company & Stores in 12 or 14 days the",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[578]/note[2]/ship[1]
+NDAR_V02_0578,Hannah,"ualitys, & will be ready to take in the HANNAH s Company & Stores in 12 or 14 days the",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[578]/note[2]/ship[2]
+NDAR_V02_0578,Hannah,"ualitys, & will be ready to take in the HANNAH s Company & Stores in 12 or 14 days the",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[578]/note[2]/ship[3]
+NDAR_V02_0582,Preston,O PHILIP STEPHENS Sir PRESTON Boston 9 October 1775.,Preston,Preston,dl,/TaggedPDF-doc/div/doc[582]/dl/ship
+NDAR_V02_0582,Nautilus,"t from Nantasket.On the 5th instant the NAUTILUS returned with three Brigs, two of them",Nautilus,Nautilus,note,/TaggedPDF-doc/div/doc[582]/note[2]/ship[1]
+NDAR_V02_0582,Polly (Sloop),"es taken by the Nautilus were the sloop POLLY , George Walker, master, with coffee fro",Polly,Polly,note,/TaggedPDF-doc/div/doc[582]/note[2]/ship[2]
+NDAR_V02_0582,Tryal (Schooner),"ndies to Philadelphia, and the schooner TRYAL , James Warden, master, with coffee, coc",Tryal,Tryal,note,/TaggedPDF-doc/div/doc[582]/note[2]/ship[3]
+NDAR_V02_0583,Preston,4 PRESTON V. A. Gr,Preston,Preston,dl2,/TaggedPDF-doc/div/doc[583]/dl2/ship
+NDAR_V02_0584,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Octr 1775 Monday 9th Cape Code,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[584]/title/ship
+NDAR_V02_0585,Rose,"JOURNAL OF H.M.S. ROSE , CAPTAIN JAMES WALLACE October",Rose,ROSE,title,/TaggedPDF-doc/div/doc[585]/title/ship
+NDAR_V02_0586,Swan (Sloop),"JOURNAL OF H.M. SLOOP SWAN , CAPTAIN JAMES AYSCOUGH Octr 1",Swan,SWAN,title,/TaggedPDF-doc/div/doc[586]/title/ship
+NDAR_V02_0591,Pennsylvania Packet,"nd easing her of the cargo. 1. PENNSYLVANIA PACKET , October 23, 1775. 2. The ship",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[591]/src/ship
+NDAR_V02_0591,Peggy (Ship),"October 23, 1775. 2. The ship PEGGY , William Barron, master.",Peggy,Peggy,note,/TaggedPDF-doc/div/doc[591]/note/ship
+NDAR_V02_0593,Asia,"CAPTAIN GEORGE VANDEPUT, H.M.S. ASIA , TO VICE ADMIRAL SAMUEL GRAVES",Asia,ASIA,title,/TaggedPDF-doc/div/doc[593]/title/ship
+NDAR_V02_0601,Nautilus,"s discovered by the British ship of war NAUTILUS , of twenty guns, who immediately bore d",Nautilus,Nautilus,note,/TaggedPDF-doc/div/doc[601]/note[2]/ship[1]
+NDAR_V02_0601,Nautilus,"s discovered by the British ship of war NAUTILUS , of twenty guns, who immediately bore d",Nautilus,Nautilus,note,/TaggedPDF-doc/div/doc[601]/note[2]/ship[2]
+NDAR_V02_0601,Nautilus,"s discovered by the British ship of war NAUTILUS , of twenty guns, who immediately bore d",Nautilus,Nautilus,note,/TaggedPDF-doc/div/doc[601]/note[3]/ship
+NDAR_V02_0603,Nautilus (Sloop),"JOURNAL OF H.M. SLOOP NAUTILUS , CAPTAIN JOHN COLLINS October",Nautilus,NAUTILUS,title,/TaggedPDF-doc/div/doc[603]/title/ship
+NDAR_V02_0604,Speedwell,APPRAISAL OF THE SPEEDWELL we The Subscribers Being desie,Speedwell,SPEEDWELL,title,/TaggedPDF-doc/div/doc[604]/title/ship
+NDAR_V02_0604,Hancock (Schooner),"25, LC. 2. The armed schooner HANCOCK of Washington's fleet.",Hancock,Hancock,note,/TaggedPDF-doc/div/doc[604]/note/ship
+NDAR_V02_0605,Eliza,APPRAISAL OF THE ELIZA we The Subscribers Being desie,Eliza,ELIZA,title,/TaggedPDF-doc/div/doc[605]/title/ship
+NDAR_V02_0605,Franklin (Schooner),"13, LC. 2. The armed schooner FRANKLIN of Washington's fleet.",Franklin,Franklin,note,/TaggedPDF-doc/div/doc[605]/note/ship
+NDAR_V02_0606,Washington (Brig),on Martindale commanding the armed brig WASHINGTON of,Washington,Washington,note,/TaggedPDF-doc/div/doc[606]/note/ship
+NDAR_V02_0610,Katy (Sloop),ed vessels were the Rhode Island sloops KATY and Washington.,Katy,Katy,note,/TaggedPDF-doc/div/doc[610]/note/ship[1]
+NDAR_V02_0610,Washington,"[&c.] Nichs Cooke 1. WASHINGTON Papers, LC. 2. The armed vesse",Washington,Washington,note,/TaggedPDF-doc/div/doc[610]/note/ship[2]
+NDAR_V02_0612,Rose,"JOURNAL OF H.M.S. ROSE , CAPTAIN JAMES WALLACE October",Rose,ROSE,title,/TaggedPDF-doc/div/doc[612]/title/ship
+NDAR_V02_0615,Asia,"SAMUEL GRAVES (Copy) ASIA New York Octor 10th 1775. Sir,",Asia,Asia,dl,/TaggedPDF-doc/div/doc[615]/dl/ship
+NDAR_V02_0621,Scorpion (Ship),in Tollemache of His Majesty's Ship the SCORPION now lying in St Georges Harbour should,Scorpion,Scorpion,p,/TaggedPDF-doc/div/doc[621]/p[1]/ship
+NDAR_V02_0626,Nautilus (Sloop),"JOURNAL OF H.M. SLOOP NAUTILUS , CAPTAIN JOHN COLLINS October",Nautilus,NAUTILUS,title,/TaggedPDF-doc/div/doc[626]/title/ship
+NDAR_V02_0626,Charming Polly (Schooner),"iralty 51/629. 2. The schooner CHARMING POLLY , John Guliker, master, from Cayenne, no",Charming Polly,Charming Polly,note,/TaggedPDF-doc/div/doc[626]/note/ship
+NDAR_V02_0627,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Octr 1775 Wednesday 11 Cape El,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[627]/title/ship
+NDAR_V02_0627,Halifax,Eterd Standing under the Cape made the HALIFAX 2 Sigl to Chace to the NE at 10 She bro,Halifax,Halifax,note,/TaggedPDF-doc/div/doc[627]/note/ship[1]
+NDAR_V02_0627,Canceaux,"eutenant Henry Mowat, consisting of the CANCEAUX , armed transport Symmetry, armed sloop",Canceaux,Canceaux,note,/TaggedPDF-doc/div/doc[627]/note/ship[2]
+NDAR_V02_0627,Symmetry (Transport),"isting of the Canceaux, armed transport SYMMETRY , armed sloop Spitfire, and brig Halifax",Symmetry,Symmetry,note,/TaggedPDF-doc/div/doc[627]/note/ship[3]
+NDAR_V02_0627,Spitfire (Sloop),", armed transport Symmetry, armed sloop SPITFIRE , and brig Halifax. She had sailed from",Spitfire,Spitfire,note,/TaggedPDF-doc/div/doc[627]/note/ship[4]
+NDAR_V02_0627,Halifax,Eterd Standing under the Cape made the HALIFAX 2 Sigl to Chace to the NE at 10 She bro,Halifax,Halifax,note,/TaggedPDF-doc/div/doc[627]/note/ship[5]
+NDAR_V02_0628,Preston,"OF VICE ADMIRAL SAMUEL GRAVES [ PRESTON , Boston] The next day [October",Preston,Preston,dl,/TaggedPDF-doc/div/doc[628]/dl/ship
+NDAR_V02_0629,Peggy (Ship),"s to be enquired into2 1. Ship PEGGY , William Barron, master. 2. Co",Peggy,Peggy,src,/TaggedPDF-doc/div/doc[629]/src/ship
+NDAR_V02_0636,Kingsfisher (Sloop),"JOURNAL OF H.M. SLOOP KINGSFISHER , CAPTAIN JAMES MONTAGU Octobr",Kingsfisher,KINGSFISHER,title,/TaggedPDF-doc/div/doc[636]/title/ship
+NDAR_V02_0637,Otter (Sloop),"JOURNAL OF H.M. SLOOP OTTER , CAPTAIN MATTHEW SQUIRE Octobe",Otter,OTTER,title,/TaggedPDF-doc/div/doc[637]/title/ship
+NDAR_V02_0641,Hunter (Sloop),"JOURNAL OF H.M. SLOOP HUNTER , CAPTAIN THOMAS MACKENZIE Octr",Hunter,HUNTER,title,/TaggedPDF-doc/div/doc[641]/title/ship
+NDAR_V02_0643,Two Brothers,APPRAISAL OF THE TWO BROTHERS we The Subscribers Being desie,Two Brothers,TWO BROTHERS,title,/TaggedPDF-doc/div/doc[643]/title/ship
+NDAR_V02_0643,Lee (Schooner),"267, LC. 2. The armed schooner LEE of Washington's fleet.",Lee,Lee,note,/TaggedPDF-doc/div/doc[643]/note/ship
+NDAR_V02_0644,Hawk,APPRAISAL OF THE HAWK we The Subscribers Being desie,Hawk,HAWK,title,/TaggedPDF-doc/div/doc[644]/title/ship
+NDAR_V02_0644,Warren (Schooner),"141, LC. 2. The armed schooner WARREN of Washington's fleet.",Warren,Warren,note,/TaggedPDF-doc/div/doc[644]/note/ship
+NDAR_V02_0649,Hannah (Schooner),if any. 1. The armed schooner HANNAH of Washington's fleet.,Hannah,Hannah,note,/TaggedPDF-doc/div/doc[649]/note/ship
+NDAR_V02_0652,Nautilus,RAL SAMUEL GRAVES Sir NAUTILUS Boston Bay 12 Octr 1775 The 10,Nautilus,Nautilus,dl,/TaggedPDF-doc/div/doc[652]/dl/ship
+NDAR_V02_0652,Nautilus,RAL SAMUEL GRAVES Sir NAUTILUS Boston Bay 12 Octr 1775 The 10,Nautilus,Nautilus,note,/TaggedPDF-doc/div/doc[652]/note/ship
+NDAR_V02_0653,Harrison (Schooner),LL FOR IRON WORK FOR THE ARMED SCHOONER HARRISON OF WASHINGTON'S FLEET Dr The S,Harrison,HARRISON,title,/TaggedPDF-doc/div/doc[653]/title/ship
+NDAR_V02_0653,Harrison,INGTON'S FLEET Dr The Schoonr. HARRISON to Stephen Sampson for Sundry Iron Work,Harrison,Harrison,src,/TaggedPDF-doc/div/doc[653]/src/ship
+NDAR_V02_0654,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Remarks on Thursday 12 Octr. 1,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[654]/title/ship
+NDAR_V02_0664,Experiment,mpson EXPERIMENT John Wha,Experiment,Experiment,note,/TaggedPDF-doc/div/doc[664]/note[1]/ship
+NDAR_V02_0667,Otter (Sloop),"JOURNAL OF H. M. SLOOP OTTER , CAPTAIN MATTHEW SQUIRE Octobe",Otter,OTTER,title,/TaggedPDF-doc/div/doc[667]/title/ship
+NDAR_V02_0672,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Remarks Friday 13 Octr 1775,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[672]/title/ship
+NDAR_V02_0682,Preston,SIR GUY CARLETON Sir PRESTON at Boston 13 Octr 1775 I take,Preston,Preston,dl,/TaggedPDF-doc/div/doc[682]/dl/ship
+NDAR_V02_0685,Peggy (Ship),"Cargo, to Norwich. 1. The ship PEGGY . See Pennsylvania Gazette, October 11,",Peggy,Peggy,note,/TaggedPDF-doc/div/doc[685]/note/ship
+NDAR_V02_0697,Margaretta (Schooner),ITH THE CAPTURE OF THE BRITISH SCHOONER MARGARETTA D,Margaretta,MARGARETTA,title,/TaggedPDF-doc/div/doc[697]/title/ship
+NDAR_V02_0698,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Octr 1775 Saturday 14 at Singl,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[698]/title/ship
+NDAR_V02_0702,Rose,"SAMUEL GRAVES (Copy) ROSE , Rhode Island 14th Octor 1775.",Rose,Rose,dl,/TaggedPDF-doc/div/doc[702]/dl/ship
+NDAR_V02_0708,Fowey,"er of Captain George Montagu, of H.M.S. FOWEY . 2. An erroneous report.",Fowey,Fowey,src,/TaggedPDF-doc/div/doc[708]/src/ship
+NDAR_V02_0709,William (Ship),MORE TO WILSON MILES CARY Ship WILLIAM off Norfolk. 14th October 1775 ー,William,William,dl,/TaggedPDF-doc/div/doc[709]/dl/ship
+NDAR_V02_0711,Argo,"as been given them."" 1. H.M.S. ARGO . 2. See de Noziere to James Yo",Argo,Argo,note,/TaggedPDF-doc/div/doc[711]/note[1]/ship
+NDAR_V02_0713,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Octr 1775 Sunday 15th Portland,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[713]/title/ship
+NDAR_V02_0717,Cerberus,"L GRAVES TO CAPTAIN JOHN SYMONS, H.M.S. CERBERUS You are hereby required and di",Cerberus,CERBERUS,title,/TaggedPDF-doc/div/doc[717]/title/ship
+NDAR_V02_0724,Cherokee,TRICK TONYN [Extract] CHEROKEE in Rebellion Road 15th Octr 1775,Cherokee,Cherokee,dl,/TaggedPDF-doc/div/doc[724]/dl/ship
+NDAR_V02_0724,Cherokee,TRICK TONYN [Extract] CHEROKEE in Rebellion Road 15th Octr 1775,Cherokee,Cherokee,note,/TaggedPDF-doc/div/doc[724]/note[3]/ship
+NDAR_V02_0725,Cherokee,LEXANDER INNES TO JAMES PENMAN CHEROKEE Arm'd Ship in Rebellion Road 15th Octr,Cherokee,Cherokee,dl,/TaggedPDF-doc/div/doc[725]/dl/ship
+NDAR_V02_0725,Polly (Sloop),d his name is John Wan ton of the Sloop POLLY & I pray God we may get him clear of th,Polly,Polly,p2,/TaggedPDF-doc/div/doc[725]/p2[1]/ship
+NDAR_V02_0730,Canceaux,LE OF FALMOUTH (Copy) CANCEAUX Falmouth 16th October 1775.,Canceaux,Canceaux,dl,/TaggedPDF-doc/div/doc[730]/dl/ship
+NDAR_V02_0731,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Octr 1775 Monday 16 Hog Island,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[731]/title/ship
+NDAR_V02_0732,Prince George (Ship),"ection, Annapolis. 2. The ship PRINCE GEORGE , with 1892 barrels of flour, had straye",Prince George,Prince George,note,/TaggedPDF-doc/div/doc[732]/note/ship
+NDAR_V02_0734,Lynch,"3rd. The other armed Schooner named the LYNCH 2 and commanded by Captain Sellman, is t",Lynch,Lynch,note,/TaggedPDF-doc/div/doc[734]/note[1]/ship[1]
+NDAR_V02_0734,Franklin,"n's mind. John Selman's command was the FRANKLIN ; Broughton's, the Hancock. The Lynch wa",Franklin,Franklin,note,/TaggedPDF-doc/div/doc[734]/note[1]/ship[2]
+NDAR_V02_0734,Hancock,"mand was the Franklin; Broughton's, the HANCOCK . The Lynch was not commissioned until e",Hancock,Hancock,note,/TaggedPDF-doc/div/doc[734]/note[1]/ship[3]
+NDAR_V02_0734,Lynch,"3rd. The other armed Schooner named the LYNCH 2 and commanded by Captain Sellman, is t",Lynch,Lynch,note,/TaggedPDF-doc/div/doc[734]/note[1]/ship[4]
+NDAR_V02_0736,Prince George (Ship),tinental Congress. 2. The ship PRINCE GEORGE .,Prince George,Prince George,note,/TaggedPDF-doc/div/doc[736]/note/ship
+NDAR_V02_0737,Cerberus,"L GRAVES TO CAPTAIN JOHN SYMONS, H.M.S. CERBERUS Notwithstanding my Order to yo",Cerberus,CERBERUS,title,/TaggedPDF-doc/div/doc[737]/title/ship
+NDAR_V02_0749,Cruizer (Sloop),"tract] No Carolina CRUIZER Sloop of War, in Cape Fear River Octr 1",Cruizer,Cruizer,dl,/TaggedPDF-doc/div/doc[749]/dl/ship
+NDAR_V02_0754,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Octr 1775 Tuesday 17 At single,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[754]/title/ship
+NDAR_V02_0762,Preston,"TO FRANCIS LEGGE Sir PRESTON at Boston Octr 17, 1775 Sir I",Preston,Preston,dl,/TaggedPDF-doc/div/doc[762]/dl/ship
+NDAR_V02_0769,St. Lawrence (Schooner),"JOURNAL OF H.M. SCHOONER ST. LAWRENCE , LIEUTENANT JOHN GRAVES Octbr",St. Lawrence,ST. LAWRENCE,title,/TaggedPDF-doc/div/doc[769]/title/ship
+NDAR_V02_0772,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Octr 1775 Wednesday 18,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[772]/title/ship
+NDAR_V02_0776,Preston,"ARD LE CRAS, R.N. Sir PRESTON Boston 18 October 1775.",Preston,Preston,dl,/TaggedPDF-doc/div/doc[776]/dl/ship
+NDAR_V02_0788,Kingsfisher (Sloop),"JOURNAL OF H.M. SLOOP KINGSFISHER , CAPTAIN JAMES MONTAGU Octobr",Kingsfisher,KINGSFISHER,title,/TaggedPDF-doc/div/doc[788]/title/ship
+NDAR_V02_0789,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH Oc",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[789]/title/ship
+NDAR_V02_0792,Canceaux,SAMUEL GRAVES (Copy) CANCEAUX in Casco Bay 19th October 1775.,Canceaux,Canceaux,dl,/TaggedPDF-doc/div/doc[792]/dl/ship
+NDAR_V02_0793,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Octr 1775 Thursday 19,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[793]/title/ship
+NDAR_V02_0793,Canceaux,"ccessor, Admiral Molyneux Shuldham. The CANCEAUX 's log states that the two sloops were m",Canceaux,Canceaux,note,/TaggedPDF-doc/div/doc[793]/note/ship[1]
+NDAR_V02_0793,Halifax,"d all the rest in Company the Symmetry, HALIFAX , Spitfire, with two Schooners & two Slo",Halifax,Halifax,note,/TaggedPDF-doc/div/doc[793]/note/ship[2]
+NDAR_V02_0810,Kingsfisher (Sloop),"une 25), Journal of His Majesty's sloop KINGSFISHER , PRO, Admiralty 51/506; also: ""The Coll",Kingsfisher,Kingsfisher,note,/TaggedPDF-doc/div/doc[810]/note[1]/ship
+NDAR_V02_0810,Halifax,"e. 4. Tryon fled to the packet HALIFAX on October 18, 1775.",Halifax,Halifax,note,/TaggedPDF-doc/div/doc[810]/note[3]/ship
+NDAR_V02_0817,Otter (Sloop),"JOURNAL OF H.M. SLOOP OTTER , CAPTAIN MATTHEW SQUIRE Octobe",Otter,OTTER,title,/TaggedPDF-doc/div/doc[817]/title/ship
+NDAR_V02_0818,Kingsfisher (Sloop),"JOURNAL OF H.M. SLOOP KINGSFISHER , CAPTAIN JAMES MONTAGU Octobr",Kingsfisher,KINGSFISHER,title,/TaggedPDF-doc/div/doc[818]/title/ship
+NDAR_V02_0826,Canceaux,MASTER'S LOG OF H.M. ARMED VESSEL CANCEAUX Octr 1775 Friday 20 At single,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[826]/title/ship
+NDAR_V02_0827,Scarborough,bedient Humble Servt SCARBOROUGH October 20th 1775 Reuben Fogg,Scarborough,Scarborough,dl2,/TaggedPDF-doc/div/doc[827]/dl2/ship
+NDAR_V02_0836,Preston,TO FRANCIS LEGGE Sir PRESTON Boston 20th Octr 1775,Preston,Preston,dl,/TaggedPDF-doc/div/doc[836]/dl/ship
+NDAR_V02_0845,Rebecca and Francis (Ship),"ober 30. 2. The transport ship REBECCA AND FRANCIS , George Hastings, master. 3. C",Rebecca and Francis,Rebecca and Francis,note,/TaggedPDF-doc/div/doc[845]/note[1]/ship
+NDAR_V02_0849,Kingsfisher (Sloop),"JOURNAL OF H. M. SLOOP KINGSFISHER , CAPTAIN JAMES MONTAGU Octobr",Kingsfisher,KINGSFISHER,title,/TaggedPDF-doc/div/doc[849]/title/ship
+NDAR_V02_0858,Peggy (Ship),", January 1, 1776. 2. The ship PEGGY , William Barron, master. See Connecticu",Peggy,Peggy,note,/TaggedPDF-doc/div/doc[858]/note/ship
+NDAR_V02_0873,Hannah (Schooner),"el ""run aground"" was the armed schooner HANNAH , Captain Nicholson Broughton, of Washin",Hannah,Hannah,note,/TaggedPDF-doc/div/doc[873]/note/ship
+NDAR_V02_0876,Harrison (Schooner),HARTER AGREEMENT FOR THE ARMED SCHOONER HARRISON OF WASHINGTON'S FLEET This Cha,Harrison,HARRISON,title,/TaggedPDF-doc/div/doc[876]/title/ship
+NDAR_V02_0876,Harrison (Schooner),"ms, Mariner, part Owner of the Schooner HARRISON Burthen about Sixty Four Tons, now lyin",Harrison,Harrison,note,/TaggedPDF-doc/div/doc[876]/note/ship[1]
+NDAR_V02_0876,Triton (Schooner),"atform and Sundres on bord the Schooner TRITON [original name of the Harrison.]""",Triton,Triton,note,/TaggedPDF-doc/div/doc[876]/note/ship[2]
+NDAR_V02_0876,Harrison (Schooner),"ms, Mariner, part Owner of the Schooner HARRISON Burthen about Sixty Four Tons, now lyin",Harrison,Harrison,note,/TaggedPDF-doc/div/doc[876]/note/ship[3]
+NDAR_V02_0879,Kingsfisher,"E, LONDON A Duplicate KINGSFISHER Norfolk Virginia the 22nd O",Kingsfisher,Kingsfisher,dl,/TaggedPDF-doc/div/doc[879]/dl/ship
+NDAR_V02_0880,William (Ship),TH [Extract] The Ship WILLIAM off Norfolk October 22d 1775. ー,William,William,dl,/TaggedPDF-doc/div/doc[880]/dl/ship
+NDAR_V02_0887,Mercury,"JOURNAL OF H.M.S. MERCURY , LIEUTENANT ALEXANDER GRAEME O",Mercury,MERCURY,title,/TaggedPDF-doc/div/doc[887]/title/ship
+NDAR_V02_0891,Rebecca and Francis (Transport),"ptain George Hastings, of the transport REBECCA & FRANCIS .",Rebecca & Francis,Rebecca & Francis,src,/TaggedPDF-doc/div/doc[891]/src/ship
+NDAR_V02_0895,Kingsfisher (Sloop),". 2. See Journal of H.M. Sloop KINGSFISHER , September 29, 1775; also Barney, ed.,",Kingsfisher,Kingsfisher,note,/TaggedPDF-doc/div/doc[895]/note[1]/ship
+NDAR_V02_0895,Sidney (Ship),"[Arrived] Joshua Barney, Ship SIDNEY , Gibraltar, Jno Smith & Sons [owners].2",Sidney,Sidney,note,/TaggedPDF-doc/div/doc[895]/note[2]/ship
+NDAR_V02_0896,Kingfisher (Sloop),"JOURNAL OF H.M. SLOOP KINGFISHER , CAPTAIN JAMES MONTAGU October",Kingfisher,KINGFISHER,title,/TaggedPDF-doc/div/doc[896]/title/ship
+NDAR_V02_0898,Tamer,ILIP STEPHENS (Copy)2 TAMER Rebellion Road South Caroli,Tamer,Tamer,dl,/TaggedPDF-doc/div/doc[898]/dl/ship
+NDAR_V02_0903,Canceaux,TER'S LOG OF HIS MAJESTY'S ARMED VESSEL CANCEAUX Octr 1775 Tuesday 24 Portland,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[903]/title/ship
+NDAR_V02_0915,Rebecca and Francis,garbled account of the shipwreck of the REBECCA & FRANCIS .,Rebecca & Francis,Rebecca & Francis,src,/TaggedPDF-doc/div/doc[915]/src/ship
+NDAR_V02_0916,Rebecca and Francis,r or troops had sailed. 1. The REBECCA & FRANCIS .,Rebecca & Francis,Rebecca & Francis,src,/TaggedPDF-doc/div/doc[916]/src/ship
+NDAR_V02_0917,William (Ship),LES CARY Sir The Ship WILLIAM off Norfolk October 24th '775. ー,William,William,dl,/TaggedPDF-doc/div/doc[917]/dl/ship
+NDAR_V02_0927,Canceaux,TER'S LOG OF HIS MAJESTY'S ARMED VESSEL CANCEAUX Octr 1775 Wednesday 25 At Sing,Canceaux,CANCEAUX,title,/TaggedPDF-doc/div/doc[927]/title/ship
+NDAR_V02_0931,Asia,"JOURNAL OF H.M.S. ASIA , CAPTAIN GEORGE VANDEPUT Octob",Asia,ASIA,title,/TaggedPDF-doc/div/doc[931]/title/ship
+NDAR_V02_0948,Portland,O PHILIP STEPHENS Sir PORTLAND English Harbour Antigua 26t,Portland,Portland,dl,/TaggedPDF-doc/div/doc[948]/dl/ship
+NDAR_V02_0953,Franklin,"Harrisan, I regard them highly, Doctor FRANKLIN is goeing & you are allso on the Wing,",Franklin,Franklin,note,/TaggedPDF-doc/div/doc[953]/note/ship[1]
+NDAR_V02_0953,Lee,in Capt. Selmon 14-4-0 To ditto Schoo. LEE Capt. Manly 14-4-0 To ditto Schoo. War,Lee,Lee,note,/TaggedPDF-doc/div/doc[953]/note/ship[2]
+NDAR_V02_0953,Warren,"Lee Capt. Manly 14-4-0 To ditto Schoo. WARREN Capt. Adams 14-4-0."" MarbHS.",Warren,Warren,note,/TaggedPDF-doc/div/doc[953]/note/ship[3]
+NDAR_V02_0955,Mercury,[Boston] 27 [October] The MERCURY having seized a Brig laden with Wine an,Mercury,Mercury,note,/TaggedPDF-doc/div/doc[955]/note/ship
+NDAR_V02_0956,Harrison (Schooner),2. Washington's armed schooner HARRISON .,Harrison,Harrison,note,/TaggedPDF-doc/div/doc[956]/note/ship
+NDAR_V02_0962,Britannia (Schooner),", I, 168, 169. 2. The schooner BRITANNIA . See Timothy Langdon to Massachusetts G",Britannia,Britannia,note,/TaggedPDF-doc/div/doc[962]/note/ship
+NDAR_V02_0974,Henry and Joseph (Brig),"de's cargo of salt received in the brig HENRY & JOSEPH on March 10, 1775, see Woolsey to Forde",Henry & Joseph,Henry & Joseph,note,/TaggedPDF-doc/div/doc[974]/note/ship
+NDAR_V02_0975,Industry (Schooner),"tter Book, LC. 2. The schooner INDUSTRY . For account, see Woolsey to Skinner, J",Industry,Industry,note,/TaggedPDF-doc/div/doc[975]/note/ship
+NDAR_V02_0976,Sidney (Ship),l in future be more Punctual. ーOur Ship SIDNEY the other day Arrived from Nice. and it,Sidney,Sidney,note,/TaggedPDF-doc/div/doc[976]/note/ship
+NDAR_V02_0981,Mary (Schooner),HTON AND JOHN SELMAN FROM THE SCHOONERS MARY AND PRINCE WILLIAM [Off Nova S,Mary,MARY,title,/TaggedPDF-doc/div/doc[981]/title/ship[1]
+NDAR_V02_0981,Prince William,JOHN SELMAN FROM THE SCHOONERS MARY AND PRINCE WILLIAM [Off Nova Scotia],Prince William,PRINCE WILLIAM,title,/TaggedPDF-doc/div/doc[981]/title/ship[2]
+NDAR_V02_0988,Hancock,"e vessel commanded by Broughton was the HANCOCK , not the Lynch, which was not put into",Hancock,Hancock,note,/TaggedPDF-doc/div/doc[988]/note/ship[1]
+NDAR_V02_0988,Lynch,ehead. October 29. 1775 1. The LYNCH ー Schooner commanded by Captn Broughtn2,Lynch,Lynch,note,/TaggedPDF-doc/div/doc[988]/note/ship[2]
+NDAR_V02_0989,Viper (Sloop),"JOURNAL OF H.M. SLOOP VIPER , LIEUTENANT SAMUEL GRAVES Octr",Viper,VIPER,title,/TaggedPDF-doc/div/doc[989]/title/ship
+NDAR_V02_0992,Gaspee,RECEIPT FOR ORDNANCE SHIPPED ON THE GASPEE Bristol 29th Octo 1775,Gaspee,GASPEE,title,/TaggedPDF-doc/div/doc[992]/title/ship
+NDAR_V02_1006,Andrew Doria,"ed., JCC, III, 311-312. 2. The ANDREW DORIA . 3. The Cabot. 4. The",Andrew Doria,Andrew Doria,note,/TaggedPDF-doc/div/doc[1006]/note[1]/ship
+NDAR_V02_1006,Cabot,2. The Andrew Doria. 3. The CABOT . 4. The Columbus. 5.,Cabot,Cabot,note,/TaggedPDF-doc/div/doc[1006]/note[2]/ship
+NDAR_V02_1006,Columbus,3. The Cabot. 4. The COLUMBUS . 5. The Alfred. 6. In,Columbus,Columbus,note,/TaggedPDF-doc/div/doc[1006]/note[3]/ship
+NDAR_V02_1006,Alfred,4. The Columbus. 5. The ALFRED . 6. In his notes of debates in,Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1006]/note[4]/ship
+NDAR_V02_1020,Asia,"JOURNAL OF H.M.S. ASIA , CAPTAIN GEORGE VANDEPUT Octob",Asia,ASIA,title,/TaggedPDF-doc/div/doc[1020]/title/ship
+NDAR_V02_1023,Kingsfisher (Sloop),"JOURNAL OF H.M. SLOOP KINGSFISHER , CAPTAIN JAMES MONTAGU October",Kingsfisher,KINGSFISHER,title,/TaggedPDF-doc/div/doc[1023]/title/ship
+NDAR_V02_1036,Phillippa (Ship),"th or 7th of July. 1. The ship PHILLIPPA , Richard Maitland, master.",Phillippa,Phillippa,src,/TaggedPDF-doc/div/doc[1036]/src/ship
+NDAR_V02_1037,Favourite (Sloop),"LTY TO CAPTAIN ROBERT BIGGS, H.M. SLOOP FAVOURITE AT THE NORE Whereas the Earl o",Favourite,FAVOURITE,title,/TaggedPDF-doc/div/doc[1037]/title/ship
+NDAR_V02_1037,Arethusa,"this date to Captain Digby Dent, H.M.S. ARETHUSA , and to Captain Richard Pearson, H.M. S",Arethusa,Arethusa,src,/TaggedPDF-doc/div/doc[1037]/src/ship[1]
+NDAR_V02_1037,Speedwell (Sloop),"to Captain Richard Pearson, H.M. Sloop SPEEDWELL , on August 30, 1775.",Speedwell,Speedwell,src,/TaggedPDF-doc/div/doc[1037]/src/ship[2]
+NDAR_V02_1045,Experiment (Ship),"nt to Boston in His Majesty's Ships the EXPERIMENT and Niger, and their Captains being ord",Experiment,Experiment,p2,/TaggedPDF-doc/div/doc[1045]/p2/ship
+NDAR_V02_1052,Arethusa,"LETTER FROM CAPTAIN DIGBY DENT, H.M.S. ARETHUSA IN THE DOWNS [Extract]",Arethusa,ARETHUSA,title,/TaggedPDF-doc/div/doc[1052]/title/ship
+NDAR_V02_1054,Arethusa,O PHILIP STEPHENS Sir ARETHUSA in the Downes August 24th 1775.,Arethusa,Arethusa,dl,/TaggedPDF-doc/div/doc[1054]/dl/ship
+NDAR_V02_1064,Arethusa,PHILIP STEPHENS Copy ARETHUSA in the Downes August 27h 1775,Arethusa,Arethusa,dl,/TaggedPDF-doc/div/doc[1064]/dl/ship
+NDAR_V02_1068,Phoenix,"ller H Penton. By the PHOENIX 1. PRO, Admiralty 2/100, 92-93",Phoenix,Phoenix,p2,/TaggedPDF-doc/div/doc[1068]/p2/ship
+NDAR_V02_1069,Speedwell (Sloop),"PHILIP STEPHENS Copy SPEEDWELL Sloop, Yarmouth Road 31st Augt 1775",Speedwell,Speedwell,dl,/TaggedPDF-doc/div/doc[1069]/dl/ship
+NDAR_V02_1073,Charming Nancy (Transport),AL KEPT ON BOARD THE ORDNANCE TRANSPORT CHARMING NANCY [At Anchor off Spithead],Charming Nancy,CHARMING NANCY,title,/TaggedPDF-doc/div/doc[1073]/title/ship
+NDAR_V02_1073,Charming Nancy,1. Journal of a Voyage of the CHARMING NANCY to Boston in 1775 from England with fou,Charming Nancy,Charming Nancy,src,/TaggedPDF-doc/div/doc[1073]/src/ship[1]
+NDAR_V02_1073,Charming Nancy,1. Journal of a Voyage of the CHARMING NANCY to Boston in 1775 from England with fou,Charming Nancy,Charming Nancy,src,/TaggedPDF-doc/div/doc[1073]/src/ship[2]
+NDAR_V02_1074,Phoenix,hite &c. at Boston ---- By the PHOENIX Clark Gayton Esqr Re,Phoenix,Phoenix,p3,/TaggedPDF-doc/div/doc[1074]/p3[1]/ship
+NDAR_V02_1077,Magdalen (Schooner),"Dunmore for ordering home H.M. Schooner MAGDALEN , Lieutenant Henry Colins, with Lady Dun",Magdalen,Magdalen,note,/TaggedPDF-doc/div/doc[1077]/note/ship
+NDAR_V02_1079,Phoenix,"P: S: Sent the 9th Sepr by the PHOENIX 1. PRO, Admiralty 2/550, 121-1",Phoenix,Phoenix,p2,/TaggedPDF-doc/div/doc[1079]/p2/ship
+NDAR_V02_1081,Charming Nancy,"H. Parker. 1. CHARMING NANCY Journal, NYHS. Harrison was master of t",Charming Nancy,Charming Nancy,src,/TaggedPDF-doc/div/doc[1081]/src/ship[1]
+NDAR_V02_1081,Charming Nancy,"H. Parker. 1. CHARMING NANCY Journal, NYHS. Harrison was master of t",Charming Nancy,Charming Nancy,src,/TaggedPDF-doc/div/doc[1081]/src/ship[2]
+NDAR_V02_1085,Phoenix,"I am &c P: S: (By the PHOENIX ) 1. PRO, Admiralty 2/550, 117.",Phoenix,Phoenix,p2,/TaggedPDF-doc/div/doc[1085]/p2/ship
+NDAR_V02_1087,Charming Nancy (Transport),AL KEPT ON BOARD THE ORDNANCE TRANSPORT CHARMING NANCY Sailed from St Helens 8th Sept,Charming Nancy,CHARMING NANCY,title,/TaggedPDF-doc/div/doc[1087]/title/ship
+NDAR_V02_1087,Charming Nancy,y's Ship the Phoenix Capt H. Parker Junr CHARMING NANCY Baltick Merchant } Ordnance Transport,Charming Nancy,Charming Nancy,src,/TaggedPDF-doc/div/doc[1087]/src/ship
+NDAR_V02_1087,Nancy,the Phoenix Capt H. Parker JunrCharming NANCY Baltick Merchant } Ordnance Transport,Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1087]/note/ship[1]
+NDAR_V02_1087,Lee (Schooner),"g Nancy was taken by the armed schooner LEE of Washington's fleet on November 28, 1",Lee,Lee,note,/TaggedPDF-doc/div/doc[1087]/note/ship[2]
+NDAR_V02_1089,Phoenix,"I am &c P: S: (By the PHOENIX ) 1. PRO, Admiralty 2/550, 120.",Phoenix,Phoenix,p2,/TaggedPDF-doc/div/doc[1089]/p2/ship
+NDAR_V02_1090,Alderney,"O PHILIP STEPHENS Sir ALDERNEY at Spithead 10th, September 1775",Alderney,Alderney,dl,/TaggedPDF-doc/div/doc[1090]/dl/ship
+NDAR_V02_1109,Dorset,82. 2. Commander of H.M. Yacht DORSET .,Dorset,Dorset,note,/TaggedPDF-doc/div/doc[1109]/note/ship
+NDAR_V02_1112,Experiment,", I am &c. P S By the EXPERIMENT 1. PRO, Admiralty 2/550, 148.",Experiment,Experiment,p2,/TaggedPDF-doc/div/doc[1112]/p2/ship
+NDAR_V02_1114,Experiment,"to be &c P: S: By the EXPERIMENT 1. PRO, Admiralty 2/550, 154.",Experiment,Experiment,p,/TaggedPDF-doc/div/doc[1114]/p/ship
+NDAR_V02_1116,Experiment,"d, I am &c P S By the EXPERIMENT 1. PRO, Admiralty 2/550, 155.",Experiment,Experiment,p2,/TaggedPDF-doc/div/doc[1116]/p2/ship
+NDAR_V02_1120,Charming Polly (Schooner),"2. El Ferrol, Spain, in the schooner CHARMING POLLY .",Charming Polly,Charming Polly,note,/TaggedPDF-doc/div/doc[1120]/note/ship
+NDAR_V02_1123,Magdalen (Schooner),"JOURNAL OF H.M. SCHOONER MAGDALEN , LIEUTENANT JOSEPH NUNN Septem",Magdalen,MAGDALEN,title,/TaggedPDF-doc/div/doc[1123]/title/ship
+NDAR_V02_1128,Centurion,Ph. Stephens. (by the CENTURION ) Endorsed Admiralty Office 26t,Centurion,Centurion,p2,/TaggedPDF-doc/div/doc[1128]/p2[1]/ship
+NDAR_V02_1128,Thames,THAMES David La,Thames,Thames,p,/TaggedPDF-doc/div/doc[1128]/p[2]/ship
+NDAR_V02_1129,Centurion,"P: S: (By the CENTURION at Portsmo) 1. PRO, Admiralty",Centurion,Centurion,p,/TaggedPDF-doc/div/doc[1129]/p/ship
+NDAR_V02_1150,Chatham,O PHILIP STEPHENS Sir CHATHAM Spithead 6 October 1775.,Chatham,Chatham,dl,/TaggedPDF-doc/div/doc[1150]/dl/ship
+NDAR_V02_1152,Chatham,"PHILIP STEPHENS Sir, CHATHAM , Spithead 7th Octor 1775 As I",Chatham,Chatham,dl,/TaggedPDF-doc/div/doc[1152]/dl/ship
+NDAR_V02_1153,Chatham,"PHILIP STEPHENS Sir, CHATHAM , Spithead, 10th Octor 1775 ー I",Chatham,Chatham,dl,/TaggedPDF-doc/div/doc[1153]/dl/ship
+NDAR_V02_1154,Chatham,"PHILIP STEPHENS Sir, CHATHAM , Spithead 10th Octor 1775 As T",Chatham,Chatham,dl,/TaggedPDF-doc/div/doc[1154]/dl/ship
+NDAR_V02_1160,Alborough,H Palliser Duplicate by the ALBOROUGH ー 15 Jany 1776 ー *See it on th,Alborough,Alborough,p2,/TaggedPDF-doc/div/doc[1160]/p2[1]/ship
+NDAR_V02_1164,Chatham,"ERASMUS PHILIPS Sir, CHATHAM , Spithead 16 Octor 1775 ー I ha",Chatham,Chatham,dl,/TaggedPDF-doc/div/doc[1164]/dl/ship
+NDAR_V02_1171,Chatham,O PHILIP STEPHENS Sir CHATHAM Spithead 18th Octobr 1775,Chatham,Chatham,dl,/TaggedPDF-doc/div/doc[1171]/dl/ship
+NDAR_V02_1173,Jenny (Ship),Treasury. Foster was master of the ship JENNY . 2. The,Jenny,Jenny,src,/TaggedPDF-doc/div/doc[1173]/src/ship
+NDAR_V02_1173,Jenny (Ship),Treasury. Foster was master of the ship JENNY . 2. The,Jenny,Jenny,note,/TaggedPDF-doc/div/doc[1173]/note/ship[1]
+NDAR_V02_1173,Lee (Schooner),n Manley in Washington's armed schooner LEE . Before the boarding officer reached th,Lee,Lee,note,/TaggedPDF-doc/div/doc[1173]/note/ship[2]
+NDAR_V02_1173,Jenny (Ship),Treasury. Foster was master of the ship JENNY . 2. The,Jenny,Jenny,note,/TaggedPDF-doc/div/doc[1173]/note/ship[3]
+NDAR_V02_1174,Boreas,"[Charles] Thompson______________ of the BOREAS "" [Skeffington] Lutwidge______",Boreas,Boreas,p,/TaggedPDF-doc/div/doc[1174]/p[1]/ship
+NDAR_V02_1174,Triton,""" [Skeffington] Lutwidge_______________ TRITON "" [Thomas] Symonds____________",Triton,Triton,p,/TaggedPDF-doc/div/doc[1174]/p[2]/ship
+NDAR_V02_1174,Solebay,""" [Thomas] Symonds____________________ SOLEBAY 1. PRO, Admiralty 2/100, 185,",Solebay,Solebay,p,/TaggedPDF-doc/div/doc[1174]/p[3]/ship
+NDAR_V02_1175,Actaeon (Ship),Capt Atkins of His Majestys Ship ACTAEON being ordered to take the Charming Sall,Actaeon,Actaeon,p,/TaggedPDF-doc/div/doc[1175]/p[1]/ship[1]
+NDAR_V02_1175,Charming Sally,Ship Actaeon being ordered to take the CHARMING SALLY Willm Robinson Master laden with Ordnan,Charming Sally,Charming Sally,p,/TaggedPDF-doc/div/doc[1175]/p[1]/ship[2]
+NDAR_V02_1175,Actaeon (Ship),Capt Atkins of His Majestys Ship ACTAEON being ordered to take the Charming Sall,Actaeon,Actaeon,p,/TaggedPDF-doc/div/doc[1175]/p[3]/ship
+NDAR_V02_1187,Chatham,"PHILIP STEPHENS Sir, CHATHAM , Plymouth Sound 24th Octor 1775",Chatham,Chatham,dl,/TaggedPDF-doc/div/doc[1187]/dl/ship
+NDAR_V02_1198,Chatham,"PHILIP STEPHENS Sir, CHATHAM , Plymouth Sound 29th Octor 1775",Chatham,Chatham,dl,/TaggedPDF-doc/div/doc[1198]/dl/ship
+NDAR_V02_1200,Syren,"P S. Capt Furneaux, SYREN , Plymo [Endorsed] Inclosed in",Syren,Syren,p2,/TaggedPDF-doc/div/doc[1200]/p2/ship
+NDAR_V02_1204,Stakesby (Ship),CUSTOMS CLEARANCE FOR THE SHIP STAKESBY In Pursuance of the Directions,Stakesby,STAKESBY,title,/TaggedPDF-doc/div/doc[1204]/title/ship
+NDAR_V02_1204,Stakesby (Ship),"ury, I do hereby certify, that the Ship STAKESBY James Watts Master, is, by their Lordsh",Stakesby,Stakesby,note,/TaggedPDF-doc/div/doc[1204]/note/ship
+NDAR_V02_1206,Raleigh (Frigate),INVENTORY OF ARTICLES BELONGING TO THE RALEIGH FRIGATE . . . TAKEN IN FRANCE JANUARY 1,Raleigh,RALEIGH,title,/TaggedPDF-doc/div/doc[1206]/title/ship
+NDAR_V02_1211,Somerset,"JOURNAL OF H.M.S. SOMERSET , CAPTAIN EDWARD LE GRAS Novr 1",Somerset,SOMERSET,title,/TaggedPDF-doc/div/doc[1211]/title/ship
+NDAR_V02_1212,Cerberus (Ship),"Symons, commander of his Majesty's Ship CERBERUS .2HEREBY causeth it to be signified and",Cerberus,Cerberus,note,/TaggedPDF-doc/div/doc[1212]/note/ship
+NDAR_V02_1217,Preston,"GE VANDEPUT, R.N. Sir PRESTON Boston Novr 1 1775",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1217]/dl/ship
+NDAR_V02_1217,Asia,"Saml Graves Capt. Vandeput ASIA New York 1. Graves's Conduct,",Asia,Asia,p2,/TaggedPDF-doc/div/doc[1217]/p2/ship
+NDAR_V02_1217,Charlotte,"nly right not to trust the Mails in the CHARLOTTE ,3 when by tarrying a few days they migh",Charlotte,Charlotte,note,/TaggedPDF-doc/div/doc[1217]/note[2]/ship
+NDAR_V02_1219,Harrison (Schooner),"391, LC. 3. The armed schooner HARRISON of Washington's fleet.",Harrison,Harrison,p,/TaggedPDF-doc/div/doc[1219]/p/ship
+NDAR_V02_1224,Tamer (Ship),"From on board His Majesty's Ship TAMER , the 1st of November 1775. Sir",Tamer,Tamer,dl,/TaggedPDF-doc/div/doc[1224]/dl/ship
+NDAR_V02_1227,Phoebe (Sloop),"ngton Papers, LC. 2. The sloop PHOEBE , with a cargo of fish and oil. In the W",Phoebe,Phoebe,note,/TaggedPDF-doc/div/doc[1227]/note/ship
+NDAR_V02_1231,Cerberus (Ship),"d, on the Arrival yesterday of the Ship CERBERUS , with a number of Men, said to be about",Cerberus,Cerberus,p2,/TaggedPDF-doc/div/doc[1231]/p2/ship
+NDAR_V02_1233,Warren (Schooner),"ommander of Washington's armed schooner WARREN , and subsequently released as not a pro",Warren,Warren,note,/TaggedPDF-doc/div/doc[1233]/note/ship
+NDAR_V02_1236,Endeavor,"sentatives, Mass. Arch. 2. The ENDEAVOR was subsequently converted to a brig an",Endeavor,Endeavor,note,/TaggedPDF-doc/div/doc[1236]/note/ship[1]
+NDAR_V02_1236,Washington,"be delivered to his Excellency General WASHINGTON 's Order, for him to improve her as an,",Washington,Washington,note,/TaggedPDF-doc/div/doc[1236]/note/ship[2]
+NDAR_V02_1237,Preston,O PHILIP STEPHENS Sir PRESTON Boston 2 Novr 1775.,Preston,Preston,dl,/TaggedPDF-doc/div/doc[1237]/dl/ship
+NDAR_V02_1237,Scorpion,"was correct; Captain Tollemache in the SCORPION arrived at Bermuda September 17, and de",Scorpion,Scorpion,note,/TaggedPDF-doc/div/doc[1237]/note[2]/ship
+NDAR_V02_1242,Triton (Schooner),APPRAISEMENT OF THE SCHOONER TRITON The a Prisement of the Schoone,Triton,TRITON,title,/TaggedPDF-doc/div/doc[1242]/title/ship
+NDAR_V02_1242,Triton,The a Prisement of the Schooner Tryon [ TRITON ] together with hier Boat &c. as She Was,Triton,Triton,src,/TaggedPDF-doc/div/doc[1242]/src/ship[1]
+NDAR_V02_1242,Harrison (Schooner),n had already become the armed schooner HARRISON of Washington's fleet. 2. Erro,Harrison,Harrison,src,/TaggedPDF-doc/div/doc[1242]/src/ship[2]
+NDAR_V02_1243,Glasgow,"JOURNAL OF H.M.S. GLASGOW , CAPTAIN TYRINGHAM HOWE 1775 O",Glasgow,GLASGOW,title,/TaggedPDF-doc/div/doc[1243]/title/ship
+NDAR_V02_1254,Roebuck,"TO CAPTAIN ANDREW SNAPE HAMOND, H.M.S. ROEBUCK By Marriot Arbuth",Roebuck,ROEBUCK,title,/TaggedPDF-doc/div/doc[1254]/title/ship
+NDAR_V02_1254,Roebuck (Ship),m ー Captain Hamond of His Majestys Ship ROEBUCK to send a Guard of Marines consisting o,Roebuck,Roebuck,p2,/TaggedPDF-doc/div/doc[1254]/p2[2]/ship
+NDAR_V02_1255,Roebuck,RAL SAMUEL GRAVES Sir ROEBUCK at Halifax the 3d Novr 1775 I,Roebuck,Roebuck,dl,/TaggedPDF-doc/div/doc[1255]/dl/ship
+NDAR_V02_1258,Monmouth (Sloop),"ngton Papers, LC. 2. The sloop MONMOUTH , Perkins Allen, master.",Monmouth,Monmouth,note,/TaggedPDF-doc/div/doc[1258]/note/ship
+NDAR_V02_1259,Washington (Brig),CHARTER PARTY FOR THE ARMED BRIG WASHINGTON This Charter Party made & Conc,Washington,WASHINGTON,title,/TaggedPDF-doc/div/doc[1259]/title/ship
+NDAR_V02_1268,North Britain (Sloop),"ngton Papers, LC. 2. The sloop NORTH BRITAIN , John Ritchie, master.",North Britain,North Britain,note,/TaggedPDF-doc/div/doc[1268]/note/ship
+NDAR_V02_1269,Preston,"MES WALLACE, R.N. Sir PRESTON Boston Novr 4, 1775",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1269]/dl/ship
+NDAR_V02_1269,Rose,"Saml Graves Capt. Wallace ROSE , Rhode Island 1. Graves's Cond",Rose,Rose,p2,/TaggedPDF-doc/div/doc[1269]/p2/ship
+NDAR_V02_1269,Phoenix (Sloop),"I am extremely concerned that the Sloop PHOENIX Dean Master,2 mentioned in your Letter",Phoenix,Phoenix,note,/TaggedPDF-doc/div/doc[1269]/note/ship[1]
+NDAR_V02_1269,Rose,"Saml Graves Capt. Wallace ROSE , Rhode Island 1. Graves's Cond",Rose,Rose,note,/TaggedPDF-doc/div/doc[1269]/note/ship[2]
+NDAR_V02_1269,Rose,"Saml Graves Capt. Wallace ROSE , Rhode Island 1. Graves's Cond",Rose,Rose,note,/TaggedPDF-doc/div/doc[1269]/note/ship[3]
+NDAR_V02_1270,Preston,"MES WALLACE, R.N. Sir PRESTON Boston 4 Novr 1775.",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1270]/dl/ship
+NDAR_V02_1270,Rose,"imes. You receive a Set of each for the ROSE , Glasgow, and Bolton. The Viper's are d",Rose,Rose,p2,/TaggedPDF-doc/div/doc[1270]/p2/ship
+NDAR_V02_1271,Preston,"ES WALLACE, R.N. Sir, PRESTON Boston 4 Novr 1775",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1271]/dl/ship
+NDAR_V02_1271,Rose (Ship),"aster, intended for his Majesty's Ships ROSE and Glasgow but to be distributed accor",Rose,Rose,p2,/TaggedPDF-doc/div/doc[1271]/p2/ship
+NDAR_V02_1277,Baltimore (Snow),"""Capt. John [James] Clark, of the Snow BALTIMORE , arrived here last night from the eastw",Baltimore,Baltimore,note,/TaggedPDF-doc/div/doc[1277]/note/ship
+NDAR_V02_1280,Tamer,"AM HENRY DRAYTON Sir, TAMER , Rebellion Road, Nov. 4th, 1775.",Tamer,Tamer,dl,/TaggedPDF-doc/div/doc[1280]/dl/ship
+NDAR_V02_1280,Tamer,"AM HENRY DRAYTON Sir, TAMER , Rebellion Road, Nov. 4th, 1775.",Tamer,Tamer,p,/TaggedPDF-doc/div/doc[1280]/p[2]/ship[1]
+NDAR_V02_1280,Cherokee,"swer for the gentleman who commands the CHEROKEE , that his conduct has been exactly simi",Cherokee,Cherokee,p,/TaggedPDF-doc/div/doc[1280]/p[2]/ship[2]
+NDAR_V02_1283,Cerberus,"JOURNAL OF H.M.S. CERBERUS , CAPTAIN JOHN SYMONS Novr 75 S",Cerberus,CERBERUS,title,/TaggedPDF-doc/div/doc[1283]/title/ship
+NDAR_V02_1283,Ranger (Sloop),"Admiralty 51/181. 2. The sloop RANGER , William McGlathry, master, was retaken",Ranger,Ranger,note,/TaggedPDF-doc/div/doc[1283]/note/ship[1]
+NDAR_V02_1283,Lee (Schooner),n Manley in Washington's armed schooner LEE .,Lee,Lee,note,/TaggedPDF-doc/div/doc[1283]/note/ship[2]
+NDAR_V02_1285,North Britain,"Washington Papers, LC. 2. The NORTH BRITAIN , John Ritchie, master. See William Bart",North Britain,North Britain,note,/TaggedPDF-doc/div/doc[1285]/note[1]/ship
+NDAR_V02_1287,Hinchinbrook (Schooner),"JOURNAL OF H.M. SCHOONER HINCHINBROOK , LIEUTENANT ALEXANDER ELLIS No",Hinchinbrook,HINCHINBROOK,title,/TaggedPDF-doc/div/doc[1287]/title/ship
+NDAR_V02_1288,Preston,"MES WALLACE, R.N. Sir PRESTON , Boston 5 November 1775 Captai",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1288]/dl/ship
+NDAR_V02_1288,Rose,"Saml Graves Captain Wallace ROSE , Rhode Island. 1. Graves's Con",Rose,Rose,p2,/TaggedPDF-doc/div/doc[1288]/p2/ship
+NDAR_V02_1289,Preston,"MES WALLACE, R.N. Sir PRESTON Boston 5 Novr 1775",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1289]/dl/ship
+NDAR_V02_1289,Rose,Saml Graves. Capt: Wallace ROSE Rhode Island. 1. Graves's Cond,Rose,Rose,p2,/TaggedPDF-doc/div/doc[1289]/p2/ship
+NDAR_V02_1290,Harrison (Schooner),"ers, LC. 2. The armed schooner HARRISON of Washington's fleet.",Harrison,Harrison,note,/TaggedPDF-doc/div/doc[1290]/note/ship
+NDAR_V02_1291,Rose,"JOURNAL OF H.M.S. ROSE , CAPTAIN JAMES WALLACE Novr 17",Rose,ROSE,title,/TaggedPDF-doc/div/doc[1291]/title/ship
+NDAR_V02_1293,Asia,"JOURNAL OF H.M.S. ASIA , CAPTAIN GEORGE VANDEPUT Novem",Asia,ASIA,title,/TaggedPDF-doc/div/doc[1293]/title/ship
+NDAR_V02_1293,Halifax,"rnor Tryon had fled on board the packet HALIFAX on October 18, 1775, but, on October 30",Halifax,Halifax,note,/TaggedPDF-doc/div/doc[1293]/note/ship[1]
+NDAR_V02_1293,Dutchess of Gordon,"awse, sent some small Arms on board the DUTCHESS OF GORDON for the Governors defence2Sunday 5A M S",Dutchess of Gordon,Dutchess of Gordon,note,/TaggedPDF-doc/div/doc[1293]/note/ship[2]
+NDAR_V02_1298,Warren (Sloop),"ngton Papers, LC. 2. The sloop WARREN , John Denny, master and owner. In the W",Warren,Warren,note,/TaggedPDF-doc/div/doc[1298]/note[1]/ship
+NDAR_V02_1298,Franklin,this I carried away the mainmast of the FRANKLIN ; both crews went into a forest of woods,Franklin,Franklin,note,/TaggedPDF-doc/div/doc[1298]/note[2]/ship
+NDAR_V02_1299,Roebuck,"TO CAPTAIN ANDREW SNAPE HAMOND, H.M.S. ROEBUCK In consequence of Orders from",Roebuck,ROEBUCK,title,/TaggedPDF-doc/div/doc[1299]/title/ship
+NDAR_V02_1300,North Britain,"Washington Papers, LC. 2. The NORTH BRITAIN . See Moylan to Bartlett, November 5, 17",North Britain,North Britain,note,/TaggedPDF-doc/div/doc[1300]/note/ship
+NDAR_V02_1303,Washington,"a Number of Carriage Guns on board the WASHINGTON ; but I sincerely hope his Success, will",Washington,Washington,p2,/TaggedPDF-doc/div/doc[1303]/p2[2]/ship
+NDAR_V02_1306,Polly (Sloop),"ngton Papers, LC. 2. The sloop POLLY and the schooner Industry.",Polly,Polly,note,/TaggedPDF-doc/div/doc[1306]/note/ship[1]
+NDAR_V02_1306,Industry (Schooner),2. The sloop Polly and the schooner INDUSTRY .,Industry,Industry,note,/TaggedPDF-doc/div/doc[1306]/note/ship[2]
+NDAR_V02_1308,Polly (Sloop),"CARGO MANIFEST, SLOOP POLLY 2",Polly,POLLY,title,/TaggedPDF-doc/div/doc[1308]/title/ship
+NDAR_V02_1308,Polly,"zes and Captures, Nos. 265 and 153, LC. POLLY , Sibeline White, master, was from Nova",Polly,Polly,src,/TaggedPDF-doc/div/doc[1308]/src/ship
+NDAR_V02_1313,Kingsfisher (Sloop),"JOURNAL OF H.M. SLOOP KINGSFISHER , CAPTAIN JAMES MONTAGU Novembe",Kingsfisher,KINGSFISHER,title,/TaggedPDF-doc/div/doc[1313]/title/ship
+NDAR_V02_1320,Monmouth (Sloop),"ient to be gone;"" 3. The sloop MONMOUTH . 4. The Polly and the Industry",Monmouth,Monmouth,note,/TaggedPDF-doc/div/doc[1320]/note[2]/ship
+NDAR_V02_1320,Polly,3. The sloop Monmouth. 4. The POLLY and the Industry.,Polly,Polly,note,/TaggedPDF-doc/div/doc[1320]/note[3]/ship[1]
+NDAR_V02_1320,Industry,Monmouth. 4. The Polly and the INDUSTRY .,Industry,Industry,note,/TaggedPDF-doc/div/doc[1320]/note[3]/ship[2]
+NDAR_V02_1333,Dickinson (Boat),ointed 2nd Lieutenant to the armed Boat DICKINSON . Capt. [George] Hastings was t,Dickinson,Dickinson,p,/TaggedPDF-doc/div/doc[1333]/p[1]/ship
+NDAR_V02_1334,William (Ship),"e.GIVEN under my Hand on board the Ship WILLIAM , off Norfolk, the 7th Day of November,",William,William,src,/TaggedPDF-doc/div/doc[1334]/src/ship[1]
+NDAR_V02_1334,William (Ship),"e.GIVEN under my Hand on board the Ship WILLIAM , off Norfolk, the 7th Day of November,",William,William,src,/TaggedPDF-doc/div/doc[1334]/src/ship[2]
+NDAR_V02_1336,Lizard,"ock Papers, III, LC. 2. H.M.S. LIZARD . 3. The Hunter, to which Arnol",Lizard,Lizard,note,/TaggedPDF-doc/div/doc[1336]/note[1]/ship
+NDAR_V02_1336,Hunter,"2. H.M.S. Lizard. 3. The HUNTER , to which Arnold apparently refers, was",Hunter,Hunter,note,/TaggedPDF-doc/div/doc[1336]/note[2]/ship
+NDAR_V02_1342,Charming Nancy (Transport),"AL KEPT ON BOARD THE ORDNANCE TRANSPORT CHARMING NANCY Wednesday 8 [November, 1775].",Charming Nancy,CHARMING NANCY,title,/TaggedPDF-doc/div/doc[1342]/title/ship
+NDAR_V02_1342,Charming Nancy,"ms on Each side of the Deck 1. CHARMING NANCY Journal, NYHS. 2. Cape Ann and",Charming Nancy,Charming Nancy,src,/TaggedPDF-doc/div/doc[1342]/src/ship
+NDAR_V02_1343,Phoebe,"Washington Papers, LC. 2. The PHOEBE .",Phoebe,Phoebe,note,/TaggedPDF-doc/div/doc[1343]/note/ship
+NDAR_V02_1345,Monmouth (Sloop),"Papers, II, LC. 2. The sloops MONMOUTH and North Britain respectively.",Monmouth,Monmouth,note,/TaggedPDF-doc/div/doc[1345]/note[1]/ship[1]
+NDAR_V02_1345,North Britain,LC. 2. The sloops Monmouth and NORTH BRITAIN respectively. 3. See Captain J,North Britain,North Britain,note,/TaggedPDF-doc/div/doc[1345]/note[1]/ship[2]
+NDAR_V02_1349,Washin[g]ton (Brig),Occasion of a Cruize On Board the Brig WASHIN[G]TON Capt. Sion Martindall the 8 of November,Washin[g]ton,Washin[g]ton,src,/TaggedPDF-doc/div/doc[1349]/src/ship[1]
+NDAR_V02_1349,Washington (Brig),. Manvide was surgeon of the armed brig WASHINGTON of,Washington,Washington,src,/TaggedPDF-doc/div/doc[1349]/src/ship[2]
+NDAR_V02_1351,Preston,"O PHILIP STEPHENS Sir PRESTON Boston Novr 8, 1775,",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1351]/dl/ship
+NDAR_V02_1351,Hinchinbrook,which I hope he will be able to do.The HINCHINBROOK e Schooner commanded by Lieutenant [Alex,Hinchinbrook,Hinchinbrook,note,/TaggedPDF-doc/div/doc[1351]/note[2]/ship[1]
+NDAR_V02_1351,Adventure,"e directed them to be exchanged for the ADVENTURE s Guns, which being four pounders are fi",Adventure,Adventure,note,/TaggedPDF-doc/div/doc[1351]/note[2]/ship[2]
+NDAR_V02_1351,Hope (Schooner),ther Arties on board Got 6 men from the HOPE Schooner & 6 from the Preston at ½ past,Hope,Hope,note,/TaggedPDF-doc/div/doc[1351]/note[2]/ship[3]
+NDAR_V02_1351,Preston,"O PHILIP STEPHENS Sir PRESTON Boston Novr 8, 1775,",Preston,Preston,note,/TaggedPDF-doc/div/doc[1351]/note[2]/ship[4]
+NDAR_V02_1351,Adventure,"e directed them to be exchanged for the ADVENTURE s Guns, which being four pounders are fi",Adventure,Adventure,note,/TaggedPDF-doc/div/doc[1351]/note[2]/ship[5]
+NDAR_V02_1357,Lizard (Ship),"ted to me the use of his Majesty's Ship LIZARD , and desiring my Stay to protect, as mu",Lizard,Lizard,dl2,/TaggedPDF-doc/div/doc[1357]/dl2/ship
+NDAR_V02_1358,Lizard,PHILIP STEPHENS Copy LIZARD 9th Novr 1775. ー Sir Be pleas,Lizard,Lizard,dl,/TaggedPDF-doc/div/doc[1358]/dl/ship
+NDAR_V02_1359,Hunter (Sloop),"JOURNAL OF H.M. SLOOP HUNTER , CAPTAIN THOMAS MACKENZIE Novr",Hunter,HUNTER,title,/TaggedPDF-doc/div/doc[1359]/title/ship
+NDAR_V02_1360,Two Sisters (Schooner),"on Papers, LC. 2. The schooner TWO SISTERS , Robert Robins, master.",Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1360]/note/ship
+NDAR_V02_1361,Prince William (Schooner),"n Papers, LC. 2. The schooners PRINCE WILLIAM and Mary. 3. The sloop Ranger,",Prince William,Prince William,note,/TaggedPDF-doc/div/doc[1361]/note[1]/ship[1]
+NDAR_V02_1361,Mary,"2. The schooners Prince William and MARY . 3. The sloop Ranger, William",Mary,Mary,note,/TaggedPDF-doc/div/doc[1361]/note[1]/ship[2]
+NDAR_V02_1361,Ranger (Sloop),"William and Mary. 3. The sloop RANGER , William McGlathry, master.",Ranger,Ranger,note,/TaggedPDF-doc/div/doc[1361]/note[2]/ship
+NDAR_V02_1363,North Britain,"n Ritchie and John Ritchie, Jr., of the NORTH BRITAIN .",North Britain,North Britain,note,/TaggedPDF-doc/div/doc[1363]/note/ship
+NDAR_V02_1364,Polly (Sloop),. 2. The prizes were the sloop POLLY and the schooner Industry. 3.,Polly,Polly,note,/TaggedPDF-doc/div/doc[1364]/note[1]/ship[1]
+NDAR_V02_1364,Industry (Schooner),s were the sloop Polly and the schooner INDUSTRY . 3. For a further description,Industry,Industry,note,/TaggedPDF-doc/div/doc[1364]/note[1]/ship[2]
+NDAR_V02_1364,Harrison (Schooner),"r a further description of the schooner HARRISON , in picturesque language, see Coit to S",Harrison,Harrison,note,/TaggedPDF-doc/div/doc[1364]/note[2]/ship
+NDAR_V02_1369,Preston,"NDER GRAEME, R.N. Sir PRESTON , Boston 9 Novr 1775. I have re",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1369]/dl/ship
+NDAR_V02_1369,Mercury,"er of this date acquainting me that the MERCURY is so foul she often misses Stays, goes",Mercury,Mercury,p2,/TaggedPDF-doc/div/doc[1369]/p2/ship
+NDAR_V02_1370,Scarborough,"JOURNAL OF H. M. S. SCARBOROUGH , CAPTAIN ANDREW BARKLEY Novr 7",Scarborough,SCARBOROUGH,title,/TaggedPDF-doc/div/doc[1370]/title/ship
+NDAR_V02_1371,Scarborough,TO VICE ADMIRAL SAMUEL GRAVES SCARBOROUGH Charles Town River Novemr 9,Scarborough,Scarborough,dl,/TaggedPDF-doc/div/doc[1371]/dl/ship
+NDAR_V02_1372,Lively,"JOURNAL OF H.M.S. LIVELY , CAPTAIN THOMAS BISHOP Novr 17",Lively,LIVELY,title,/TaggedPDF-doc/div/doc[1372]/title/ship
+NDAR_V02_1372,Lively,"on in Penobscot Bay under convoy of the LIVELY , having been in that bay and river sinc",Lively,Lively,note,/TaggedPDF-doc/div/doc[1372]/note/ship
+NDAR_V02_1373,Charming Nancy (Transport),AL KEPT ON BOARD THE ORDNANCE TRANSPORT CHARMING NANCY Thursday 9 Novr [1775] Rainy,Charming Nancy,CHARMING NANCY,title,/TaggedPDF-doc/div/doc[1373]/title/ship
+NDAR_V02_1373,Charming Nancy,"killed at the above Affair. 1. CHARMING NANCY Journal, NYHS.",Charming Nancy,Charming Nancy,src,/TaggedPDF-doc/div/doc[1373]/src/ship
+NDAR_V02_1380,Kingfisher (Sloop),"Extract from the journal of H.M. sloop KINGFISHER ; ""November 9, 1775. At Singl Anchor in",Kingfisher,Kingfisher,src,/TaggedPDF-doc/div/doc[1380]/src/ship
+NDAR_V02_1382,St. Lawrence (Schooner),"olina, 59-62. 2. H.M. Schooner ST. LAWRENCE , Lieutenant John Graves.",St. Lawrence,St. Lawrence,note,/TaggedPDF-doc/div/doc[1382]/note/ship
+NDAR_V02_1383,Tamar (Sloop),"CAPTAIN EDWARD THORNBROUGH, H.M. SLOOP TAMAR Sir, Charlestown, Nov",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[1383]/title/ship
+NDAR_V02_1384,Lizard,O PHILIP STEPHENS Sir LIZARD at Quebec the 10th Novemr 1775,Lizard,Lizard,dl,/TaggedPDF-doc/div/doc[1384]/dl/ship
+NDAR_V02_1387,Harrison (Schooner),"2. Washington's armed schooner HARRISON , William Coit. 3. The schooner",Harrison,Harrison,note,/TaggedPDF-doc/div/doc[1387]/note[1]/ship
+NDAR_V02_1387,Two Sisters (Schooner),"William Coit. 3. The schooner TWO SISTERS , Robert Robbins, master.",Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1387]/note[2]/ship
+NDAR_V02_1388,Phoebe (Sloop),"ngton Papers, LC. 2. The sloop PHOEBE . 3. The schooner Two Sisters.",Phoebe,Phoebe,note,/TaggedPDF-doc/div/doc[1388]/note[1]/ship
+NDAR_V02_1388,Two Sisters (Schooner),sloop Phoebe. 3. The schooner TWO SISTERS .,Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1388]/note[2]/ship
+NDAR_V02_1389,Two Sisters (Schooner),"s, Mass. Arch. 2. The schooner TWO SISTERS . 3. The act was written as a r",Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1389]/note[1]/ship
+NDAR_V02_1389,North Britain (Schooner),"everly, who had brought in the schooner NORTH BRITAIN .",North Britain,North Britain,note,/TaggedPDF-doc/div/doc[1389]/note[2]/ship
+NDAR_V02_1391,Prince William (Schooner),"ccount of the captures of the schooners PRINCE WILLIAM and Mary, and the sloop Phoebe, made by",Prince William,Prince William,note,/TaggedPDF-doc/div/doc[1391]/note[1]/ship[1]
+NDAR_V02_1391,Mary,"res of the schooners Prince William and MARY , and the sloop Phoebe, made by Broughto",Mary,Mary,note,/TaggedPDF-doc/div/doc[1391]/note[1]/ship[2]
+NDAR_V02_1391,Phoebe (Sloop),"Prince William and Mary, and the sloop PHOEBE , made by Broughton and Selman, in Washi",Phoebe,Phoebe,note,/TaggedPDF-doc/div/doc[1391]/note[1]/ship[3]
+NDAR_V02_1391,Hancock (Schooner),"Selman, in Washington's armed schooners HANCOCK and Franklin. 3. This was John",Hancock,Hancock,note,/TaggedPDF-doc/div/doc[1391]/note[1]/ship[4]
+NDAR_V02_1391,Franklin,ashington's armed schooners Hancock and FRANKLIN . 3. This was John Manley's rec,Franklin,Franklin,note,/TaggedPDF-doc/div/doc[1391]/note[1]/ship[5]
+NDAR_V02_1391,Ranger (Sloop),as John Manley's recapture of the sloop RANGER ; not that of Captain Adams named in the,Ranger,Ranger,note,/TaggedPDF-doc/div/doc[1391]/note[2]/ship
+NDAR_V02_1391,Polly (Sloop),ed in the letter. 4. The sloop POLLY and schooner Industry.,Polly,Polly,note,/TaggedPDF-doc/div/doc[1391]/note[3]/ship[1]
+NDAR_V02_1391,Industry (Schooner),4. The sloop Polly and schooner INDUSTRY .,Industry,Industry,note,/TaggedPDF-doc/div/doc[1391]/note[3]/ship[2]
+NDAR_V02_1392,Cerberus,"JOURNAL OF H.M.S. CERBERUS , CAPTAIN JOHN SYMONS Novr 75 W",Cerberus,CERBERUS,title,/TaggedPDF-doc/div/doc[1392]/title/ship
+NDAR_V02_1392,Nancy (Brig),"y 51/181. 2. The ordnance brig NANCY , subsequently taken by John Manley in W",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1392]/note[1]/ship[1]
+NDAR_V02_1392,Lee,e points of the Main Sl gave way on the LEE Side by which the Sl Split at 10 carry,Lee,Lee,note,/TaggedPDF-doc/div/doc[1392]/note[1]/ship[2]
+NDAR_V02_1392,Cerberus,"lip Stephens on December 28, 1775: ""The CERBERUS had the Ordnance Brig under Convoy seve",Cerberus,Cerberus,note,/TaggedPDF-doc/div/doc[1392]/note[2]/ship
+NDAR_V02_1393,Providence,HODE ISLAND HOUSE OF ASSEMBLY [ PROVIDENCE ] Novemr 10h 1775 To the House,Providence,Providence,note,/TaggedPDF-doc/div/doc[1393]/note/ship
+NDAR_V02_1394,Rose,"JOURNAL OF H.M.S. ROSE , CAPTAIN JAMES WALLACE Novr 17",Rose,ROSE,title,/TaggedPDF-doc/div/doc[1394]/title/ship
+NDAR_V02_1400,Otter (Sloop),"JOURNAL OF H.M. SLOOP OTTER , CAPTAIN MATTHEW SQUIRE Novemb",Otter,OTTER,title,/TaggedPDF-doc/div/doc[1400]/title/ship
+NDAR_V02_1404,Savage,acquaint the commanding officer of the SAVAGE they are to Succeed you. 1. Ha,Savage,Savage,p2,/TaggedPDF-doc/div/doc[1404]/p2[2]/ship
+NDAR_V02_1405,Hinchinbrook (Schooner),"JOURNAL OF H.M. SCHOONER HINCHINBROOK , LIEUTENANT ALEXANDER ELLIS No",Hinchinbrook,HINCHINBROOK,title,/TaggedPDF-doc/div/doc[1405]/title/ship
+NDAR_V02_1406,Hancock (Schooner),Selman in Washington's armed schooners HANCOCK and Franklin. Devereux was second lieut,Hancock,Hancock,note,/TaggedPDF-doc/div/doc[1406]/note/ship[1]
+NDAR_V02_1406,Franklin,ashington's armed schooners Hancock and FRANKLIN . Devereux was second lieutenant of the,Franklin,Franklin,note,/TaggedPDF-doc/div/doc[1406]/note/ship[2]
+NDAR_V02_1406,Hancock (Schooner),Selman in Washington's armed schooners HANCOCK and Franklin. Devereux was second lieut,Hancock,Hancock,note,/TaggedPDF-doc/div/doc[1406]/note/ship[3]
+NDAR_V02_1407,Franklin,man. Homan was second lieutenant of the FRANKLIN .,Franklin,Franklin,note,/TaggedPDF-doc/div/doc[1407]/note/ship
+NDAR_V02_1408,Ranger (Sloop),"k Papers, II, LC. 2. The sloop RANGER . 3. See copy of the act, Novem",Ranger,Ranger,note,/TaggedPDF-doc/div/doc[1408]/note[1]/ship
+NDAR_V02_1408,North Britain (Schooner),"4. The references are to the schooner NORTH BRITAIN , carried into Beverly (not Plymouth), a",North Britain,North Britain,note,/TaggedPDF-doc/div/doc[1408]/note[3]/ship[1]
+NDAR_V02_1408,Two Sisters (Schooner),"to Beverly (not Plymouth), and schooner TWO SISTERS . 5. Washinton writing about th",Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1408]/note[3]/ship[2]
+NDAR_V02_1409,Two Sisters (Schooner),"on Papers, LC. 2. The schooner TWO SISTERS .",Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1409]/note/ship
+NDAR_V02_1412,Two Sisters (Schooner),"II, 1531-1532. 2. The schooner TWO SISTERS . 3. Extracts of these intercep",Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1412]/note[1]/ship
+NDAR_V02_1412,Pennsylvania Packet,"ngress November 20, were printed in the PENNSYLVANIA PACKET , November 27, 1775.",Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[1412]/note[2]/ship
+NDAR_V02_1413,Two Sisters (Schooner),"ember 1, 1775. 3. The schooner TWO SISTERS , from Ireland for Boston with provision",Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1413]/note[2]/ship
+NDAR_V02_1414,Preston,"GE VANDEPUT, R.N. Sir PRESTON Boston November 11, 1775.",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1414]/dl/ship
+NDAR_V02_1414,Asia,d better take up his abode on board the ASIA until he can reside on shore with Secur,Asia,Asia,p2,/TaggedPDF-doc/div/doc[1414]/p2/ship
+NDAR_V02_1415,Preston,"MES WALLACE, R.N. Sir PRESTON Boston 11 Novr 1775",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1415]/dl/ship
+NDAR_V02_1415,Raven,the Rebellion until the arrival of the RAVEN on the 4th of October issued from himse,Raven,Raven,note,/TaggedPDF-doc/div/doc[1415]/note/ship[1]
+NDAR_V02_1415,Phoenix,"bey the Admiralty Orders brought by the PHOENIX .""",Phoenix,Phoenix,note,/TaggedPDF-doc/div/doc[1415]/note/ship[2]
+NDAR_V02_1416,Scarborough,"HOWE TO CAPTAIN ANDREW BARKLEY, H.M.S. SCARBOROUGH (Copy) Boston Novr 11",Scarborough,SCARBOROUGH,title,/TaggedPDF-doc/div/doc[1416]/title/ship
+NDAR_V02_1421,Glasgow,"JOURNAL OF H.M.S. GLASGOW , CAPTAIN TYRINGHAM HOWE Novemb",Glasgow,GLASGOW,title,/TaggedPDF-doc/div/doc[1421]/title/ship
+NDAR_V02_1421,Glasgow's,"ty 51/398. 2. According to the GLASGOW'S journal, May and Hannon returned on boa",Glasgow's,Glasgow's,note,/TaggedPDF-doc/div/doc[1421]/note/ship
+NDAR_V02_1425,Dutchess of Gordon (Ship),"[Extract] On Board the Ship DUTCHESS OF GORDON New York Harbour Nov 11, 17",Dutchess of Gordon,Dutchess of Gordon,dl,/TaggedPDF-doc/div/doc[1425]/dl/ship
+NDAR_V02_1432,St. Lawrence (Schooner),"JOURNAL OF H.M. SCHOONER ST. LAWRENCE , LIEUTENANT JOHN GRAVES Novr 1",St. Lawrence,ST. LAWRENCE,title,/TaggedPDF-doc/div/doc[1432]/title/ship
+NDAR_V02_1433,Cerberus,"arks Transcript, HU. 2. H.M.S. CERBERUS . 3. Letter continued November",Cerberus,Cerberus,note,/TaggedPDF-doc/div/doc[1433]/note[1]/ship
+NDAR_V02_1435,Two Sisters,"s Letters, II, 425-427. 2. The TWO SISTERS had been captured by the armed schooner",Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1435]/note[1]/ship[1]
+NDAR_V02_1435,Lee (Schooner),"had been captured by the armed schooner LEE , John Manley. 3. A reference t",Lee,Lee,note,/TaggedPDF-doc/div/doc[1435]/note[1]/ship[2]
+NDAR_V02_1436,Nancy (Brig),"to Sea immediately to look for the Brig NANCY ,2 and have given directions to set her",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1436]/note/ship
+NDAR_V02_1439,Cruizer (Sloop),tract] No Carolina CRUIZER Sloop of War in Cape Fear River Novembe,Cruizer,Cruizer,dl,/TaggedPDF-doc/div/doc[1439]/dl/ship
+NDAR_V02_1439,Scorpion (Sloop),"hips bound thither, or to this Port.The SCORPION Sloop of War arrived here yesterday fro",Scorpion,Scorpion,note,/TaggedPDF-doc/div/doc[1439]/note/ship[1]
+NDAR_V02_1439,Palliser (Transport),"the bar his Majtys sloop Scorpion, the PALLISER transport, & a ship with Emigrants from",Palliser,Palliser,note,/TaggedPDF-doc/div/doc[1439]/note/ship[2]
+NDAR_V02_1439,Cruizer (Sloop),tract] No Carolina CRUIZER Sloop of War in Cape Fear River Novembe,Cruizer,Cruizer,note,/TaggedPDF-doc/div/doc[1439]/note/ship[3]
+NDAR_V02_1440,Tamar (Sloop),2. See the journal of H.M. Sloop TAMAR for November 11 and 12 under November 1,Tamar,Tamar,note,/TaggedPDF-doc/div/doc[1440]/note/ship
+NDAR_V02_1441,Defence (Schooner),"Tufts, commander of the colony scooner DEFENCE , mounted with two nine-pounders, six si",Defence,Defence,p,/TaggedPDF-doc/div/doc[1441]/p[2]/ship[1]
+NDAR_V02_1441,Tamer (Ship),"ing about gunshot from the King's ships TAMER of sixteen, and the Cherokee of six gun",Tamer,Tamer,p,/TaggedPDF-doc/div/doc[1441]/p[2]/ship[2]
+NDAR_V02_1441,Cherokee,"King's ships Tamer of sixteen, and the CHEROKEE of six guns. ー As Captain Tufts approac",Cherokee,Cherokee,p,/TaggedPDF-doc/div/doc[1441]/p[2]/ship[3]
+NDAR_V02_1441,Tamer (Ship),"ing about gunshot from the King's ships TAMER of sixteen, and the Cherokee of six gun",Tamer,Tamer,p,/TaggedPDF-doc/div/doc[1441]/p[2]/ship[4]
+NDAR_V02_1441,Tamer (Ship),"ing about gunshot from the King's ships TAMER of sixteen, and the Cherokee of six gun",Tamer,Tamer,p,/TaggedPDF-doc/div/doc[1441]/p[2]/ship[5]
+NDAR_V02_1441,Tamer (Ship),"ing about gunshot from the King's ships TAMER of sixteen, and the Cherokee of six gun",Tamer,Tamer,p,/TaggedPDF-doc/div/doc[1441]/p[2]/ship[6]
+NDAR_V02_1441,Cherokee,"King's ships Tamer of sixteen, and the CHEROKEE of six guns. ー As Captain Tufts approac",Cherokee,Cherokee,p,/TaggedPDF-doc/div/doc[1441]/p[2]/ship[7]
+NDAR_V02_1441,Tamer (Ship),"ing about gunshot from the King's ships TAMER of sixteen, and the Cherokee of six gun",Tamer,Tamer,p,/TaggedPDF-doc/div/doc[1441]/p[2]/ship[8]
+NDAR_V02_1441,Tamer (Ship),"ing about gunshot from the King's ships TAMER of sixteen, and the Cherokee of six gun",Tamer,Tamer,p,/TaggedPDF-doc/div/doc[1441]/p[2]/ship[9]
+NDAR_V02_1441,Cherokee,"King's ships Tamer of sixteen, and the CHEROKEE of six guns. ー As Captain Tufts approac",Cherokee,Cherokee,p,/TaggedPDF-doc/div/doc[1441]/p[2]/ship[10]
+NDAR_V02_1441,Tamer (Ship),"ing about gunshot from the King's ships TAMER of sixteen, and the Cherokee of six gun",Tamer,Tamer,p,/TaggedPDF-doc/div/doc[1441]/p[2]/ship[11]
+NDAR_V02_1441,Cherokee,"King's ships Tamer of sixteen, and the CHEROKEE of six guns. ー As Captain Tufts approac",Cherokee,Cherokee,p,/TaggedPDF-doc/div/doc[1441]/p[2]/ship[12]
+NDAR_V02_1444,Two Sisters,"Washington Papers, LC. 2. The TWO SISTERS . 3. In the William Bartlett Pa",Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1444]/note[1]/ship
+NDAR_V02_1444,North Britain,"there are two receipts relating to the NORTH BRITAIN , one undated, and the other dated Novem",North Britain,North Britain,note,/TaggedPDF-doc/div/doc[1444]/note[2]/ship[1]
+NDAR_V02_1444,Britton,o such Vessells brought in as the North BRITTON I shall with Pleasure comply with your,Britton,Britton,note,/TaggedPDF-doc/div/doc[1444]/note[2]/ship[2]
+NDAR_V02_1444,North Britton,gard to such Vessells brought in as the NORTH BRITTON I shall with Pleasure comply with your,North Britton,North Britton,note,/TaggedPDF-doc/div/doc[1444]/note[2]/ship[3]
+NDAR_V02_1445,Prince William (Schooner),"517, BHS. 2. Owner of schooner PRINCE WILLIAM . 3. Owner of schooner Mary.",Prince William,Prince William,note,/TaggedPDF-doc/div/doc[1445]/note[1]/ship
+NDAR_V02_1445,Mary (Schooner),William. 3. Owner of schooner MARY . 4. Master of the sloop Phoebe,Mary,Mary,note,/TaggedPDF-doc/div/doc[1445]/note[2]/ship
+NDAR_V02_1445,Phoebe (Sloop),r Mary. 4. Master of the sloop PHOEBE . 5. Master of sloop Warren.,Phoebe,Phoebe,note,/TaggedPDF-doc/div/doc[1445]/note[3]/ship
+NDAR_V02_1445,Warren (Sloop),oop Phoebe. 5. Master of sloop WARREN . 6. Passenger in the sloop,Warren,Warren,note,/TaggedPDF-doc/div/doc[1445]/note[4]/ship
+NDAR_V02_1445,Warren (Sloop),oop Phoebe. 5. Master of sloop WARREN . 6. Passenger in the sloop,Warren,Warren,note,/TaggedPDF-doc/div/doc[1445]/note[5]/ship
+NDAR_V02_1445,Speedwell (Sloop),"Warren. 7, Master of the sloop SPEEDWELL .",Speedwell,Speedwell,note,/TaggedPDF-doc/div/doc[1445]/note[6]/ship
+NDAR_V02_1446,Sally (Sloop),MITMENT OF PRISONERS TAKEN IN THE SLOOP SALLY Colony of the Massachusetts-Ba,Sally,SALLY,title,/TaggedPDF-doc/div/doc[1446]/title/ship
+NDAR_V02_1446,Sally (Sloop),the Prisoners lately taken in the Sloop SALLY (excepting the Woman) and brought into,Sally,Sally,p,/TaggedPDF-doc/div/doc[1446]/p/ship
+NDAR_V02_1447,Two Sisters,"port, December 29, 1775, ー ""Also of the TWO SISTERS , Robins, from Corke to Boston, being ta",Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1447]/note[1]/ship
+NDAR_V02_1447,North Britain (Schooner),"nuary 1, 1776. 2. The schooner NORTH BRITAIN . 3. Extract from the Diary of",North Britain,North Britain,note,/TaggedPDF-doc/div/doc[1447]/note[2]/ship
+NDAR_V02_1448,Harrison (Schooner),", LC. 2. In the armed schooner HARRISON of Washington's fleet.",Harrison,Harrison,note,/TaggedPDF-doc/div/doc[1448]/note/ship
+NDAR_V02_1451,Black Prince,"adelphia] Novr 13th. 1775. The BLACK PRINCE , a large Ship, is fitting to carry 20 N",Black Prince,Black Prince,note,/TaggedPDF-doc/div/doc[1451]/note[1]/ship[1]
+NDAR_V02_1451,Alfred,"f Drowne's letter, had been renamed the ALFRED by the Naval Committee of Congress. The",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1451]/note[1]/ship[2]
+NDAR_V02_1451,Black Prince,"adelphia] Novr 13th. 1775. The BLACK PRINCE , a large Ship, is fitting to carry 20 N",Black Prince,Black Prince,note,/TaggedPDF-doc/div/doc[1451]/note[2]/ship
+NDAR_V02_1451,Black Prince,"adelphia] Novr 13th. 1775. The BLACK PRINCE , a large Ship, is fitting to carry 20 N",Black Prince,Black Prince,note,/TaggedPDF-doc/div/doc[1451]/note[6]/ship
+NDAR_V02_1451,Black Prince,"adelphia] Novr 13th. 1775. The BLACK PRINCE , a large Ship, is fitting to carry 20 N",Black Prince,Black Prince,note,/TaggedPDF-doc/div/doc[1451]/note[8]/ship
+NDAR_V02_1451,Black Prince,"adelphia] Novr 13th. 1775. The BLACK PRINCE , a large Ship, is fitting to carry 20 N",Black Prince,Black Prince,note,/TaggedPDF-doc/div/doc[1451]/note[10]/ship
+NDAR_V02_1451,Black Prince,"adelphia] Novr 13th. 1775. The BLACK PRINCE , a large Ship, is fitting to carry 20 N",Black Prince,Black Prince,note,/TaggedPDF-doc/div/doc[1451]/note[13]/ship
+NDAR_V02_1451,Alfred,"f Drowne's letter, had been renamed the ALFRED by the Naval Committee of Congress. The",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1451]/note[15]/ship
+NDAR_V02_1451,Alfred,"f Drowne's letter, had been renamed the ALFRED by the Naval Committee of Congress. The",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1451]/note[21]/ship
+NDAR_V02_1451,Alfred,"f Drowne's letter, had been renamed the ALFRED by the Naval Committee of Congress. The",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1451]/note[26]/ship
+NDAR_V02_1451,Alfred,"f Drowne's letter, had been renamed the ALFRED by the Naval Committee of Congress. The",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1451]/note[28]/ship
+NDAR_V02_1452,Prince George (Ship),g the disposal of prizes after the ship PRINCE GEORGE was captured in October.,Prince George,Prince George,note,/TaggedPDF-doc/div/doc[1452]/note/ship
+NDAR_V02_1459,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH 17",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[1459]/title/ship
+NDAR_V02_1463,Lizard,"JOURNAL OF H.M.S. LIZARD , CAPTAIN JOHN HAMILTON Novembe",Lizard,LIZARD,title,/TaggedPDF-doc/div/doc[1463]/title/ship
+NDAR_V02_1466,Industry (Schooner),EXAMINATION OF THE CREW OF THE SCHOONER INDUSTRY Colony of the Massachusetts Ba,Industry,INDUSTRY,title,/TaggedPDF-doc/div/doc[1466]/title/ship
+NDAR_V02_1467,Polly (Sloop),EXAMINATION OF THE CREW OF THE SLOOP POLLY Colony of the Massachusetts-Ba,Polly,POLLY,title,/TaggedPDF-doc/div/doc[1467]/title/ship
+NDAR_V02_1467,Polly,"vol. 164, 193. On November 5, 1775 the POLLY was taken by Washington's armed schoone",Polly,Polly,src,/TaggedPDF-doc/div/doc[1467]/src/ship[1]
+NDAR_V02_1467,Harrison (Schooner),as taken by Washington's armed schooner HARRISON .,Harrison,Harrison,src,/TaggedPDF-doc/div/doc[1467]/src/ship[2]
+NDAR_V02_1472,Rose (Ship),"OF NEWPORT His Majesty's Ship ROSE , Nov. 14, 1775. I will suspend",Rose,Rose,dl,/TaggedPDF-doc/div/doc[1472]/dl/ship
+NDAR_V02_1477,Kings Fisher,"RAL SAMUEL GRAVES Sir KINGS FISHER , off James Town Virginia the 14th",Kings Fisher,Kings Fisher,dl,/TaggedPDF-doc/div/doc[1477]/dl/ship
+NDAR_V02_1477,Adonis (Brig),losure] An Invoice of the Brig ADONIS 's Cargo 2000 Bushels of Salt,Adonis,Adonis,p2,/TaggedPDF-doc/div/doc[1477]/p2/ship
+NDAR_V02_1477,Betsey (Brig),"r letters and papers, on board the brig BETSEY , sent into Beverly by John Manley.",Betsey,Betsey,src,/TaggedPDF-doc/div/doc[1477]/src/ship
+NDAR_V02_1477,Temperance,Beverly by John Manley. 2. The TEMPERANCE .,Temperance,Temperance,note,/TaggedPDF-doc/div/doc[1477]/note/ship
+NDAR_V02_1478,Kingsfisher,"W. GRIFFIN TO GEORGE GEFFERINA KINGSFISHER James Town, Virginia, 14. N",Kingsfisher,Kingsfisher,dl,/TaggedPDF-doc/div/doc[1478]/dl/ship
+NDAR_V02_1478,Kingsfisher,"W. GRIFFIN TO GEORGE GEFFERINA KINGSFISHER James Town, Virginia, 14. N",Kingsfisher,Kingsfisher,src,/TaggedPDF-doc/div/doc[1478]/src/ship[1]
+NDAR_V02_1478,Betsey (Brig),"ers and papers, on board the prize brig BETSEY , sent into Beverly by John Manley.",Betsey,Betsey,src,/TaggedPDF-doc/div/doc[1478]/src/ship[2]
+NDAR_V02_1478,Polly (Sloop),"2. The inquiry respecting the sloop POLLY , taken in August. She was bound from Ne",Polly,Polly,note,/TaggedPDF-doc/div/doc[1478]/note/ship
+NDAR_V02_1479,Kings Fisher,TAGU'S REQUISITIONS FOR STORES KINGS FISHER James Town 14th November 17,Kings Fisher,Kings fisher,dl,/TaggedPDF-doc/div/doc[1479]/dl/ship
+NDAR_V02_1479,Kingsfisher,r at Halifax ー Boston KINGSFISHER James Town Virginia 14 Novr 1775,Kingsfisher,Kingsfisher,p3,/TaggedPDF-doc/div/doc[1479]/p3[1]/ship
+NDAR_V02_1479,Kingsfisher,r at Halifax ー Boston KINGSFISHER James Town Virginia 14 Novr 1775,Kingsfisher,Kingsfisher,p2,/TaggedPDF-doc/div/doc[1479]/p2[3]/ship
+NDAR_V02_1479,Betsey (Brig),"on, being intercepted on board the brig BETSEY , taken by John Manley in the armed scho",Betsey,Betsey,src,/TaggedPDF-doc/div/doc[1479]/src/ship[1]
+NDAR_V02_1479,Lee (Schooner),en by John Manley in the armed schooner LEE of Washington's fleet.,Lee,Lee,src,/TaggedPDF-doc/div/doc[1479]/src/ship[2]
+NDAR_V02_1480,Cruizer (Sloop),"JOURNAL OF H.M. SLOOP CRUIZER , CAPTAIN FRANCIS PARRY Novr [1",Cruizer,CRUIZER,title,/TaggedPDF-doc/div/doc[1480]/title/ship
+NDAR_V02_1480,Palliser (Transport),"ralty 51/218. 2. The transport PALLISER , which had arrived November 12 in compa",Palliser,Palliser,note,/TaggedPDF-doc/div/doc[1480]/note/ship[1]
+NDAR_V02_1480,Scorpion (Sloop),November 12 in company with H.M. Sloop SCORPION and a ship with emigrants.,Scorpion,Scorpion,note,/TaggedPDF-doc/div/doc[1480]/note/ship[2]
+NDAR_V02_1484,Magdalen (Schooner),"JOURNAL OF H.M. SCHOONER MAGDALEN , LIEUTENANT JOSEPH NUNN Novemr",Magdalen,MAGDALEN,title,/TaggedPDF-doc/div/doc[1484]/title/ship
+NDAR_V02_1485,Merlin (Sloop),"JOURNAL OF H.M. SLOOP MERLIN , CAPTAIN WILLIAM BURNABY Novem",Merlin,MERLIN,title,/TaggedPDF-doc/div/doc[1485]/title/ship
+NDAR_V02_1486,Tartar,"JOURNAL OF H.M.S. TARTAR , CAPTAIN EDWARD MEDOWS Novembe",Tartar,TARTAR,title,/TaggedPDF-doc/div/doc[1486]/title/ship
+NDAR_V02_1487,Roebuck,"ANS STANLEY Dear Sir, ROEBUCK at Halifax 15th Novr 1775 It w",Roebuck,Roebuck,dl,/TaggedPDF-doc/div/doc[1487]/dl/ship
+NDAR_V02_1489,Two Sisters (Schooner),ber 14 letter. 2. The schooner TWO SISTERS . 3. This was in reply to John,Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1489]/note[1]/ship
+NDAR_V02_1503,Hunter (Sloop),"JOURNAL OF H.M. SLOOP HUNTER , CAPTAIN THOMAS MACKENZIE Novr",Hunter,HUNTER,title,/TaggedPDF-doc/div/doc[1503]/title/ship
+NDAR_V02_1509,Industry (Schooner),"The Coffins were taken in the schooner INDUSTRY ; White, in the sloop Polly.",Industry,Industry,note,/TaggedPDF-doc/div/doc[1509]/note/ship[1]
+NDAR_V02_1509,Polly (Sloop),"schooner Industry; White, in the sloop POLLY .",Polly,Polly,note,/TaggedPDF-doc/div/doc[1509]/note/ship[2]
+NDAR_V02_1510,Washington,"Ephm Bowen Jr 1. WASHINGTON Papers, LC. 2. In the armed br",Washington,Washington,note,/TaggedPDF-doc/div/doc[1510]/note/ship
+NDAR_V02_1511,Swan (Sloop),"L TO CAPTAIN JAMES AYSCOUGH, H.M. SLOOP SWAN Sir: Nantucket, Novem",Swan,SWAN,title,/TaggedPDF-doc/div/doc[1511]/title/ship
+NDAR_V02_1514,Rose,"INGTON TO CAPTAIN JAMES WALLACE, H.M.S. ROSE Newport, Nov. 16, 1775.",Rose,ROSE,title,/TaggedPDF-doc/div/doc[1514]/title/ship
+NDAR_V02_1515,Rose (Ship),"OF NEWPORT His Majesty's Ship ROSE , Nov. 16, 1775. Gentlemen, I",Rose,Rose,dl,/TaggedPDF-doc/div/doc[1515]/dl/ship
+NDAR_V02_1528,Cruizer (Sloop),"JOURNAL OF H.M. SLOOP CRUIZER , CAPTAIN FRANCIS PARRY Novembe",Cruizer,CRUIZER,title,/TaggedPDF-doc/div/doc[1528]/title/ship
+NDAR_V02_1532,Endeavour (Schooner),APPRAISAL OF THE SCHOONER ENDEAVOUR We the Subscribers being appoi,Endeavour,ENDEAVOUR,title,/TaggedPDF-doc/div/doc[1532]/title/ship
+NDAR_V02_1533,Washington (Brig),OR SUNDRY METAL WORK FOR THE ARMED BRIG WASHINGTON AND THE ARMED SCHOONER HARRISON,Washington,WASHINGTON,title,/TaggedPDF-doc/div/doc[1533]/title/ship[1]
+NDAR_V02_1533,Harrison (Schooner),BRIG WASHINGTON AND THE ARMED SCHOONER HARRISON W,Harrison,HARRISON,title,/TaggedPDF-doc/div/doc[1533]/title/ship[2]
+NDAR_V02_1548,Nancy (Brig),"to 20, inclusive. 3. The brig NANCY .",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1548]/note[2]/ship
+NDAR_V02_1549,Nautilus,"RAVES TO LIEUTENANT JOHN GRAVES, H.M.S. NAUTILUS You are hereby required and di",Nautilus,NAUTILUS,title,/TaggedPDF-doc/div/doc[1549]/title/ship
+NDAR_V02_1549,Nautilus,"-106, BM. 2, Journal of H.M.S. NAUTILUS : ""Sunday 19th Novembr 1775 AM came on b",Nautilus,Nautilus,note,/TaggedPDF-doc/div/doc[1549]/note/ship
+NDAR_V02_1553,Montgomery (Ship),"r refers to the Pennsylvania armed ship MONTGOMERY , which mounted fourteen 18-pounders, an",Montgomery,Montgomery,note,/TaggedPDF-doc/div/doc[1553]/note/ship
+NDAR_V02_1559,Senegal (Sloop),"JOURNAL OF H.M. SLOOP SENEGAL , CAPTAIN WILLIAM DUDDINGSTON N",Senegal,SENEGAL,title,/TaggedPDF-doc/div/doc[1559]/title/ship
+NDAR_V02_1561,Preston,ERAL WILLIAM HOWE Sir PRESTON Boston 19 Novr 1775.,Preston,Preston,dl,/TaggedPDF-doc/div/doc[1561]/dl/ship
+NDAR_V02_1561,Nancy,"uct, Appendix, 106, BM. 2. The NANCY .",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1561]/note/ship
+NDAR_V02_1562,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH 17",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[1562]/title/ship
+NDAR_V02_1563,Lizard (Ship),dispatched Lt Pringle of His Majs Ship LIZARD to whom I beg to refer them who can giv,Lizard,Lizard,dl2,/TaggedPDF-doc/div/doc[1563]/dl2/ship
+NDAR_V02_1564,Lizard,"John Hamilton LIZARD [Quebec] 20 Novr 1775 1. PRO,",Lizard,Lizard,dl2,/TaggedPDF-doc/div/doc[1564]/dl2/ship
+NDAR_V02_1566,Lizard (Ship),"f November 1775, His Majesty's Ship the LIZARD with a Store Ship under her convoy arri",Lizard,Lizard,note,/TaggedPDF-doc/div/doc[1566]/note/ship
+NDAR_V02_1567,Lizard,"JOURNAL OF H.M.S. LIZARD , CAPTAIN JOHN HAMILTON Novembe",Lizard,LIZARD,title,/TaggedPDF-doc/div/doc[1567]/title/ship
+NDAR_V02_1568,Magdalen (Schooner),"JOURNAL OF H.M. SCHOONER MAGDALEN , LIEUTENANT JOSEPH NUNN Novemr",Magdalen,MAGDALEN,title,/TaggedPDF-doc/div/doc[1568]/title/ship
+NDAR_V02_1575,Preston,O PHILIP STEPHENS Sir PRESTON Boston Novr 20. 1775.,Preston,Preston,dl,/TaggedPDF-doc/div/doc[1575]/dl/ship
+NDAR_V02_1578,Two Sisters (Schooner),etters were found on board the schooner TWO SISTERS which had been chased into Beverly by J,Two Sisters,Two Sisters,note,/TaggedPDF-doc/div/doc[1578]/note/ship[1]
+NDAR_V02_1578,Lee (Schooner),"ly by John Manley in the armed schooner LEE on November 8, 1775, and seized by fift",Lee,Lee,note,/TaggedPDF-doc/div/doc[1578]/note/ship[2]
+NDAR_V02_1581,North Britain (Schooner),1. Probably referring to the schooner NORTH BRITAIN . 2. An unidentified sloop whic,North Britain,North Britain,src,/TaggedPDF-doc/div/doc[1581]/src/ship
+NDAR_V02_1581,Industry (Schooner),ater released. 3. The schooner INDUSTRY and the sloop Polly.,Industry,Industry,note,/TaggedPDF-doc/div/doc[1581]/note[2]/ship[1]
+NDAR_V02_1581,Polly (Sloop),3. The schooner Industry and the sloop POLLY .,Polly,Polly,note,/TaggedPDF-doc/div/doc[1581]/note[2]/ship[2]
+NDAR_V02_1582,Kingsfisher (Sloop),"JOURNAL OF H.M. SLOOP KINGSFISHER , CAPTAIN JAMES MONTAGU Novembe",Kingsfisher,KINGSFISHER,title,/TaggedPDF-doc/div/doc[1582]/title/ship
+NDAR_V02_1583,William,Off Norfolk in Virginia on board the WILLIAM 9ber 20th 1775 [En,William,William,dl2,/TaggedPDF-doc/div/doc[1583]/dl2/ship
+NDAR_V02_1583,Betsey (Sloop),C. An intercepted letter from the sloop BETSEY .,Betsey,Betsey,src,/TaggedPDF-doc/div/doc[1583]/src/ship
+NDAR_V02_1584,Cruizer (Sloop),"JOURNAL OF H.M. SLOOP CRUIZER , CAPTAIN FRANCIS PARRY Novr [1",Cruizer,CRUIZER,title,/TaggedPDF-doc/div/doc[1584]/title/ship
+NDAR_V02_1587,Hinchinbrook (Schooner),"JOURNAL OF H.M. SCHOONER HINCHINBROOK , LIEUTENANT ALEXANDER ELLIS No",Hinchinbrook,HINCHINBROOK,title,/TaggedPDF-doc/div/doc[1587]/title/ship
+NDAR_V02_1590,Minerva,ting all the Accounts against the Briga MINERVA I find they surmount the Sums recieved,Minerva,Minerva,p2,/TaggedPDF-doc/div/doc[1590]/p2/ship
+NDAR_V02_1591,Sally (Ship),"Committee, for the purchase of the Ship SALLY ,2Resolved, That Thomas Wharton, jun'r,",Sally,Sally,note,/TaggedPDF-doc/div/doc[1591]/note/ship[1]
+NDAR_V02_1591,Columbus (Ship),. The Sally became the Continental ship COLUMBUS . She had been built by Joshua Humphreys,Columbus,Columbus,note,/TaggedPDF-doc/div/doc[1591]/note/ship[2]
+NDAR_V02_1594,Cruizer (Sloop),"JOURNAL OF H.M. SLOOP CRUIZER , CAPTAIN FRANCIS PARRY Novembe",Cruizer,CRUIZER,title,/TaggedPDF-doc/div/doc[1594]/title/ship
+NDAR_V02_1596,Argo (Ship),aptains of His Majesty's Ships ARGO Portland Hind Lynx and Pomona. Memo,Argo,Argo,p,/TaggedPDF-doc/div/doc[1596]/p[1]/ship[1]
+NDAR_V02_1596,Portland,"Order.Given under my Hand on board the PORTLAND in English Harbour Antigua, the 21st No",Portland,Portland,p,/TaggedPDF-doc/div/doc[1596]/p[1]/ship[2]
+NDAR_V02_1596,Hind,ajesty's Ships Argo Portland HIND Lynx and Pomona. Memo In add,Hind,Hind,p,/TaggedPDF-doc/div/doc[1596]/p[1]/ship[3]
+NDAR_V02_1596,Lynx,'s Ships Argo Portland Hind LYNX and Pomona. Memo In addition,Lynx,Lynx,p,/TaggedPDF-doc/div/doc[1596]/p[1]/ship[4]
+NDAR_V02_1596,Pomona,Argo Portland Hind Lynx and POMONA . Memo In addition to the abov,Pomona,Pomona,p,/TaggedPDF-doc/div/doc[1596]/p[1]/ship[5]
+NDAR_V02_1598,Dolphin (Boat),". 22, 1775"" The privateer boat DOLPHIN ,2 took a sloop from Boston, the Master",Dolphin,Dolphin,note,/TaggedPDF-doc/div/doc[1598]/note/ship
+NDAR_V02_1599,Ranger (Sloop),our Orders I have Disposed of the Sloop RANGER Willm McGlathry Master Loade of wood &C,Ranger,Ranger,note,/TaggedPDF-doc/div/doc[1599]/note/ship[1]
+NDAR_V02_1599,Cerberus,"recapture, having been taken by H.M.S. CERBERUS and sent to Boston. Manley intercepted",Cerberus,Cerberus,note,/TaggedPDF-doc/div/doc[1599]/note/ship[2]
+NDAR_V02_1600,Preston,PHILIP STEPHENS Sir ー PRESTON Boston 22 November 1775,Preston,Preston,dl,/TaggedPDF-doc/div/doc[1600]/dl/ship
+NDAR_V02_1600,Sea Nymph (Brig),"se letters were found on board the brig SEA NYMPH , Joseph Bradford, master, taken by H.M.",Sea Nymph,Sea Nymph,note,/TaggedPDF-doc/div/doc[1600]/note/ship[1]
+NDAR_V02_1600,Mercury,"oseph Bradford, master, taken by H.M.S. MERCURY .",Mercury,Mercury,note,/TaggedPDF-doc/div/doc[1600]/note/ship[2]
+NDAR_V02_1607,Kingsfisher (Sloop),STORES REQUIRED FOR H.M. SLOOP KINGSFISHER To James Montagu Esqr Commande,Kingsfisher,KINGSFISHER,title,/TaggedPDF-doc/div/doc[1607]/title/ship
+NDAR_V02_1607,Kingfisher (Sloop),his Majesty's Sloop the KINGFISHER Sr There is wanted for the Us,Kingfisher,Kingfisher,sal,/TaggedPDF-doc/div/doc[1607]/sal/ship
+NDAR_V02_1607,Kingsfisher (Sloop),y of Carp Stores for His Majestys Sloop KINGSFISHER James Montagu Esqr Commander Hamton Roa,Kingsfisher,Kingsfisher,p2,/TaggedPDF-doc/div/doc[1607]/p2/ship
+NDAR_V02_1607,Betsey,"uisitions were intercepted on board the BETSEY , when taken by Captain John Manley in t",Betsey,Betsey,note,/TaggedPDF-doc/div/doc[1607]/note/ship[1]
+NDAR_V02_1607,Lee (Schooner),ptain John Manley in the armed schooner LEE .,Lee,Lee,note,/TaggedPDF-doc/div/doc[1607]/note/ship[2]
+NDAR_V02_1610,Hancock (Schooner),"226/6. 2. The armed schooners HANCOCK , Nicholson Broughton, and Franklin, Joh",Hancock,Hancock,note,/TaggedPDF-doc/div/doc[1610]/note[1]/ship[1]
+NDAR_V02_1610,Franklin,"oners Hancock, Nicholson Broughton, and FRANKLIN , John Selman. 3. Spence and hi",Franklin,Franklin,note,/TaggedPDF-doc/div/doc[1610]/note[1]/ship[2]
+NDAR_V02_1610,Lively (Schooner),"y were passengers on board the schooner LIVELY , which was seized and carried to Winter",Lively,Lively,note,/TaggedPDF-doc/div/doc[1610]/note[2]/ship
+NDAR_V02_1613,Preston,"ERAL WILLIAM HOWE Sir PRESTON Boston Novr 23, 1775.",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1613]/dl/ship
+NDAR_V02_1614,Polly (Sloop),"beline White, master of the prize sloop POLLY . 3. Manvide made the following",Polly,Polly,note,/TaggedPDF-doc/div/doc[1614]/note[1]/ship
+NDAR_V02_1615,Mercury,"JOURNAL OF H.M.S. MERCURY , LIEUTENANT ALEXANDER GRAEME N",Mercury,MERCURY,title,/TaggedPDF-doc/div/doc[1615]/title/ship
+NDAR_V02_1629,Phoenix,"VES TO CAPTAIN HYDE PARKER, JR., H.M.S. PHOENIX You are hereby required and di",Phoenix,PHOENIX,title,/TaggedPDF-doc/div/doc[1629]/title/ship
+NDAR_V02_1630,Phoenix,"VES TO CAPTAIN HYDE PARKER, JR., H.M.S. PHOENIX You are hereby required and di",Phoenix,PHOENIX,title,/TaggedPDF-doc/div/doc[1630]/title/ship
+NDAR_V02_1632,Harrison (Schooner),"exploit in Washington's armed schooner HARRISON , Captain William Coit, see the ensuing",Harrison,Harrison,note,/TaggedPDF-doc/div/doc[1632]/note/ship[1]
+NDAR_V02_1632,Raven (Sloop),e ensuing journal entries of H.M. Sloop RAVEN and H.M.S. Phoenix.,Raven,Raven,note,/TaggedPDF-doc/div/doc[1632]/note/ship[2]
+NDAR_V02_1632,Phoenix,entries of H.M. Sloop Raven and H.M.S. PHOENIX .,Phoenix,Phoenix,note,/TaggedPDF-doc/div/doc[1632]/note/ship[3]
+NDAR_V02_1633,Tartar,"JOURNAL OF H.M.S. TARTAR , CAPTAIN EDWARD MEDOWS Novemr",Tartar,TARTAR,title,/TaggedPDF-doc/div/doc[1633]/title/ship
+NDAR_V02_1634,Raven (Sloop),"JOURNAL OF H.M. SLOOP RAVEN , CAPTAIN JOHN STANHOPE Novembe",Raven,RAVEN,title,/TaggedPDF-doc/div/doc[1634]/title/ship
+NDAR_V02_1635,Phoenix,"JOURNAL OF H.M.S. PHOENIX , CAPTAIN HYDE PARKER, JR. Nove",Phoenix,PHOENIX,title,/TaggedPDF-doc/div/doc[1635]/title/ship
+NDAR_V02_1637,Viper (Sloop),"JOURNAL OF H.M. SLOOP VIPER , CAPTAIN SAMUEL GRAVES Novr 17",Viper,VIPER,title,/TaggedPDF-doc/div/doc[1637]/title/ship
+NDAR_V02_1637,Viper,"miralty 51/1039. 2. Ibid., the VIPER had sailed from Boston November 17 unde",Viper,Viper,note,/TaggedPDF-doc/div/doc[1637]/note/ship
+NDAR_V02_1642,William,Off Norfolk Virginia on board the WILLIAM 9ber [sic November] 24th,William,William,dl2,/TaggedPDF-doc/div/doc[1642]/dl2/ship
+NDAR_V02_1642,Betsey (Sloop),ips winter here & to dispatch the Sloop BETSEY as soon as possible ー D. ー To,Betsey,Betsey,p,/TaggedPDF-doc/div/doc[1642]/p/ship
+NDAR_V02_1642,Betsey (Sloop),ips winter here & to dispatch the Sloop BETSEY as soon as possible ー D. ー To,Betsey,Betsey,src,/TaggedPDF-doc/div/doc[1642]/src/ship
+NDAR_V02_1647,Lizard,"JOURNAL OF H.M.S. LIZARD , CAPTAIN JOHN HAMILTON Novr 17",Lizard,LIZARD,title,/TaggedPDF-doc/div/doc[1647]/title/ship
+NDAR_V02_1648,Franklin (Schooner),226/6. 2. The armed schooners FRANKLIN and Hancock of Washington's fleet.,Franklin,Franklin,note,/TaggedPDF-doc/div/doc[1648]/note[1]/ship[1]
+NDAR_V02_1648,Hancock,2. The armed schooners Franklin and HANCOCK of Washington's fleet. 3. Narr,Hancock,Hancock,note,/TaggedPDF-doc/div/doc[1648]/note[1]/ship[2]
+NDAR_V02_1648,Franklin (Schooner),226/6. 2. The armed schooners FRANKLIN and Hancock of Washington's fleet.,Franklin,Franklin,note,/TaggedPDF-doc/div/doc[1648]/note[2]/ship
+NDAR_V02_1649,Mary (Sloop),STATEMENT RELATIVE TO LOSS OF THE SLOOP MARY State of Facts Relative to the,Mary,MARY,title,/TaggedPDF-doc/div/doc[1649]/title/ship
+NDAR_V02_1652,Raven (Sloop),"JOURNAL OF H.M. SLOOP RAVEN , CAPTAIN JOHN STANHOPE Novembe",Raven,RAVEN,title,/TaggedPDF-doc/div/doc[1652]/title/ship
+NDAR_V02_1653,Phoenix,"JOURNAL OF H.M.S. PHOENIX , CAPTAIN HYDE PARKER, JR. Nove",Phoenix,PHOENIX,title,/TaggedPDF-doc/div/doc[1653]/title/ship
+NDAR_V02_1654,Harrison (Schooner),"am Coit, in Washington's armed schooner HARRISON .",Harrison,Harrison,note,/TaggedPDF-doc/div/doc[1654]/note/ship
+NDAR_V02_1659,Monmouth (Sloop),"mas shipped on the sloop MONMOUTH , whereof Perkins Allen was",Monmouth,Monmouth,note,/TaggedPDF-doc/div/doc[1659]/note/ship
+NDAR_V02_1664,Magdalen (Schooner),"JOURNAL OF H.M. SCHOONER MAGDALEN , LIEUTENANT JOSEPH NUNN Novemr",Magdalen,MAGDALEN,title,/TaggedPDF-doc/div/doc[1664]/title/ship
+NDAR_V02_1666,Nancy,"Papers, No. 5484, BHS. 2. The NANCY .",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1666]/note/ship
+NDAR_V02_1667,Harrison (Schooner),"exploit in Washington's armed schooner HARRISON , Captain William Coit.",Harrison,Harrison,note,/TaggedPDF-doc/div/doc[1667]/note/ship
+NDAR_V02_1668,Harrison (Schooner),"am Coit, in Washington's armed schooner HARRISON .",Harrison,Harrison,note,/TaggedPDF-doc/div/doc[1668]/note/ship
+NDAR_V02_1670,Cerberus,"CAPTAIN JOHN SYMONS, H.M.S. CERBERUS , TO VICE ADMIRAL SAMUEL GRAVES",Cerberus,CERBERUS,title,/TaggedPDF-doc/div/doc[1670]/title/ship
+NDAR_V02_1670,Nancy,"onduct, I, 170-171, BM. 2. The NANCY .",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1670]/note/ship
+NDAR_V02_1671,Phoenix,"JOURNAL OF H.M.S. PHOENIX , CAPTAIN HYDE PARKER, JR. Nove",Phoenix,PHOENIX,title,/TaggedPDF-doc/div/doc[1671]/title/ship
+NDAR_V02_1672,Nautilus (Sloop),MASTER'S LOG OF H.M. SLOOP NAUTILUS November 1775 Sunday 26th Mars,Nautilus,NAUTILUS,title,/TaggedPDF-doc/div/doc[1672]/title/ship
+NDAR_V02_1672,Jupiter (Transport),"alty 52/1884. 2. The transport JUPITER , from Nova Scotia.",Jupiter,Jupiter,note,/TaggedPDF-doc/div/doc[1672]/note/ship
+NDAR_V02_1678,Betsey (Sloop),s among letters captured with the sloop BETSEY .,Betsey,Betsey,note,/TaggedPDF-doc/div/doc[1678]/note/ship
+NDAR_V02_1679,Scorpion (Sloop),"JOURNAL OF H.M. SLOOP SCORPION , CAPTAIN JOHN TOLLEMACHE Novem",Scorpion,SCORPION,title,/TaggedPDF-doc/div/doc[1679]/title/ship
+NDAR_V02_1680,Cruizer (Sloop),"JOURNAL OF H.M. SLOOP CRUIZER , CAPTAIN FRANCIS PARRY Novembe",Cruizer,CRUIZER,title,/TaggedPDF-doc/div/doc[1680]/title/ship
+NDAR_V02_1681,Portland,"O PHILIP STEPHENS Sir PORTLAND , English Harbour, Antigua 26th Novemr",Portland,Portland,dl,/TaggedPDF-doc/div/doc[1681]/dl/ship
+NDAR_V02_1682,Portland,"O PHILIP STEPHENS Sir PORTLAND , English Harbour Antigua 26th Novemr 17",Portland,Portland,dl,/TaggedPDF-doc/div/doc[1682]/dl/ship
+NDAR_V02_1682,Royal Oak,"in and, as commanding officer of H.M.S. ROYAL OAK , was a participant in the decisive Batt",Royal Oak,Royal Oak,note,/TaggedPDF-doc/div/doc[1682]/note/ship
+NDAR_V02_1686,Mercury,"JOURNAL OF H.M.S. MERCURY , LIEUTENANT ALEXANDER GRAEME N",Mercury,MERCURY,title,/TaggedPDF-doc/div/doc[1686]/title/ship
+NDAR_V02_1686,Cerberus,"51/600. 2. See journal of the CERBERUS , November 10, 1775. Graves' letter to S",Cerberus,Cerberus,note,/TaggedPDF-doc/div/doc[1686]/note/ship[1]
+NDAR_V02_1686,Mercury,"ens of December 28, 1775 adds that ""the MERCURY fell in with her, and she also failed i",Mercury,Mercury,note,/TaggedPDF-doc/div/doc[1686]/note/ship[2]
+NDAR_V02_1688,Ranger (Sloop),"ngton Papers, LC. 2. The sloop RANGER .",Ranger,Ranger,note,/TaggedPDF-doc/div/doc[1688]/note/ship
+NDAR_V02_1689,Katy (Sloop),incorrect. The Rhode Island armed sloop KATY was out cruising when the orders to int,Katy,Katy,note,/TaggedPDF-doc/div/doc[1689]/note[2]/ship[1]
+NDAR_V02_1689,Minerva (Brig),The crew of the Connecticut armed brig MINERVA refused to sail and before they could b,Minerva,Minerva,note,/TaggedPDF-doc/div/doc[1689]/note[2]/ship[2]
+NDAR_V02_1689,Minerva (Brig),The crew of the Connecticut armed brig MINERVA refused to sail and before they could b,Minerva,Minerva,note,/TaggedPDF-doc/div/doc[1689]/note[2]/ship[3]
+NDAR_V02_1690,Nancy (Brig),"ington Papers, LC. 2. The brig NANCY .",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1690]/note/ship
+NDAR_V02_1691,Halifax (Schooner),MASTER'S LOG OF H.M. SCHOONER HALIFAX Novr 1775 Monday 27th [Moored,Halifax,HALIFAX,title,/TaggedPDF-doc/div/doc[1691]/title/ship
+NDAR_V02_1692,Harrison (Schooner),"tain William Coit in the armed schooner HARRISON on November 24, 1775.",Harrison,Harrison,note,/TaggedPDF-doc/div/doc[1692]/note/ship
+NDAR_V02_1694,Britannia (Sloop),"Admiralty 1/485. 2. The sloop BRITANNIA , Joseph Hall, master, from Nova Scotia",Britannia,Britannia,note,/TaggedPDF-doc/div/doc[1694]/note/ship
+NDAR_V02_1695,Bolton (Brig),"oke Papers, RIHS. 2. H.M. Brig BOLTON . 3. See instructions to Whippl",Bolton,Bolton,note,/TaggedPDF-doc/div/doc[1695]/note[1]/ship
+NDAR_V02_1701,Gaspee,"as leader of the party which burned the GASPEE in Narragansett bay in 1772, and who wa",Gaspee,Gaspee,note,/TaggedPDF-doc/div/doc[1701]/note[10]/ship[1]
+NDAR_V02_1701,Katy (Sloop),"Philadelphia in the Rhode Island sloop KATY . Daniel Souther, Massachusetts",Katy,Katy,note,/TaggedPDF-doc/div/doc[1701]/note[10]/ship[2]
+NDAR_V02_1701,Margaretta (Sloop),"us for the capture of the British sloop MARGARETTA in June. James Cargill, Penobs",Margaretta,Margaretta,note,/TaggedPDF-doc/div/doc[1701]/note[18]/ship
+NDAR_V02_1710,St. Lawrence (Schooner),"JOURNAL OF H.M. SCHOONER ST. LAWRENCE , LIEUTENANT JOHN GRAVES Novemb",St. Lawrence,ST. LAWRENCE,title,/TaggedPDF-doc/div/doc[1710]/title/ship
+NDAR_V02_1712,Monmouth (Sloop),", I, 291-293, NA. 2. The sloop MONMOUTH .",Monmouth,Monmouth,note,/TaggedPDF-doc/div/doc[1712]/note/ship
+NDAR_V02_1713,Mercury,"middle of the Bay, we fell in with the MERCURY man of war who (with a fleet of ships f",Mercury,Mercury,note,/TaggedPDF-doc/div/doc[1713]/note[2]/ship
+NDAR_V02_1714,Rebecca and Francis (Transport),"on for New York, on board the transport REBECCA & FRANCIS , George Hastings, master.",Rebecca & Francis,Rebecca & Francis,note,/TaggedPDF-doc/div/doc[1714]/note/ship
+NDAR_V02_1715,Ranger (Sloop),"duct, I, 171, BM. 2. The sloop RANGER , retaken by John Manley in Washington's",Ranger,Ranger,note,/TaggedPDF-doc/div/doc[1715]/note/ship[1]
+NDAR_V02_1715,Lee (Schooner),n Manley in Washington's armed schooner LEE .,Lee,Lee,note,/TaggedPDF-doc/div/doc[1715]/note/ship[2]
+NDAR_V02_1732,Raven (Sloop),"ES TO CAPTAIN JOHN STANHOPE, H.M. SLOOP RAVEN Whereas you will herewith rece",Raven,RAVEN,title,/TaggedPDF-doc/div/doc[1732]/title/ship
+NDAR_V02_1733,Otter (Sloop),"S TO CAPTAIN MATTHEW SQUIRE, H.M. SLOOP OTTER Sir, Preston",Otter,OTTER,title,/TaggedPDF-doc/div/doc[1733]/title/ship
+NDAR_V02_1733,Preston,"H.M. SLOOP OTTER Sir, PRESTON Boston 29 November 1775.",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1733]/dl/ship
+NDAR_V02_1734,Woolwich (Sloop),"PERMIT FOR THE SLOOP WOOLWICH Permit the Sloop Woolwich, Jam",Woolwich,WOOLWICH,title,/TaggedPDF-doc/div/doc[1734]/title/ship
+NDAR_V02_1735,Phoenix,"JOURNAL OF H.M.S. PHOENIX , CAPTAIN HYDE PARKER, JR. Nove",Phoenix,PHOENIX,title,/TaggedPDF-doc/div/doc[1735]/title/ship
+NDAR_V02_1742,Otter (Sloop),"JOURNAL OF H.M. SLOOP OTTER , CAPTAIN MATTHEW SQUIRE Novemb",Otter,OTTER,title,/TaggedPDF-doc/div/doc[1742]/title/ship
+NDAR_V02_1743,Cruizer (Sloop),", II, 891. 2. From H.M. Sloops CRUIZER and Scorpion.",Cruizer,Cruizer,note,/TaggedPDF-doc/div/doc[1743]/note/ship[1]
+NDAR_V02_1743,Scorpion,2. From H.M. Sloops Cruizer and SCORPION .,Scorpion,Scorpion,note,/TaggedPDF-doc/div/doc[1743]/note/ship[2]
+NDAR_V02_1744,Scorpion (Sloop),"JOURNAL OF H.M. SLOOP SCORPION , CAPTAIN JOHN TOLLEMACHE Novem",Scorpion,SCORPION,title,/TaggedPDF-doc/div/doc[1744]/title/ship
+NDAR_V02_1745,Squirrel,"GAYTON TO CAPTAIN STAIR DOUGLAS, H.M.S. SQUIRREL By Clark Gayton Esqr Rear Admi",Squirrel,SQUIRREL,title,/TaggedPDF-doc/div/doc[1745]/title/ship
+NDAR_V02_1745,Maidstone (Ship),"to Captain Gardner of His Majestys Ship MAIDSTONE , to Cruize off the Island of Henneaga,",Maidstone,Maidstone,p2,/TaggedPDF-doc/div/doc[1745]/p2/ship
+NDAR_V02_1749,Hancock (Schooner),manders of Washington's armed schooners HANCOCK and Franklin respectively. Of this inci,Hancock,Hancock,note,/TaggedPDF-doc/div/doc[1749]/note/ship[1]
+NDAR_V02_1749,Franklin,"ashington's armed schooners Hancock and FRANKLIN respectively. Of this incident, Selman",Franklin,Franklin,note,/TaggedPDF-doc/div/doc[1749]/note/ship[2]
+NDAR_V02_1751,Warren (Schooner),"Service,3 & Capt Adams in the schooner WARREN , has taken a Schooner Laden with Potato",Warren,Warren,p2,/TaggedPDF-doc/div/doc[1751]/p2/ship
+NDAR_V02_1751,Nancy,"gton), 152, I, 301, NA. 2. The NANCY , Robert Hunter, master. 3. The",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1751]/note[1]/ship
+NDAR_V02_1751,Polly,"Robert Hunter, master. 3. The POLLY , S. Smith, master, from Nova Scotia, wi",Polly,Polly,note,/TaggedPDF-doc/div/doc[1751]/note[2]/ship
+NDAR_V02_1751,Rainbow,"cotia, with provisions. 4. The RAINBOW , John McMonagle, master. The New Englan",Rainbow,Rainbow,note,/TaggedPDF-doc/div/doc[1751]/note[3]/ship
+NDAR_V02_1754,Preston,"ENRY BELLEW, R.N. Sir PRESTON Boston 30 Novr 1775",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1754]/dl/ship
+NDAR_V02_1754,Liverpool,"Saml Graves. Capt. Bellew, LIVERPOOL at Virginia. 1. Graves's Condu",Liverpool,Liverpool,p2,/TaggedPDF-doc/div/doc[1754]/p2/ship
+NDAR_V02_1755,Preston,"O PHILIP STEPHENS Sir PRESTON , Boston 30 Novr 1775, Upon the",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1755]/dl/ship
+NDAR_V02_1756,Nancy (Brig),"kely that this reference is to the brig NANCY , the date of the letter is probably inc",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1756]/note/ship
+NDAR_V02_1758,Phoebe (Sloop),"ngton Papers, LC. 2. The sloop PHOEBE , taken by Broughton and Selman on Octob",Phoebe,Phoebe,note,/TaggedPDF-doc/div/doc[1758]/note/ship
+NDAR_V02_1761,Glasgow,"JOURNAL OF H.M.S. GLASGOW , CAPTAIN TYRINGHAM HOWE Novemb",Glasgow,GLASGOW,title,/TaggedPDF-doc/div/doc[1761]/title/ship
+NDAR_V02_1768,William (Ship),Dear General On board the Ship WILLIAM off Norfolk in Virginia 30th Novr,William,William,dl,/TaggedPDF-doc/div/doc[1768]/dl/ship
+NDAR_V02_1768,Betsey (Sloop),"S Revolution, LC. 2. The sloop BETSEY , with this and other letters, never rea",Betsey,Betsey,note,/TaggedPDF-doc/div/doc[1768]/note/ship[1]
+NDAR_V02_1768,Lee (Schooner),n Manley in Washington's armed schooner LEE .,Lee,Lee,note,/TaggedPDF-doc/div/doc[1768]/note/ship[2]
+NDAR_V02_1770,Lizard,"JOURNAL OF H.M.S. LIZARD , CAPTAIN JOHN HAMILTON Novem ー",Lizard,LIZARD,title,/TaggedPDF-doc/div/doc[1770]/title/ship
+NDAR_V02_1771,Hunter (Sloop),"JOURNAL OF H.M. SLOOP HUNTER , CAPTAIN THOMAS MACKENZIE Novr",Hunter,HUNTER,title,/TaggedPDF-doc/div/doc[1771]/title/ship
+NDAR_V02_1772,Magdalen (Schooner),"JOURNAL OF H.M. SCHOONER MAGDALEN , LIEUTENANT JOSEPH NUNN Novemr",Magdalen,MAGDALEN,title,/TaggedPDF-doc/div/doc[1772]/title/ship
+NDAR_V02_1773,Hancock (Schooner),1/485. 2. The armed schooners HANCOCK and Franklin of Washington's fleet.,Hancock,Hancock,note,/TaggedPDF-doc/div/doc[1773]/note[1]/ship[1]
+NDAR_V02_1773,Franklin,2. The armed schooners Hancock and FRANKLIN of Washington's fleet. 3. A sc,Franklin,Franklin,note,/TaggedPDF-doc/div/doc[1773]/note[1]/ship[2]
+NDAR_V02_1773,Lively,"schooner of 170 tons burden called the LIVELY , owned by a Mr. Higgins, bound from Eng",Lively,Lively,note,/TaggedPDF-doc/div/doc[1773]/note[2]/ship
+NDAR_V02_1773,Kingston Packet (Brig),"Phillip Callbeck. 5. The brig KINGSTON PACKET , Samuel Ingersol, master.",Kingston Packet,Kingston Packet,note,/TaggedPDF-doc/div/doc[1773]/note[4]/ship
+NDAR_V02_1774,Dolphin (Schooner),OR THE MASSACHUSETTS PRIVATEER SCHOONER DOLPHIN To the Honourable the Council,Dolphin,DOLPHIN,title,/TaggedPDF-doc/div/doc[1774]/title/ship
+NDAR_V02_1776,Washington,"S. M 1. WASHINGTON Papers, LC. 2. The armed brig",Washington,Washington,note,/TaggedPDF-doc/div/doc[1776]/note/ship
+NDAR_V02_1779,Nancy (Brig),"as Papers, MassHS. 2. The brig NANCY .",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1779]/note/ship
+NDAR_V02_1780,Fowey,"JOURNAL OF H.M.S. FOWEY , CAPTAIN GEORGE MONTAGU Novemb",Fowey,FOWEY,title,/TaggedPDF-doc/div/doc[1780]/title/ship
+NDAR_V02_1780,Nancy,"PRO, Admiralty 51/375. 2. The NANCY . 3. The search for the",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1780]/note[1]/ship
+NDAR_V02_1780,Nancy,"PRO, Admiralty 51/375. 2. The NANCY . 3. The search for the",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1780]/note[2]/ship[1]
+NDAR_V02_1780,Fowey,"r the Nancy ended at this point, as the FOWEY remained at anchor for the next twelve",Fowey,Fowey,note,/TaggedPDF-doc/div/doc[1780]/note[2]/ship[2]
+NDAR_V02_1781,Washington,2. The Journal ended at this point. The WASHINGTON sailed on her disastrous cruise on Dece,Washington,Washington,note,/TaggedPDF-doc/div/doc[1781]/note/ship
+NDAR_V02_1782,Glasgow,"cember 4, 1775; also the journal of the GLASGOW , November 30, 1775.",Glasgow,Glasgow,note,/TaggedPDF-doc/div/doc[1782]/note/ship
+NDAR_V02_1785,Washington (Galley),alled £85.19. .3 for decking the galley WASHINGTON is in the same ledger. The additional c,Washington,Washington,src,/TaggedPDF-doc/div/doc[1785]/src/ship
+NDAR_V02_1790,Cherokee,TO JOSIAH MARTIN Sir CHEROKEE Armed Ship in Rebellion Road 1 Decr 177,Cherokee,Cherokee,dl,/TaggedPDF-doc/div/doc[1790]/dl/ship
+NDAR_V02_1791,Scorpion (Sloop),"LIAM CAMPBELL My Lord SCORPION Sloop of War in Rebellion Road, Decr 1s",Scorpion,Scorpion,dl,/TaggedPDF-doc/div/doc[1791]/dl/ship
+NDAR_V02_1792,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH 17",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[1792]/title/ship
+NDAR_V02_1793,Phoebe (Sloop),"519) of Robert Roundy against the sloop PHOEBE , for providing Sergeant Benjamin Doak,",Phoebe,Phoebe,note,/TaggedPDF-doc/div/doc[1793]/note/ship[1]
+NDAR_V02_1793,Phebe (Sloop),ecer 1775 of William Bartlett the Sloop PHEBE togeather with her Appurtainces which w,Phebe,Phebe,note,/TaggedPDF-doc/div/doc[1793]/note/ship[2]
+NDAR_V02_1794,Nancy (Brigantine),"n] Glover Agents for the Brigt NANCY ー 1. Washington Papers, LC.",Nancy,Nancy,p2,/TaggedPDF-doc/div/doc[1794]/p2[2]/ship
+NDAR_V02_1794,Nancy (Brigantine),"n] Glover Agents for the Brigt NANCY ー 1. Washington Papers, LC.",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1794]/note/ship
+NDAR_V02_1796,Jupiter,". Adams Papers, MassHS. 2. The JUPITER , from Nova Scotia, with hay. See Graves",Jupiter,Jupiter,note,/TaggedPDF-doc/div/doc[1796]/note/ship
+NDAR_V02_1798,Katy (Sloop),oute to Philadelphia in the armed sloop KATY of the Rhode Island squadron. The,Katy,Katy,src,/TaggedPDF-doc/div/doc[1798]/src/ship[1]
+NDAR_V02_1798,Katy (Sloop),oute to Philadelphia in the armed sloop KATY of the Rhode Island squadron. The,Katy,Katy,src,/TaggedPDF-doc/div/doc[1798]/src/ship[2]
+NDAR_V02_1798,Providence,"TTE, SATURDAY,DECEMBER 2, 1775 PROVIDENCE , December 2. Saturday last [No",Providence,Providence,src,/TaggedPDF-doc/div/doc[1798]/src/ship[3]
+NDAR_V02_1802,Alfred (Ship),"pman's warrant for the Continental ship ALFRED on November 20, 1775.",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1802]/note/ship
+NDAR_V02_1804,Alfred (Ship),"erted merchantmen, comprising the ships ALFRED and Columbus, and the brigs Andrew Dori",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1804]/note[1]/ship[1]
+NDAR_V02_1804,Columbus,"antmen, comprising the ships Alfred and COLUMBUS , and the brigs Andrew Doria and Cabot.",Columbus,Columbus,note,/TaggedPDF-doc/div/doc[1804]/note[1]/ship[2]
+NDAR_V02_1804,Andrew Doria (Brig),"hips Alfred and Columbus, and the brigs ANDREW DORIA and Cabot. 3. Although Barkly'",Andrew Doria,Andrew Doria,note,/TaggedPDF-doc/div/doc[1804]/note[1]/ship[3]
+NDAR_V02_1804,Cabot,"olumbus, and the brigs Andrew Doria and CABOT . 3. Although Barkly's informat",Cabot,Cabot,note,/TaggedPDF-doc/div/doc[1804]/note[1]/ship[4]
+NDAR_V02_1804,Katy,"s and navy in America."" 5. The KATY .",Katy,Katy,note,/TaggedPDF-doc/div/doc[1804]/note[4]/ship
+NDAR_V02_1806,Alfred,"ur vessels of the Continental Navy, the ALFRED , Columbus, Andrew Doria and Cabot were",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1806]/note/ship[1]
+NDAR_V02_1806,Columbus,"ls of the Continental Navy, the Alfred, COLUMBUS , Andrew Doria and Cabot were outfitting",Columbus,Columbus,note,/TaggedPDF-doc/div/doc[1806]/note/ship[2]
+NDAR_V02_1806,Andrew Doria,"Continental Navy, the Alfred, Columbus, ANDREW DORIA and Cabot were outfitting alongside the",Andrew Doria,Andrew Doria,note,/TaggedPDF-doc/div/doc[1806]/note/ship[3]
+NDAR_V02_1806,Cabot,"the Alfred, Columbus, Andrew Doria and CABOT were outfitting alongside these wharves",Cabot,Cabot,note,/TaggedPDF-doc/div/doc[1806]/note/ship[4]
+NDAR_V02_1807,Warren (Galley),"command of the Pennsylvania row galley WARREN on November 28, upon the request of Sam",Warren,Warren,note,/TaggedPDF-doc/div/doc[1807]/note[1]/ship
+NDAR_V02_1807,Peggy's (Ship),Esqr 1/3d of the Amot of Ship PEGGY'S Cargo in corse linens from 12d Sterling,Peggy's,Peggy's,note,/TaggedPDF-doc/div/doc[1807]/note[3]/ship
+NDAR_V02_1807,Peggy (Ship),Phila Decemr 2d 1775. The Ship PEGGY being loaden and on her way down our Ri,Peggy,Peggy,note,/TaggedPDF-doc/div/doc[1807]/note[9]/ship[1]
+NDAR_V02_1807,Viper (Sloop),"4. The Peggy was captured by H.M. Sloop VIPER on December 9, 1775. See journal of the",Viper,Viper,note,/TaggedPDF-doc/div/doc[1807]/note[9]/ship[2]
+NDAR_V02_1807,Viper (Sloop),"4. The Peggy was captured by H.M. Sloop VIPER on December 9, 1775. See journal of the",Viper,Viper,note,/TaggedPDF-doc/div/doc[1807]/note[9]/ship[3]
+NDAR_V02_1812,Dunmore,. I ever am Dear General [&c.] DUNMORE On board the,Dunmore,Dunmore,p2,/TaggedPDF-doc/div/doc[1812]/p2/ship
+NDAR_V02_1812,Betsey,"ny others, was found on board the prize BETSEY . 2. The",Betsey,Betsey,src,/TaggedPDF-doc/div/doc[1812]/src/ship
+NDAR_V02_1812,Betsey,"ny others, was found on board the prize BETSEY . 2. The",Betsey,Betsey,note,/TaggedPDF-doc/div/doc[1812]/note/ship[1]
+NDAR_V02_1812,Lee (Schooner),ptain John Manley in the armed schooner LEE of Washington's fleet.,Lee,Lee,note,/TaggedPDF-doc/div/doc[1812]/note/ship[2]
+NDAR_V02_1813,Dunmore,"SLIE Sir On board the DUNMORE off Norfolk, Decr 2d 1775. I h",Dunmore,Dunmore,dl,/TaggedPDF-doc/div/doc[1813]/dl/ship
+NDAR_V02_1813,Betsey (Sloop),"f the 14th to go to Boston in the Sloop BETSEY , but am informed it is not possible for",Betsey,Betsey,src,/TaggedPDF-doc/div/doc[1813]/src/ship
+NDAR_V02_1814,Otter (Sloop),RAL SAMUEL GRAVES Sir OTTER Sloop off Norfolk. 2d Decr 1775,Otter,Otter,dl,/TaggedPDF-doc/div/doc[1814]/dl/ship
+NDAR_V02_1818,Speedwell,"rs) from the arm'd Schooners Franklin & SPEEDWELL ,2 came to Town from Winter Harbour,3 wh",Speedwell,Speedwell,note,/TaggedPDF-doc/div/doc[1818]/note/ship[1]
+NDAR_V02_1818,Hancock (Schooner),nal name of Washington's armed schooner HANCOCK . 3. Winter Harbor is now known,Hancock,Hancock,note,/TaggedPDF-doc/div/doc[1818]/note/ship[2]
+NDAR_V02_1818,Lively (Schooner),e Maine coast. 4. The schooner LIVELY and the brig Kingston Packet.,Lively,Lively,p,/TaggedPDF-doc/div/doc[1818]/p[2]/ship[1]
+NDAR_V02_1818,Kingston Packet (Brig),4. The schooner Lively and the brig KINGSTON PACKET .,Kingston Packet,Kingston Packet,p,/TaggedPDF-doc/div/doc[1818]/p[2]/ship[2]
+NDAR_V02_1819,Nautilus (Sloop),MASTER'S LOG OF H.M. SLOOP NAUTILUS Decembr 75 Sunday 3d Pidgeon H,Nautilus,NAUTILUS,title,/TaggedPDF-doc/div/doc[1819]/title/ship
+NDAR_V02_1820,Mary (Schooner),BHS. 2. Owner of the schooner MARY . 3. Owner of the schooner Prin,Mary,Mary,note,/TaggedPDF-doc/div/doc[1820]/note[1]/ship
+NDAR_V02_1820,Prince William (Schooner),Mary. 3. Owner of the schooner PRINCE WILLIAM . 4. Master of the sloop Phoebe,Prince William,Prince William,note,/TaggedPDF-doc/div/doc[1820]/note[2]/ship
+NDAR_V02_1820,Phoebe (Sloop),illiam. 4. Master of the sloop PHOEBE .,Phoebe,Phoebe,note,/TaggedPDF-doc/div/doc[1820]/note[3]/ship
+NDAR_V02_1822,Nancy's,written several days after news of the NANCY'S capture reached Cambridge on November 2,Nancy's,Nancy's,note,/TaggedPDF-doc/div/doc[1822]/note/ship
+NDAR_V02_1823,Concord (Ship),"r a Brass Mortar."" 3. The ship CONCORD .",Concord,Concord,note,/TaggedPDF-doc/div/doc[1823]/note[2]/ship
+NDAR_V02_1824,Nancy,". Adams Papers, MassHS. 2. The NANCY . 3. Warren was in error; the c",Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1824]/note[1]/ship
+NDAR_V02_1824,Polly,"error; the cutter from Nova Scotia, the POLLY , was also taken by Manley.",Polly,Polly,note,/TaggedPDF-doc/div/doc[1824]/note[2]/ship
+NDAR_V02_1825,Preston,"PARKER, JR., R.N. Sir PRESTON Boston 3 Decr 1775,",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1825]/dl/ship
+NDAR_V02_1825,Phoenix,"at Virginia;2 therefore if the Asia and PHOENIX cannot safely winter at New York, go yo",Phoenix,Phoenix,p2,/TaggedPDF-doc/div/doc[1825]/p2/ship
+NDAR_V02_1831,Columbus,"ip called the Alfred, 1 Ship called the COLUMBUS , 1 Brig called the Cabbot[, 1] brig cal",Columbus,Columbus,note,/TaggedPDF-doc/div/doc[1831]/note/ship[1]
+NDAR_V02_1831,Katy,"Providence in a Sloop called the Catea [ KATY ], Commanded by Abram Whipple, E[sq.], o",Katy,Katy,note,/TaggedPDF-doc/div/doc[1831]/note/ship[2]
+NDAR_V02_1832,Niger,"JOURNAL OF H.M.S. NIGER , CAPTAIN GEORGE TALBOT Decembe",Niger,NIGER,title,/TaggedPDF-doc/div/doc[1832]/title/ship
+NDAR_V02_1832,William (Brig),Leaguesat 6 A M made the Signal for the WILLIAM Brig to come under our Stern at 8 she,William,William,note,/TaggedPDF-doc/div/doc[1832]/note[1]/ship[1]
+NDAR_V02_1832,Brothers (Snow),"consisted of the brig William and snow BROTHERS , and the prizes, Sally and Peter.",Brothers,Brothers,note,/TaggedPDF-doc/div/doc[1832]/note[1]/ship[2]
+NDAR_V02_1832,Sally,"liam and snow Brothers, and the prizes, SALLY and Peter. 3. The brig Peter s",Sally,Sally,note,/TaggedPDF-doc/div/doc[1832]/note[1]/ship[3]
+NDAR_V02_1832,Peter (Brig),at on board the strange Sail ー the Brig PETER ー Thos Egger Master from St Ubes to New,Peter,Peter,note,/TaggedPDF-doc/div/doc[1832]/note[1]/ship[4]
+NDAR_V02_1832,Peter (Brig),at on board the strange Sail ー the Brig PETER ー Thos Egger Master from St Ubes to New,Peter,Peter,note,/TaggedPDF-doc/div/doc[1832]/note[2]/ship[1]
+NDAR_V02_1832,Sally,"liam and snow Brothers, and the prizes, SALLY and Peter. 3. The brig Peter s",Sally,Sally,note,/TaggedPDF-doc/div/doc[1832]/note[2]/ship[2]
+NDAR_V02_1832,Warren (Schooner),"tmas Day by Washington's armed schooner WARREN , Captain Winborn Adams, and carried int",Warren,Warren,note,/TaggedPDF-doc/div/doc[1832]/note[2]/ship[3]
+NDAR_V02_1832,Peter (Brig),at on board the strange Sail ー the Brig PETER ー Thos Egger Master from St Ubes to New,Peter,Peter,note,/TaggedPDF-doc/div/doc[1832]/note[2]/ship[4]
+NDAR_V02_1834,Roebuck,MARRIOT ARBUTHNOT Sir ROEBUCK at Halifax 4th Decr 1775 Lieut,Roebuck,Roebuck,dl,/TaggedPDF-doc/div/doc[1834]/dl/ship
+NDAR_V02_1836,Speedwell (Sloop),"ngton Papers, LC. 2. The sloop SPEEDWELL , Corey, master, taken by Broughton and",Speedwell,Speedwell,note,/TaggedPDF-doc/div/doc[1836]/note/ship
+NDAR_V02_1840,Rainbow (Schooner),"tore ship, it was probably the schooner RAINBOW with potatoes and turnips from Nova Sco",Rainbow,Rainbow,note,/TaggedPDF-doc/div/doc[1840]/note/ship
+NDAR_V02_1841,Britannia (Sloop),"last.2 1. The sloop BRITANNIA , Josepth Hall, master, as well as the J",Britannia,Britannia,note,/TaggedPDF-doc/div/doc[1841]/note[1]/ship[1]
+NDAR_V02_1841,Jupiter,"from Boston, that it was the Juno [sic JUPITER ] transport ship from London, laden only",Jupiter,Jupiter,note,/TaggedPDF-doc/div/doc[1841]/note[1]/ship[2]
+NDAR_V02_1841,Nancy (Brig),t London. 2. The ordnance brig NANCY .,Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1841]/note[2]/ship
+NDAR_V02_1842,Phoenix,"2. Captain Hyde Parker, Jr., of H.M.S. PHOENIX , at New York.",Phoenix,Phoenix,note,/TaggedPDF-doc/div/doc[1842]/note/ship
+NDAR_V02_1843,Preston,O PHILIP STEPHENS Sir PRESTON Boston 4 December 1775,Preston,Preston,dl,/TaggedPDF-doc/div/doc[1843]/dl/ship
+NDAR_V02_1844,Preston,"O PHILIP STEPHENS Sir PRESTON Boston Decr 4, 1775,",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1844]/dl/ship
+NDAR_V02_1844,Mercury,", BM. 2. See journal of H.M.S. MERCURY , September 20, 1775, for a description",Mercury,Mercury,note,/TaggedPDF-doc/div/doc[1844]/note/ship[1]
+NDAR_V02_1844,Sea Nymph's,"mber 20, 1775, for a description of the SEA NYMPH'S capture. The Sea Nymph, Joseph Bradford",Sea Nymph's,Sea Nymph's,note,/TaggedPDF-doc/div/doc[1844]/note/ship[2]
+NDAR_V02_1844,Sea Nymph (Brig),"ervice; I have therefore taken the Brig SEA NYMPH , one of those seized for the King,2 and",Sea Nymph,Sea Nymph,note,/TaggedPDF-doc/div/doc[1844]/note/ship[3]
+NDAR_V02_1845,Nancy,3. The purported reward for taking the NANCY was merely a rumor. 4. Referri,Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1845]/note[2]/ship
+NDAR_V02_1846,Washington,"William Watson 1. WASHINGTON Papers, LC. 2. The armed brig",Washington,Washington,note,/TaggedPDF-doc/div/doc[1846]/note[1]/ship
+NDAR_V02_1846,Harrison (Schooner),3. Washington's armed schooner HARRISON .,Harrison,Harrison,note,/TaggedPDF-doc/div/doc[1846]/note[2]/ship
+NDAR_V02_1850,Dutchess of Gordon (Ship),"EHEAD HICKS Sir, Ship DUTCHESS OF GORDON , New-York Harbour, 4th Dec.",Dutchess of Gordon,Dutchess of Gordon,dl,/TaggedPDF-doc/div/doc[1850]/dl/ship
+NDAR_V02_1851,Asia,"Hours in the North River along Side the ASIA Man of War, sailed up the Sound, and ne",Asia,Asia,src,/TaggedPDF-doc/div/doc[1851]/src/ship[1]
+NDAR_V02_1851,George (Sloop),nesdy 29 November 1775. P M Arriv'd the GEORGE Sloop from Boston sent 2 petty Officers,George,George,src,/TaggedPDF-doc/div/doc[1851]/src/ship[2]
+NDAR_V02_1851,George (Sloop),nesdy 29 November 1775. P M Arriv'd the GEORGE Sloop from Boston sent 2 petty Officers,George,George,src,/TaggedPDF-doc/div/doc[1851]/src/ship[3]
+NDAR_V02_1862,Hancock (Schooner),"2. Washington's armed schooners HANCOCK , Nicholson Broughton, and Franklin, Joh",Hancock,Hancock,note,/TaggedPDF-doc/div/doc[1862]/note/ship[1]
+NDAR_V02_1862,Franklin,"oners Hancock, Nicholson Broughton, and FRANKLIN , John Selman. See Calibeck's petition o",Franklin,Franklin,note,/TaggedPDF-doc/div/doc[1862]/note/ship[2]
+NDAR_V02_1865,Hancock (Schooner),"2 1. The Continental schooners HANCOCK , Nicholson Broughton, and Franklin, Joh",Hancock,Hancock,src,/TaggedPDF-doc/div/doc[1865]/src/ship[1]
+NDAR_V02_1865,Franklin,"oners Hancock, Nicholson Broughton, and FRANKLIN , John Selman. 2. The Lively.",Franklin,Franklin,src,/TaggedPDF-doc/div/doc[1865]/src/ship[2]
+NDAR_V02_1865,Lively,"Franklin, John Selman. 2. The LIVELY .",Lively,Lively,note,/TaggedPDF-doc/div/doc[1865]/note/ship
+NDAR_V02_1866,Nancy,ese articles were from the cargo of the NANCY . 3. The ship Concord.,Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1866]/note[1]/ship
+NDAR_V02_1866,Concord (Ship),argo of the Nancy. 3. The ship CONCORD .,Concord,Concord,note,/TaggedPDF-doc/div/doc[1866]/note[2]/ship
+NDAR_V02_1868,Concord (Ship),"the legality of the seizure of the ship CONCORD , see his letter to John Hancock, Decemb",Concord,Concord,note,/TaggedPDF-doc/div/doc[1868]/note[2]/ship
+NDAR_V02_1869,Concord,General Israel Putnam. 3. The CONCORD .,Concord,Concord,note,/TaggedPDF-doc/div/doc[1869]/note[2]/ship
+NDAR_V02_1870,Kingston Packet (Brig),ridge 5th Decr 1775 ー The Brig KINGSTON PACKET ー Saml Ingersoll Master was taken at Ba,Kingston Packet,Kingston Packet,note,/TaggedPDF-doc/div/doc[1870]/note/ship[1]
+NDAR_V02_1870,Hancock (Schooner),", taken by Washington's anned schooners HANCOCK and Franklin on November 26, 1775, was",Hancock,Hancock,note,/TaggedPDF-doc/div/doc[1870]/note/ship[2]
+NDAR_V02_1870,Franklin,"ashington's anned schooners Hancock and FRANKLIN on November 26, 1775, was released to t",Franklin,Franklin,note,/TaggedPDF-doc/div/doc[1870]/note/ship[3]
+NDAR_V02_1873,Yankee Hero,"e letter states that it relates to the "" YANKEE HERO ,"" the first privateer of the Revolution",Yankee Hero,Yankee Hero,note,/TaggedPDF-doc/div/doc[1873]/note/ship[1]
+NDAR_V02_1873,Yankee Hero,"e letter states that it relates to the "" YANKEE HERO ,"" the first privateer of the Revolution",Yankee Hero,Yankee Hero,note,/TaggedPDF-doc/div/doc[1873]/note/ship[2]
+NDAR_V02_1873,Yankee Hero,"e letter states that it relates to the "" YANKEE HERO ,"" the first privateer of the Revolution",Yankee Hero,Yankee Hero,note,/TaggedPDF-doc/div/doc[1873]/note/ship[3]
+NDAR_V02_1873,Yankee Hero,"e letter states that it relates to the "" YANKEE HERO ,"" the first privateer of the Revolution",Yankee Hero,Yankee Hero,note,/TaggedPDF-doc/div/doc[1873]/note/ship[4]
+NDAR_V02_1873,Yankee Hero,"e letter states that it relates to the "" YANKEE HERO ,"" the first privateer of the Revolution",Yankee Hero,Yankee Hero,note,/TaggedPDF-doc/div/doc[1873]/note/ship[5]
+NDAR_V02_1876,Preston,"RBUTHNOT, HALIFAX Sir PRESTON Boston 5 Decr 1775",Preston,Preston,dl,/TaggedPDF-doc/div/doc[1876]/dl/ship
+NDAR_V02_1877,Fowey,"JOURNAL OF H.M.S. FOWEY , CAPTAIN GEORGE MONTAGU Decemb",Fowey,FOWEY,title,/TaggedPDF-doc/div/doc[1877]/title/ship
+NDAR_V02_1878,Fowey,MUSTER ROLL OF H.M.S. FOWEY [Extract] Supernumeri,Fowey,FOWEY,title,/TaggedPDF-doc/div/doc[1878]/title/ship
+NDAR_V02_1878,Wasington,mounth of october(1775] foloing general WASINGTON gave out orders for six of our regiment,Wasington,wasington,note,/TaggedPDF-doc/div/doc[1878]/note[1]/ship[1]
+NDAR_V02_1878,Lively (Ship),after wards we mete with two ships the LIVELY & fo[we]y one of 20 guns & the other of,Lively,Lively,note,/TaggedPDF-doc/div/doc[1878]/note[1]/ship[2]
+NDAR_V02_1878,Fo[we]y,rds we mete with two ships the Lively & FO[WE]Y one of 20 guns & the other of 36 Ditto,Fo[we]y,fo[we]y,note,/TaggedPDF-doc/div/doc[1878]/note[1]/ship[3]
+NDAR_V02_1878,Taughter,"was Sent home to England in the friget TAUGHTER [Tartar]"" Franklin Papers, XIII, 123, A",Taughter,Taughter,note,/TaggedPDF-doc/div/doc[1878]/note[1]/ship[4]
+NDAR_V02_1878,Tartar,} D[elivered] 11th Decr 1775 [to] TARTAR p Order Adml Graves,Tartar,Tartar,note,/TaggedPDF-doc/div/doc[1878]/note[1]/ship[5]
+NDAR_V02_1878,Fo[we]y,"d by a British 20 gun ship, called the ' FO[WE]Y ', and were carried to Boston, where we",Fo[we]y,Fo[we]y,note,/TaggedPDF-doc/div/doc[1878]/note[2]/ship[1]
+NDAR_V02_1878,Tarter (Frigate),"and were then put on board the frigate TARTER , and sent to England as prisoners ー "" L",Tarter,Tarter,note,/TaggedPDF-doc/div/doc[1878]/note[2]/ship[2]
+NDAR_V02_1878,Fo[we]y,"d by a British 20 gun ship, called the ' FO[WE]Y ', and were carried to Boston, where we",Fo[we]y,Fo[we]y,note,/TaggedPDF-doc/div/doc[1878]/note[3]/ship[1]
+NDAR_V02_1878,Washington,only being Prisoners taken on board the WASHINGTON rebel Privateer.1775 Decemr 5th,Washington,Washington,note,/TaggedPDF-doc/div/doc[1878]/note[3]/ship[2]
+NDAR_V02_1878,Fo[we]y,"d by a British 20 gun ship, called the ' FO[WE]Y ', and were carried to Boston, where we",Fo[we]y,Fo[we]y,note,/TaggedPDF-doc/div/doc[1878]/note[3]/ship[3]
+NDAR_V02_1878,Tartar,} D[elivered] 11th Decr 1775 [to] TARTAR p Order Adml Graves,Tartar,Tartar,note,/TaggedPDF-doc/div/doc[1878]/note[3]/ship[4]
+NDAR_V02_1881,Phoenix,"D FROM CAPTAIN HYDE PARKER, JR., H.M.S. PHOENIX (Copy) The Master (su",Phoenix,PHOENIX,title,/TaggedPDF-doc/div/doc[1881]/title/ship
+NDAR_V02_1881,Asia,e John Hetherington is now on board the ASIA and Acknowledges to the having been emp,Asia,Asia,p2,/TaggedPDF-doc/div/doc[1881]/p2[1]/ship
+NDAR_V02_1883,Minerva,"'s, who attends that Board, that if the MINERVA shall be judged staunch and fit for ser",Minerva,Minerva,note,/TaggedPDF-doc/div/doc[1883]/note[2]/ship
+NDAR_V02_1883,Katy,"cording to Samuel Ward, Whipple, in the KATY , must have arrived on the morning of De",Katy,Katy,note,/TaggedPDF-doc/div/doc[1883]/note[3]/ship
+NDAR_V02_1883,Minerva,"'s, who attends that Board, that if the MINERVA shall be judged staunch and fit for ser",Minerva,Minerva,note,/TaggedPDF-doc/div/doc[1883]/note[4]/ship
+NDAR_V02_1890,Scorpion (Sloop),"JOURNAL OF H.M. SLOOP SCORPION , CAPTAIN JOHN TOLLEMACHE Decem",Scorpion,SCORPION,title,/TaggedPDF-doc/div/doc[1890]/title/ship
+NDAR_V02_1890,Thomas and Stafford (Sloop),"day, December 17. 3. The sloop THOMAS & STAFFORD , Solomon Gibbs, master. See the protest",Thomas & Stafford,Thomas & Stafford,note,/TaggedPDF-doc/div/doc[1890]/note[2]/ship
+NDAR_V02_1891,Roebuck,MARRIOT ARBUTHNOT Sir ROEBUCK at Halifax 6th Decr 1775 I beg,Roebuck,Roebuck,dl,/TaggedPDF-doc/div/doc[1891]/dl/ship
+NDAR_V02_1892,Sally (Brigantine),CREW AGAINST THE LOSS OF THE BRIGANTINE SALLY PROTESTBy this Public Instrume,Sally,SALLY,title,/TaggedPDF-doc/div/doc[1892]/title/ship
+NDAR_V02_1893,Phoebe (Sloop),"hington, IV, 150. 2. The sloop PHOEBE , taken by Broughton and Selman on Octob",Phoebe,Phoebe,note,/TaggedPDF-doc/div/doc[1893]/note/ship
+NDAR_V02_1894,Nancy,stores which comprised the cargo of the NANCY and guarding the military stores to Cam,Nancy,Nancy,note,/TaggedPDF-doc/div/doc[1894]/note/ship
+NDAR_V02_1896,Fisher (Schooner),"Colbert, foremost Hands of the Schooner FISHER ,2 taken & brought into Salem ーOrdered ー",Fisher,Fisher,note,/TaggedPDF-doc/div/doc[1896]/note/ship
+NDAR_V02_1897,Gaspee (Brig),2. These were officers of H.M. Brig GASPEE who had left that vessel at Montreal an,Gaspee,Gaspee,note,/TaggedPDF-doc/div/doc[1897]/note/ship[1]
+NDAR_V02_1897,Gaspee (Brig),2. These were officers of H.M. Brig GASPEE who had left that vessel at Montreal an,Gaspee,Gaspee,note,/TaggedPDF-doc/div/doc[1897]/note/ship[2]
+NDAR_V02_1901,Alfred,"rand Union Flag was raised on board the ALFRED , formerly the Black Prince, has long be",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1901]/note/ship[1]
+NDAR_V02_1901,Black Prince,"t his flag on board the ship called the BLACK PRINCE , for the protection of the river.2",Black Prince,Black Prince,note,/TaggedPDF-doc/div/doc[1901]/note/ship[2]
+NDAR_V02_1901,Black Prince,"t his flag on board the ship called the BLACK PRINCE , for the protection of the river.2",Black Prince,Black Prince,note,/TaggedPDF-doc/div/doc[1901]/note/ship[3]
+NDAR_V02_1901,Alfred,"rand Union Flag was raised on board the ALFRED , formerly the Black Prince, has long be",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1901]/note/ship[4]
+NDAR_V02_1901,Alfred,"rand Union Flag was raised on board the ALFRED , formerly the Black Prince, has long be",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1901]/note/ship[5]
+NDAR_V02_1901,Alfred,"rand Union Flag was raised on board the ALFRED , formerly the Black Prince, has long be",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1901]/note/ship[6]
+NDAR_V02_1901,Alfred,"rand Union Flag was raised on board the ALFRED , formerly the Black Prince, has long be",Alfred,Alfred,note,/TaggedPDF-doc/div/doc[1901]/note/ship[7]
+NDAR_V02_1904,Jenny and Polly,"from Jas Smith or Jones concerning the JENNY & POLLY ,2 we beg you'll take Such Care of her",Jenny & Polly,Jenny & Polly,note,/TaggedPDF-doc/div/doc[1904]/note/ship
+NDAR_V02_1906,Christian (Sloop),"he Virginia Navy. 2. The sloop CHRISTIAN . See Purdie's Virginia Gazette, Decembe",Christian,Christian,note,/TaggedPDF-doc/div/doc[1906]/note[2]/ship
+NDAR_V02_1907,Dunmore (Ship),(No 34) On Board the Ship DUNMORE off Norfolk Virginia 6th December,Dunmore,Dunmore,dl,/TaggedPDF-doc/div/doc[1907]/dl/ship
+NDAR_V02_1910,Tamar (Sloop),"JOURNAL OF H.M. SLOOP TAMAR , CAPTAIN EDWARD THORNBROUGH 17",Tamar,TAMAR,title,/TaggedPDF-doc/div/doc[1910]/title/ship
+NDAR_V02_1912,Magdalen (Schooner),"JOURNAL OF H.M. SCHOONER MAGDALEN , LIEUTENANT JOSEPH NUNN Decemb",Magdalen,MAGDALEN,title,/TaggedPDF-doc/div/doc[1912]/title/ship
+NDAR_V02_1913,Boston Revenge (Schooner),OR THE MASSACHUSETTS PRIVATEER SCHOONER BOSTON REVENGE To the Honble the Council of t,Boston Revenge,BOSTON REVENGE,title,/TaggedPDF-doc/div/doc[1913]/title/ship
+NDAR_V02_1914,Boston Revenge (Schooner),"OF THE MASSACHUSETTS PRIVATEER SCHOONER BOSTON REVENGE [Salem, December 7, 1775]",Boston Revenge,BOSTON REVENGE,title,/TaggedPDF-doc/div/doc[1914]/title/ship
+NDAR_V02_1914,Dolphin (Schooner),"issued in this month for the schooners DOLPHIN , Washington, and General Ward, and the",Dolphin,Dolphin,src,/TaggedPDF-doc/div/doc[1914]/src/ship[1]
+NDAR_V02_1914,Washington,"n this month for the schooners Dolphin, WASHINGTON , and General Ward, and the sloop Gameco",Washington,Washington,src,/TaggedPDF-doc/div/doc[1914]/src/ship[2]
+NDAR_V02_1914,General Ward,"the schooners Dolphin, Washington, and GENERAL WARD , and the sloop Gamecock.",General Ward,General Ward,src,/TaggedPDF-doc/div/doc[1914]/src/ship[3]
+NDAR_V02_1914,Gamecock (Sloop),"ington, and General Ward, and the sloop GAMECOCK .",Gamecock,Gamecock,src,/TaggedPDF-doc/div/doc[1914]/src/ship[4]
+NDAR_V02_1918,Ranger (Sloop),"33, 139, Mass HS. 2. The sloop RANGER , taken by H.M.S. Cerberus, and retaken",Ranger,Ranger,note,/TaggedPDF-doc/div/doc[1918]/note/ship[1]
+NDAR_V02_1918,Cerberus,"2. The sloop Ranger, taken by H.M.S. CERBERUS , and retaken by Captain John Manley in",Cerberus,Cerberus,note,/TaggedPDF-doc/div/doc[1918]/note/ship[2]
+NDAR_V02_1918,Lee (Schooner),"n Manley in Washington's armed schooner LEE on November 7, 1775.",Lee,Lee,note,/TaggedPDF-doc/div/doc[1918]/note/ship[3]
+NDAR_V02_1922,Prince George (Ship),"II, 684. 2. Master of the ship PRINCE GEORGE , which strayed into Portsmouth on Octob",Prince George,Prince George,note,/TaggedPDF-doc/div/doc[1922]/note/ship
+NDAR_V02_1923,Fowey,"JOURNAL OF H.M.S. FOWEY , CAPTAIN GEORGE MONTAGU Wednes",Fowey,FOWEY,title,/TaggedPDF-doc/div/doc[1923]/title/ship
+NDAR_V02_1929,Nancy's,alue.1 1. The inventory of the NANCY'S cargo varied in each newspaper account.,Nancy's,Nancy's,note,/TaggedPDF-doc/div/doc[1929]/note/ship
+NDAR_V02_1936,Cherokee (Ship),"two nights, on board his Majesty's ship CHEROKEE , under my command; as the circumstance",Cherokee,Cherokee,dl2,/TaggedPDF-doc/div/doc[1936]/dl2/ship

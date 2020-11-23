@@ -1,0 +1,1000 @@
+ 1088  cd
+ 1089  cd dev/products/fromthepage/
+ 1090  git statu
+ 1091  git status
+ 1092  cd fromthepage
+ 1093  git status
+ 1094  git pull
+ 1095  rails s
+ 1096  rvm list
+ 1097  cat .ruby-version 
+ 1098  cd ..
+ 1099  cd fromthepage
+ 1100  rvm install ruby-2.3.7
+ 1101  bundle insall
+ 1102  bundle install
+ 1103  rails s
+ 1104  rake db:migrate
+ 1105  rails s
+ 1106  git status
+ 1107  git diff app
+ 1108  git status
+ 1109  git branch 1135-fix-500-on-export
+ 1110  git checkout 1135-fix-500-on-export 
+ 1111  git add app
+ 1112  git commit -m "Created work-around for #1135 by stripping trailing whitespace"
+ 1113  git push origin 1135-fix-500-on-export 
+ 1114  rake db:drop; rake db:setup
+ 1115  rake db:drop; rake db:create
+ 1116  rake db:setup
+ 1117  rake db:migrate
+ 1118  rake db:drop db:create db:migrate
+ 1119  rails s
+ 1120  cd ..
+ 1121  ls
+ 1122  cd ..
+ 1123  cd clients/
+ 1124  ls
+ 1125  cd perdue/
+ 1126  ls
+ 1127  cd ndar/
+ 1128  ls
+ 1129  cd INGEST/
+ 1130  ls -lrt
+ 1131  loffice NDAR\ Tag\ Guide.docx 
+ 1132  loffice NDAR\ Vol\ 1\ Excel.csv 
+ 1133  cd ..
+ 1134  lls
+ 1135  cd bl/
+ 1136  ls
+ 1137  cd ner/
+ 1138  ls
+ 1139  ls -lrt ~/Downloads/
+ 1140  mv ~/Downloads/*.mp4 ~/.../dl/new/
+ 1141  ls -lrt ~/Downloads/
+ 1142  mv ~/Downloads/*.swf ~/.../dl/new/
+ 1143  ls -lrt ~/Downloads/
+ 1144  mv ~/Downloads/NDARV2working20180715.tsv 
+ 1145  mv ~/Downloads/NDARV2working20180715.tsv .
+ 1146  gedit NDARV2working20180715.tsv 
+ 1147  ls
+ 1148  loffice NDARV2working20180715.tsv
+ 1149  grep PERSON NDARV2working20180715.tsv > volume2people.csv
+ 1150  loffice volume2people.csv 
+ 1151  ls ../../INGEST/
+ 1152  cd ../..
+ 1153  ls
+ 1154  cd Volume\ 2/
+ 1155  ls -lrt
+ 1156  ls *
+ 1157  cd Volume\ 2\ split\ XML/
+ 1158  ls -lrt
+ 1159  ls
+ 1160  cp NDARVolume2FULLV1.xml ../../bl/ner/
+ 1161  ls
+ 1162  cd 
+ 1163  cd dev/clients/perdue/ndar/bl/ner/
+ 1164  ls
+ 1165  ./ner.rb 
+ 1166  more ner.rb 
+ 1167  ./ner.rb volume2people.csv NDARVolume2FULLV1.xml 
+ 1168  diff NDARVolume2FULLV1.xml out.xml | less
+ 1169  mv out.xml v2_with_ner_tags.xml
+ 1170  ls
+ 1171  diff NDARVolume2FULLV1.xml v2_with_ner_tags.xml | less
+ 1172  diff NDARVolume2FULLV1.xml v2_with_ner_tags.xml > diff_between_v2_and_ner_tags.txt
+ 1173  gedit diff_between_v2_and_ner_tags.txt 
+ 1174  cd ../..
+ 1175  cd INGEST/
+ 1176  ls
+ 1177  gedit NDARV1final20180725.xml 
+ 1178  cd
+ 1179  cd dev/products/fromthepage/fromthepage
+ 1180  git status
+ 1181  git checkout development 
+ 1182  git pull
+ 1183  git fetch --all
+ 1184  git checkout -b 1138-fix-dots-in-routes
+ 1185  history | grep mysql
+ 1186  bundle install
+ 1187  rake db:drop; rake db:create;  mysql --user=rails --password=rails --database=diary_development < ../data/database/2018_07_25_03_00_01.dmp; rake db:migrate
+ 1188  rails s
+ 1189  git status
+ 1190  git add config/routes.rb
+ 1191  git commit -m "Fixed #1138 by adding constraint to base route"
+ 1192  git push origin 1138-fix-dots-in-routes 
+ 1193  git status
+ 1194  git branch
+ 1195  git fetch --all
+ 1196  git checkout landing-redesign 
+ 1197  git checkout db/schema.rb
+ 1198  git checkout landing-redesign 
+ 1199  git pull
+ 1200  history | grep RAILS
+ 1201  RAILS_ENV=test rake db:drop db:create db:migrate
+ 1202  bundle
+ 1203  RAILS_ENV=test rake db:drop db:create db:migrate
+ 1204  RAILS_ENV=test rake db:fixtures:load FIXTURES_PATH=spec/fixtures
+ 1205  rspec spec/features
+ 1206  git status
+ 1207  git checkout develop
+ 1208  git checkout development 
+ 1209  git fetch --all
+ 1210  git pull
+ 1211  git checkout -b 1142-byebug-to-dev
+ 1212  bundle install
+ 1213  grep byebug Gemfile.lock 
+ 1214  git status
+ 1215  rm Gemfile.lock 
+ 1216  bundle install
+ 1217  git status
+ 1218  history
+ 1219  RAILS_ENV=test rake db:drop db:create db:migrate; RAILS_ENV=test rake db:fixtures:load FIXTURES_PATH=spec/fixtures; rspec spec/features
+ 1220  git status
+ 1221  git add Gemfile Gemfile.lock
+ 1222  git status
+ 1223  git commit -m "Moved pry and pry-byebug to dev/test groups; bumped byebug to 10.0.0"
+ 1224  git status
+ 1225  git push origin 1142-byebug-to-dev 
+ 1226  git diff --help
+ 1227  git diff 1142-byebug-to-dev/Gemfile fromthepage.com/Gemfile
+ 1228  git diff 1142-byebug-to-dev fromthepage.com -- Gemfile
+ 1229  rake assets:precompile
+ 1230  rm Gemfile.lock 
+ 1231  bundle install
+ 1232  git status
+ 1233  git add Gemfile
+ 1234  git commit -m "Add pry back in for dependency"
+ 1235  git push origin 1142-byebug-to-dev 
+ 1236  ssh fromthepage@newerserver
+ 1237  git checkout development 
+ 1238  git pull
+ 1239  git branch
+ 1240  git checkout 1083-allow-preserve-titles-upload 
+ 1241  git pull
+ 1242  git merge development
+ 1243  git push origin 1083-allow-preserve-titles-upload 
+ 1244  git checkout fix-gitignore 
+ 1245  git merge development 
+ 1246  git push origin fix-gitignore 
+ 1247  git checkout 1096-user-dictation-langauge 
+ 1248  git pull
+ 1249  git merge devlelopment
+ 1250  git merge development 
+ 1251  git push origin 1096-user-dictation-langauge 
+ 1252  rails s
+ 1253  rake db:drop db:create
+ 1254  git merge development 
+ 1255  grep -r textlab *
+ 1256  git checkout landing-redesign 
+ 1257  git log
+ 1258  git status
+ 1259  git checkout landing-redesign 
+ 1260  git checkout db/schema.rb
+ 1261  git checkout landing-redesign 
+ 1262  git log
+ 1263  git checkout development 
+ 1264  git cherry-pick 6e8d1dd80a27f34506336189fe374114f868eaad
+ 1265  git status
+ 1266  git diff spec
+ 1267  git cherry-pick 051fee606e89050dd5b340f4553a18b9dd57cb80
+ 1268  rm Gemfile.lock 
+ 1269  git cherry-pick 051fee606e89050dd5b340f4553a18b9dd57cb80
+ 1270  git status
+ 1271  git checkout Gemfile.lock
+ 1272  rm Gemfile.lock
+ 1273  bundle install
+ 1274  git status
+ 1275  git add Gemfile.lock
+ 1276  git cherry-pick 051fee606e89050dd5b340f4553a18b9dd57cb80
+ 1277  git commit
+ 1278  git cherry-pick 051fee606e89050dd5b340f4553a18b9dd57cb80
+ 1279  git status
+ 1280  git checkout landing-redesign 
+ 1281  git log
+ 1282  git status
+ 1283  cp spec/features/zz_iiif_collection_spec.rb /tmp/
+ 1284  git checkout development 
+ 1285  cp  /tmp/zz_iiif_collection_spec.rb spec/features/
+ 1286  git diff
+ 1287  history
+ 1288  RAILS_ENV=test rake db:drop db:create db:migrate; RAILS_ENV=test rake db:fixtures:load FIXTURES_PATH=spec/fixtures; rspec spec/features
+ 1289  git status
+ 1290  git add spec/features/zz_iiif_collection_spec.rb
+ 1291  git commit
+ 1292  git status
+ 1293  git push origin development 
+ 1294  history | grep git
+ 1295  git checkout 1083-allow-preserve-titles-upload 
+ 1296  git merge development 
+ 1297  git push origin 1083-allow-preserve-titles-upload 
+ 1298  git checkout 1096-user-dictation-langauge 
+ 1299  git merge development 
+ 1300  git push origin 1096-user-dictation-langauge 
+ 1301  git checkout fix-gitignore 
+ 1302  git merge development 
+ 1303  git push origin fix-gitignore 
+ 1304  git checkout 1142-byebug-to-dev 
+ 1305  git merge development 
+ 1306  rm Gemfile.lock 
+ 1307  bundle install
+ 1308  git status
+ 1309  git add Gemfile.lock
+ 1310  git commit
+ 1311  git push origin 1142-byebug-to-dev 
+ 1312  git checkout 1135-fix-500-on-export
+ 1313  git merge development
+ 1314  git push origin 1135-fix-500-on-export 
+ 1315  git fetch --all --prune
+ 1316  git checkout fromthepage.com 
+ 1317  git checkout db/schema.rb
+ 1318  git checkout fromthepage.com 
+ 1319  git pull
+ 1320  git merge development
+ 1321  rm Gemfile.lock 
+ 1322  bundle install
+ 1323  git status
+ 1324  git add Gemfile.lock
+ 1325  git commit
+ 1326  git push origin fromthepage.com 
+ 1327  cap production deploy
+ 1328  git status
+ 1329  rails s
+ 1330  rake db:migrate
+ 1331  rails s
+ 1332  history | grep mysql
+ 1333  rake db:drop; rake db:create;  mysql --user=rails --password=rails --database=diary_development < ../data/database/2018_07_25_03_00_01.dmp; rake db:migrate
+ 1334  rails s
+ 1335  history
+ 1336  git log
+ 1337  git checkout development
+ 1338  git checkout db/schema.rb
+ 1339  git checkout development
+ 1340  git pull
+ 1341  git checkout fromthepage.com
+ 1342  git merge development
+ 1343  git status
+ 1344  git push origin fromthepage.com
+ 1345  cap production deploy
+ 1346  git checkout development 
+ 1347  git add app
+ 1348  git commit -m "Fixed typo in 'language'"
+ 1349  git push origin development
+ 1350  git checkout fromthepage.com
+ 1351  git merge development
+ 1352  git push origin fromthepage.com
+ 1353  cap production deploy
+ 1354  ssh fromthepage@newerserver
+ 1355  git status
+ 1356  git add app
+ 1357  git commit -m "Hot fix for domain issue"
+ 1358  git push origin fromthepage.com
+ 1359  cap production deploy
+ 1360  ssh fromthepage@newerserver
+ 1361  ls -lrt ~/Downloads/
+ 1362  mv ~/Downloads/fromthepage_production_08-2-18.sql.gz ../data/database/utexas_prod_20180818.sql.gz
+ 1363  gunzip ../data/database/utexas_prod_20180818.sql.gz 
+ 1364  rake db:drop db:create
+ 1365  history | grep mysql
+ 1366  git checkout master
+ 1367  git pull
+ 1368  mysql --user=rails --password=rails --database=diary_development < ../data/database/utexas_prod_20180818.sql 
+ 1369  rake db:migrate
+ 1370  rails s
+ 1371  git status
+ 1372  git checkout development 
+ 1373  git pull
+ 1374  git fetch --all --prune
+ 1375  git pull
+ 1376  rails s
+ 1377  git status
+ 1378  git checkout app
+ 1379  rails s
+ 1380  git status
+ 1381  git checkout -b 1156-stopgap
+ 1382  git diff app
+ 1383  git add app
+ 1384  git commit -m "Don't blow up if we can't find the subject title in the text"
+ 1385  git push origin 1156-stopgap 
+ 1386  git fetch --all --prune
+ 1387  git branch
+ 1388  git branch --remote
+ 1389  git checkout austin/labels
+ 1390  git checkout -b 11155-austin-labels
+ 1391  history | grep dump
+ 1392  history | grep drop
+ 1393  rake db:drop; rake db:create;  mysql --user=rails --password=rails --database=diary_development < ../data/database/2018_07_25_03_00_01.dmp; rake db:migrate
+ 1394  rails s
+ 1395  history | grep fixture
+ 1396  RAILS_ENV=test rake db:drop db:create db:migrate; RAILS_ENV=test rake db:fixtures:load FIXTURES_PATH=spec/fixtures; rspec spec/features
+ 1397  rails s
+ 1398  cd ../../..
+ 1399  cd clients/freeukgen/
+ 1400  ls
+ 1401  cd SummerOfCodeImages/
+ 1402  ls
+ 1403  cd ..
+ 1404  git clone git@github.com:FreeUKGen/ProbateParsing.git
+ 1405  ls
+ 1406  cd ProbateParsing/
+ 1407  ls
+ 1408  ls bin
+ 1409  ls 
+ 1410  ls *
+ 1411  pip3 install -r requirements.txt 
+ 1412  pip install -r requirements.txt 
+ 1413  pip install --upgrade pip
+ 1414  which pip3
+ 1415  curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py" 
+ 1416  python3 get-pip.py
+ 1417  sudo apt-get install python3-minimal
+ 1418  python3 get-pip.py
+ 1419  python get-pip.py
+ 1420  sudo python get-pip.py
+ 1421  pip install --upgrade pip
+ 1422  pip install -r requirements.txt 
+ 1423  pip3 install -r requirements.txt 
+ 1424  python --version
+ 1425  python3
+ 1426  history
+ 1427  sudo apt-get install pip3
+ 1428  sudo apt-get search python
+ 1429  sudo synaptic
+ 1430  sudo apt-get install python3
+ 1431  pip3 install -r requirements.txt 
+ 1432  python3 get-pip.py
+ 1433  python3 --version
+ 1434  sudo apt-get install python 3.6.5
+ 1435  sudo apt-get install python3.6
+ 1436  sudo apt-get install python3.5
+ 1437  sudo apt-get search python
+ 1438  sudo apt-get list python
+ 1439  apt-get
+ 1440  sudo apt-get update
+ 1441  sudo apt-get install python3.5
+ 1442  sudo add-apt-repository ppa:deadsnakes/ppa -y && sudo apt-get update
+ 1443  sudo apt-get install python3.6
+ 1444  sudo apt-get install python36
+ 1445  sudo apt-get install python3.5
+ 1446  sudo synaptic
+ 1447  sudo apt-get install python3.6-dev
+ 1448  sudo add-apt-repository ppa:jonathonf/python-3.6
+ 1449  sudo apt-get update
+ 1450  sudo apt-get install python3.6
+ 1451  which pyenv
+ 1452  sudo apt-get install -y build-essential libbz2-dev libssl-dev libreadline-dev                         libsqlite3-dev tk-dev
+ 1453  curl -L https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-installer | bash
+ 1454  cat >> ~/.bash_profile
+ 1455  python
+ 1456  bash
+ 1457  which pyenv
+ 1458  pyenv
+ 1459  cat >> ~/.bashrc
+ 1460  bash
+ 1461  pyenv
+ 1462  pyenv install 3.6.7
+ 1463  pyenv install --list
+ 1464  pyenv install 3.6.6
+ 1465  python --version
+ 1466  pyenv virtualenv 3.6.6 general
+ 1467  pyenv global general
+ 1468  python --version
+ 1469  which python3
+ 1470  which pip3
+ 1471  history
+ 1472  history | grep pip
+ 1473  pip3 pip3 install -r requirements.txt
+ 1474  pip3 install -r requirements.txt
+ 1475  pip3 install --upgrade pip
+ 1476  pip3 install -r requirements.txt
+ 1477  pip install -r requirements.txt
+ 1478  python --version
+ 1479  pip3 install -r requirements.txt
+ 1480  git pull
+ 1481  pip3 install -r requirements.txt
+ 1482  pip install beautifulsoup4
+ 1483  pip install pillow
+ 1484  ls
+ 1485  ls *
+ 1486  ls ..
+ 1487  ls ../SummerOfCodeImages/
+ 1488  ls ../SummerOfCodeImages/*
+ 1489  ls ../SummerOfCodeImages/wills/images/
+ 1490  ls ../SummerOfCodeImages/wills/images/1873_Probate_G_to_I /tmp/pp_out
+ 1491  mkdi r/tmp/pp_out
+ 1492  mkdir /tmp/pp_out
+ 1493  python crop.py ../SummerOfCodeImages/wills/images/1873_Probate_G_to_I /tmp/pp_out
+ 1494  ls
+ 1495  cd OCR/
+ 1496  ls
+ 1497  python crop_to_ocr.py ../SummerOfCodeImages/wills/images/1873_Probate_G_to_I /tmp/pp_out
+ 1498  python crop_to_ocr.py /home/benwbrum/dev/clients/freeukgen/SummerOfCodeImages/wills/images/1873_Probate_G_to_I /tmp/pp_out
+ 1499  cd ..
+ 1500  ls
+ 1501  find . -name crop.py
+ 1502  cd Bounding_Boxes/
+ 1503  ls
+ 1504  python crop.py /home/benwbrum/dev/clients/freeukgen/SummerOfCodeImages/wills/images/1873_Probate_G_to_I /tmp/pp_out
+ 1505  ls /tmp/pp_out/
+ 1506  more  /tmp/pp_out/1873_Probate_G_to_I.txt 
+ 1507  eog  /tmp/pp_out/1873_Probate_G_to_I.jpg
+ 1508  eog  /tmp/pp_out/1873_Probate_G_to_I/*.jpg
+ 1509  eog  /tmp/pp_out/
+ 1510  rm /tmp/pp_out/
+ 1511  rm /tmp/pp_out/*
+ 1512  python crop.py /home/benwbrum/dev/clients/freeukgen/SummerOfCodeImages/wills/images/1873\ Probate\ A/ /tmp/pp_out
+ 1513  ls
+ 1514  bash hocr_output.sh /tmp/pp_out/
+ 1515  ls /tmp/pp_out/*
+ 1516  ls
+ 1517  mkdir /tmp/pp_out/pp_crop; python hocr_parsing.py  /tmp/pp_out/00051.jpg /tmp/pp_out/00051.jpg.html /tmp/pp_out/pp_crop
+ 1518  ls /tmp/pp_out/pp_crop/
+ 1519  mkdir /tmp/pp_out/pp_crop; python hocr_parsing.py  /tmp/pp_out/00051.jpg /tmp/pp_out/00051.jpg.html /tmp/pp_out/pp_crop
+ 1520  ls -lrt /tmp/pp_out/
+ 1521  ls -lrt /tmp/pp_out/pp_crop/
+ 1522  ls -lrt
+ 1523  gedit hocr_parsing.py 
+ 1524  python hocr_parsing.py  /tmp/pp_out/00051.jpg /tmp/pp_out/00051.jpg.html /tmp/pp_out/pp_crop
+ 1525  gedit /tmp/pp_out/00051.jpg.html 
+ 1526  python hocr_parsing.py  /tmp/pp_out/00151.jpg /tmp/pp_out/00151.jpg.html /tmp/pp_out/pp_crop
+ 1527  ls -lrt /tmp/pp_out/pp_crop/
+ 1528  gedit /tmp/pp_out/00051.jpg.html 
+ 1529  gedit /tmp/pp_out/00151.jpg.html 
+ 1530  gedit /tmp/pp_out/02151.jpg.html 
+ 1531  gedit /tmp/pp_out/00251.jpg.html 
+ 1532  eog /tmp/pp_out/*.jpg
+ 1533  ls
+ 1534  more README.md 
+ 1535  cd ..
+ 1536  ls
+ 1537  more LICENSE 
+ 1538  ls
+ 1539  more setup.sh 
+ 1540  ls
+ 1541  history
+ 1542  rm /tmp/pp_out/*.*
+ 1543  python crop.py /home/benwbrum/dev/clients/freeukgen/SummerOfCodeImages/wills/images/1873\ Probate\ B  /tmp/pp_out
+ 1544  python crop.py /home/benwbrum/dev/clients/freeukgen/SummerOfCodeImages/wills/images/1873\ Probate\ B/  /tmp/pp_out
+ 1545  ls
+ 1546  cd Bounding_Boxes/
+ 1547  python crop.py /home/benwbrum/dev/clients/freeukgen/SummerOfCodeImages/wills/images/1873\ Probate\ B/  /tmp/pp_out
+ 1548  cp  /home/benwbrum/dev/clients/freeukgen/SummerOfCodeImages/wills/images/1873\ Probate\ B/*.jpg  /tmp/pp_out/
+ 1549  bash hocr_output.sh /tmp/pp_out/
+ 1550  python hocr_parsing.py  /tmp/pp_out/00051.jpg /tmp/pp_out/00051.jpg.html /tmp/pp_out/pp_crop
+ 1551  python hocr_parsing.py  /tmp/pp_out/00041.jpg /tmp/pp_out/00041.jpg.html /tmp/pp_out/pp_crop
+ 1552  eog /tmp/pp_out/pp_crop/
+ 1553  cd ..
+ 1554  ls
+ 1555  cd Bounding_Boxes/
+ 1556  ls
+ 1557  cd ..
+ 1558  ls
+ 1559  ls *
+ 1560  cd OCR/
+ 1561  python crop_to_ocr.py /tmp/pp_out/pp_crop/ /tmp/pp_out/pp_ocr
+ 1562  cd ..
+ 1563  ls
+ 1564  cd NER/
+ 1565  ls
+ 1566  pip install -u spacy
+ 1567  pip install -U spacy
+ 1568  python -m spacy download en
+ 1569  pip install pandas
+ 1570  pip install openpyxl
+ 1571  ls
+ 1572  cd ..
+ 1573  ls
+ 1574  ls *
+ 1575  cd NER/
+ 1576  python train_ner.py ../Inference_Data/training_data.pkl /tmp/pp_out/pp_ner_model
+ 1577  python test_ner.py /tmp/pp_out/pp_ner_model/ /tmp/pp_out/pp_ocr/ /tmp/pp_out/pp_ner_out/
+ 1578  python test_ner.py /tmp/pp_out/pp_ner_model/ /tmp/pp_out/pp_ocr/cleaned_00041.txt /tmp/pp_out/pp_ner_out/
+ 1579  ls /tmp/pp_out/pp_ner_out/
+ 1580  loffice /tmp/pp_out/pp_ner_out/trained_ner.csv 
+ 1581  loffice /tmp/pp_out/pp_ner_out/trained_ner.tsv 
+ 1582  loffice /tmp/pp_out/pp_ner_out/trained_ner.csv 
+ 1583  whois gloriousgeeks.com
+ 1584  cd
+ 1585  cd dev/products/fromthepage/scratch/
+ 1586  ls
+ 1587  gunzip big_files_or_dirs_in_images.txt.gz ; less big_files_or_dirs_in_images.txt
+ 1588  ssh fromthepage@newerserver
+ 1589  cd ../data/database/
+ 1590  scp fromthepage@newerserver:/home/fromthepage/backups/2018_08_26_12_32_27.dmp.gz .
+ 1591  ssh fromthepage@newerserver
+ 1592  cd
+ 1593  cd dev/products/fromthepage/fromthepage
+ 1594  git checkout development 
+ 1595  git fetch origin --prune --all
+ 1596  git fetch origin --prune
+ 1597  git pull
+ 1598  ls ../data/database/
+ 1599  gunzip ../data/database/2018_08_26_12_32_27.dmp.gz 
+ 1600  history | grep mysql
+ 1601  rake db:drop; rake db:create;
+ 1602  date;  mysql --user=rails --password=rails --database=diary_development < ../data/database/2018_08_26_12_32_27.dmp; date
+ 1603  date;  mysql --user=rails --password=rails --database=diary_development < ../data/database/2018_08_27_03_00_01.dmp; date
+ 1604  rake db:migrate
+ 1605  rails s
+ 1606  rails c
+ 1607  cd
+ 1608  cd dev/clients/freeukgen/
+ 1609  cd MyopicVicar/
+ 1610  git status
+ 1611  git fetch --all --prune
+ 1612  git status
+ 1613  git checkout master
+ 1614  git diff
+ 1615  git log
+ 1616  git checkout app
+ 1617  git checkout master
+ 1618  git pull
+ 1619  history | grep spec
+ 1620  rake spec SPEC=spec/models/freereg1_csv_entry_spec.rb
+ 1621  rake spec SPEC=spec/models/freereg1_csv_file_spec.rb
+ 1622  git branch
+ 1623  git checkout browse-for-seo 
+ 1624  git merge master
+ 1625  rake spec SPEC=spec/models/freereg1_csv_file_spec.rb
+ 1626  rake spec SPEC=spec/models/freereg1_csv_entry_spec.rb
+ 1627  rails s
+ 1628  git log public/robots.txt
+ 1629  git status
+ 1630  git add app/controllers/search_records_controller.rb
+ 1631  git commit
+ 1632  git status
+ 1633  git push origin browse-for-seo 
+ 1634  rails s
+ 1635  git status
+ 1636  git add app public/robots.txt
+ 1637  git commit -m "Revised browsable records to correct robots.txt and rephrase"
+ 1638  git push origin browse-for-seo 
+ 1639  rake -T
+ 1640  rake -T | grep open
+ 1641  rake myopic_vicar:rebuild_open_counties
+ 1642  lynx "https://www.washingtonpost.com/opinions/catholics-face-a-painful-question-is-it-true/2018/08/29/25601210-abbd-11e8-b1da-ff7faa680710_story.html?utm_term=.d0f724e396b6"
+ 1643  rake myopic_vicar:rebuild_open
+ 1644  rails c
+ 1645  git status
+ 1646  git add lib
+ 1647  git commit -m "Single convenience function"
+ 1648  git push origin browse-for-seo 
+ 1649  cd 
+ 1650  cd dev/products/
+ 1651  cd fromthepage/fromthepage
+ 1652  git fetch --all --prune
+ 1653  history | grep mysql
+ 1654  date; rake db:drop; rake db:create; date; mysql --user=rails --password=rails --database=diary_development < ../data/database/utexas_prod_20180818.sql; date
+ 1655  git branch
+ 1656  git checkout 1062-section-headers 
+ 1657  git checkout db/schema.rb
+ 1658  git checkout 1062-section-headers 
+ 1659  rake db:migrate
+ 1660  bundle install
+ 1661  rake db:migrate
+ 1662  rails s
+ 1663  cd 
+ 1664  cd dev/clients/freeukgen/MyopicVicar/
+ 1665  history | grep rake
+ 1666  rake myopic_vicar:rebuild_open
+ 1667  git status
+ 1668  gedit ~/.bashrc
+ 1669  git status
+ 1670  git add app
+ 1671  git commit -m "Added no_timeout for long-running job"
+ 1672  git push origin browse-for-seo 
+ 1673  ssh -A test2.freereg.org.uk
+ 1674  cd
+ 1675  cd dev/products/fromthepage/fromthepage
+ 1676  rails s
+ 1677  git status
+ 1678  rails s
+ 1679  ls -lrt ~/Downloads/
+ 1680  rm ~/Downloads/Cumpilation\ -\ A\ Lot\ of\ Cum\ -\ Natali\ Fiction\ GLOWUP2018\ -.mp4.part 
+ 1681  mv ~/Dow
+ 1682  mv ~/Downloads/fromthepage-p01_all-databases_2018-08-30_11_53_51.sql ../data/database/utexas_prod_20180830.sql
+ 1683  history | grep mysql
+ 1684  rake db:drop; rake db:create; date; mysql --user=rails --password=rails --database=diary_development < ../data/database/utexas_prod_20180830.sql 
+ 1685  gedit ../data/database/utexas_prod_20180830.sql 
+ 1686  rake db:drop; rake db:create; date; mysql --user=rails --password=rails --database=diary_development < ../data/database/utexas_prod_20180830.sql 
+ 1687  emacs ../data/database/utexas_prod_20180830.sql 
+ 1688  fg
+ 1689  gedit ../data/database/utexas_prod_20180830.sql 
+ 1690  grep -n mysql ../data/database/utexas_prod_20180830.sql
+ 1691  grep -n mysql ../data/database/utexas_prod_20180830.sql | less
+ 1692  grep -n fromthepage ../data/database/utexas_prod_20180830.sql | less
+ 1693  grep -n fromthepage_ ../data/database/utexas_prod_20180830.sql | less
+ 1694  wc -l ../data/database/utexas_prod_20180830.sql | less
+ 1695  grep -n mysql ../data/database/utexas_prod_20180830.sql | head -1
+ 1696  head -1643 ../data/database/utexas_prod_20180830.sql > /tmp/ut.sql
+ 1697  grep -n Database ../data/database/utexas_prod_20180830.sql | head -1
+ 1698  grep -n Current ../data/database/utexas_prod_20180830.sql | head -1
+ 1699  rake db:drop; rake db:create; date; mysql --user=rails --password=rails --database=diary_development < /tmp/ut.sql 
+ 1700  rake db:migrate
+ 1701  rails s
+ 1702  cd ../data/database/
+ 1703  ls
+ 1704  rm *~
+ 1705  ls -l
+ 1706  rm \#utexas_prod_20180830.sql# 
+ 1707  ls -l
+ 1708  rm utexas_prod_20180818.sql
+ 1709  gzip *.dmp *.sql
+ 1710  ls -l
+ 1711  rails s
+ 1712  cd ../../fromthepage
+ 1713  rails s
+ 1714  cd 
+ 1715  cd dev/products/fromthepage/fromthepage
+ 1716  git fetch --all --prune --remote
+ 1717  git fetch --all --prune 
+ 1718  git branch
+ 1719  git branch --remote
+ 1720  git checkout austin/unique_exports
+ 1721  rm db/schema.rb 
+ 1722  austin/unique_exports
+ 1723  git checkout austin/unique_exports
+ 1724  history | grep db:drop
+ 1725  rake db:drop; rake db:create;  mysql --user=rails --password=rails --database=diary_development < ../data/database/2018_08_27_03_00_01.dmp; rake db:migrate
+ 1726  rails s
+ 1727  totem ~/...
+ 1728  curl omekas
+ 1729  sudo apachectl restart
+ 1730  cd
+ 1731  cd dev/products/fromthepage/fromthepage
+ 1732  git checkout master
+ 1733  git pull
+ 1734  git git status
+ 1735  git status
+ 1736  rm db/schema.rb 
+ 1737  git git status
+ 1738  git pull
+ 1739  git log
+ 1740  git tag 
+ 1741  git tag -l
+ 1742  git tag -a v18.10 725cf2c41418252ce609d7081b5a94815ed91a66
+ 1743  git tag -l
+ 1744  git push origin master
+ 1745  git push
+ 1746  git push origin v18.10
+ 1747  cd
+ 1748  cd dev/clients/boulder/si/
+ 1749  ls
+ 1750  loffice SI\ Object\ metadata\ edited.ods 
+ 1751  bg
+ 1752  fg
+ 1753  bg
+ 1754  fg
+ 1755  bg
+ 1756  ls
+ 1757  ls *.txt
+ 1758  more war.txt 
+ 1759  more tiffs.txt 
+ 1760  more mapping_notes.txt
+ 1761  gedit /tmp/visits.txt&
+ 1762  history | grep ssh
+ 1763  ssh slaveryimages@104.200.20.178
+ 1764  mv ~/Downloads/import_log.txt .
+ 1765  more import_log.txt 
+ 1766  grep "Cannot sideload file" import_log.txt 
+ 1767  grep "Cannot sideload file" import_log.txt  | sed -e "s/.*tiffs..//"
+ 1768  grep "Cannot sideload file" import_log.txt  | sed -e "s/.*tiffs..//" | sed -e "s/\\.*//"
+ 1769  grep "Cannot sideload file" import_log.txt  | sed -e "s/.*tiffs..//" | sed -e "s/\\\.*//"
+ 1770  grep "Cannot sideload file" import_log.txt  | sed -e "s/.*tiffs..//" | sed -e "s/\\\.*//" | sort
+ 1771  grep "Cannot sideload file" import_log.txt  | sed -e "s/.*tiffs..//" | sed -e "s/\\\.*//" | sort > missing.txt
+ 1772  less missing.txt 
+ 1773  scp slaveryimages@sidev:/home/slaveryimages/server_contents.txt .
+ 1774  scp slaveryimages@sidev:/home/slaveryimages/tiffs_on_server.txt .
+ 1775  grep "Cannot sideload file" retry_log.txt  | sed -e "s/.*tiffs..//" | sed -e "s/\\\.*//" | sort > retry_missing.txt
+ 1776  wc -l retry_missing.txt 
+ 1777  wc -l missing.txt 
+ 1778  head missing.txt 
+ 1779  rake spec SPEC=spec/features/field_based_spec.rb
+ 1780  cd
+ 1781  cd dev/products/fromthepage/fromthepage
+ 1782  rake spec SPEC=spec/features/field_based_spec.rb
+ 1783  history | grep rake
+ 1784  history
+ 1785  history | grep rake
+ 1786  RAILS_ENV=test rake db:drop db:create db:migrate; RAILS_ENV=test rake db:fixtures:load FIXTURES_PATH=spec/fixtures; rspec spec
+ 1787  git status
+ 1788  git checkout spec
+ 1789  git fetch --all
+ 1790  git pull
+ 1791  git checkout -b 1233-field-overwrite
+ 1792  rails s
+ 1793  cd
+ 1794  ls
+ 1795  cd cantaloupe
+ 1796  ls
+ 1797  more IIIF\ Tile\ Source\ \|\ OpenSeadragon
+ 1798  gedit IIIF\ Tile\ Source\ \|\ OpenSeadragon.html 
+ 1799  s
+ 1800  top
+ 1801  sudo service mongod stop
+ 1802  cd
+ 1803  cd dev/products/fromthepage/fromthepage
+ 1804  git status
+ 1805  git pull
+ 1806  cd
+ 1807  cd dev/products/fromthepage/fromthepage
+ 1808  rails s
+ 1809  history | grep mysql
+ 1810  rake db:drop; rake db:create;  mysql --user=rails --password=rails --database=diary_development < ../data/database/2018_10_23_03_00_01.dmp 
+ 1811  rails s
+ 1812  bundle install
+ 1813  gem install bundler
+ 1814  rails s
+ 1815  rails c
+ 1816  rails s | grep visit
+ 1817  rails s
+ 1818  git remote
+ 1819  git remote --all
+ 1820  git remote add AustinCarr https://github.com/AustinCarr/fromthepage.git
+ 1821  git fetch --all --prune
+ 1822  git checkout unique_exports 
+ 1823  git branch unique_exports_conditional_headers
+ 1824  git checkout unique_exports_conditional_headers 
+ 1825  git merge development 
+ 1826  rails s
+ 1827  git status
+ 1828  git add app
+ 1829  git commit -m "Conditionalize unique identifiers"
+ 1830  git push origin unique_exports_conditional_headers 
+ 1831  history | grep mysql
+ 1832  rake db:drop; rake db:create;  mysql --user=rails --password=rails --database=diary_development < ../data/database/2018_10_23_03_00_01.dmp 
+ 1833  mysql --user=rails --password=rails --database=diary_development
+ 1834  git checkout development
+ 1835  git pull
+ 1836  rake db:migrate
+ 1837  rails s
+ 1838  git status
+ 1839  mysqldump --user=rails --password=rails diary_development > ../data/database/2018_10_23_03_00_01_pruned.dmp
+ 1840  gzip ../data/database/2018_10_23_03_00_01_pruned.dmp 
+ 1841  rails s
+ 1842  git status
+ 1843  git diff app
+ 1844  git checkout app
+ 1845  rails s
+ 1846  git status
+ 1847  git diff app
+ 1848  git checkout app
+ 1849  git fetch --all --prune
+ 1850  git pull
+ 1851  git branch
+ 1852  git fetch --all --prune
+ 1853  git checkout 1232_hierarchical_project_list_for_org_homepage 
+ 1854  git pull
+ 1855  RAILS_ENV=test rake db:drop db:create db:migrate; RAILS_ENV=test rake db:fixtures:load FIXTURES_PATH=spec/fixtures; rake spec
+ 1856  git status
+ 1857  rails s
+ 1858  git checkout master
+ 1859  git pull
+ 1860  RAILS_ENV=test rake db:drop db:create db:migrate; RAILS_ENV=test rake db:fixtures:load FIXTURES_PATH=spec/fixtures; rake spec
+ 1861  history | grep tag
+ 1862  git tag
+ 1863  git tag -a v18.11 -m "November 2018 release"
+ 1864  git push origin v18.11
+ 1865  nano config/database.yml 
+ 1866  git checkout config/database.yml
+ 1867  git status
+ 1868  git checkout development
+ 1869  rails s
+ 1870  git pull
+ 1871  rails s
+ 1872  git checkout master
+ 1873  rails s
+ 1874  git checkout development 
+ 1875  git log
+ 1876  date
+ 1877  git log
+ 1878  date
+ 1879  irb
+ 1880  rails 
+ 1881  rails c
+ 1882  git log
+ 1883  git status
+ 1884  get reset --hard 1eb921b2c44e70a506c0c24a44396a78feb06a75
+ 1885  git reset --hard 1eb921b2c44e70a506c0c24a44396a78feb06a75
+ 1886  git push origin 
+ 1887  git push -f origin 
+ 1888  git branch
+ 1889  git merge 1232_hierarchical_project_list_for_org_homepage 
+ 1890  git reset --hard 1eb921b2c44e70a506c0c24a44396a78feb06a75
+ 1891  git status
+ 1892  git checkout 1232_hierarchical_project_list_for_org_homepage 
+ 1893  git log
+ 1894  git status
+ 1895  git checkout development
+ 1896  git log
+ 1897  git cherry-pick 9252b49cac55d89ac70f5fd7f411fe302e30ce8c
+ 1898  git log
+ 1899  git push origin development
+ 1900  git branch
+ 1901  git checkout 1231_better_usability_for_saving_pages 
+ 1902  git pull
+ 1903  rails s
+ 1904  git log
+ 1905  git checkout development 
+ 1906  git checkout -b 1231_better_usability_for_saving_pages_no_bad_merge
+ 1907  git cherry-pick 48921cffc9a0c33f5809b7a44cca6e4fba9dc03d
+ 1908  git cherry-pick 3b0dd75ddd3b6fbaaea2303b51badf3249e55f45
+ 1909  git cherry-pick 2dccbe8f65dee7537f33e4ec17033dd7fc5df11d
+ 1910  git cherry-pick b5c2dc9fe70e08090fe3cd6ebac6d0cb94dc03f8
+ 1911  git cherry-pick db34121f6e4b4deca407442f02c6a2a7639a5144
+ 1912  git log
+ 1913  git status
+ 1914  git push origin 1231_better_usability_for_saving_pages_no_bad_merge
+ 1915  git status
+ 1916  git checkout development
+ 1917  history
+ 1918  RAILS_ENV=test rake db:drop db:create db:migrate; RAILS_ENV=test rake db:fixtures:load FIXTURES_PATH=spec/fixtures; rake spec
+ 1919  RAILS_ENV=test rake db:drop db:create db:migrate; RAILS_ENV=test rake db:fixtures:load FIXTURES_PATH=spec/fixtures
+ 1920  ls spec
+ 1921  ls spec/features/
+ 1922  rake spec SPEC=spec/features/field_based_spec.rb
+ 1923  RAILS_ENV=test rake db:drop db:create db:migrate; RAILS_ENV=test rake db:fixtures:load FIXTURES_PATH=spec/fixtures; rspec
+ 1924  rails s
+ 1925  traceroute en.wikipedia.org
+ 1926  cd
+ 1927  cd dev/clients/
+ 1928  ls
+ 1929  mkdir clement
+ 1930  cd clement/
+ 1931  mkdir scratch
+ 1932  curl "https://library.harvard.edu/poetry/listeningbooth/poets/sexton.html" | grep .mp3
+ 1933  curl "https://library.harvard.edu/poetry/listeningbooth/poets/sexton.html" | grep '.mp3'
+ 1934  curl "https://library.harvard.edu/poetry/listeningbooth/poets/sexton.html" | grep '\.mp3'
+ 1935  curl "https://library.harvard.edu/poetry/listeningbooth/poets/sexton.html" | grep '\.mp3' | sed -e "s/.*listeningbooth/REPLACEME/"
+ 1936  curl "https://library.harvard.edu/poetry/listeningbooth/poets/sexton.html" | grep '\.mp3' | sed -e "s/.*listeningbooth/REPLACEME/" | sed -e 's/"//'
+ 1937  curl "https://library.harvard.edu/poetry/listeningbooth/poets/sexton.html" | grep '\.mp3' | sed -e "s/.*listeningbooth/https:\/\/library.harvard.edu\/poetry\/audio\/listeningbooth\//" | sed -e 's/"//'
+ 1938  curl "https://library.harvard.edu/poetry/listeningbooth/poets/sexton.html" | grep '\.mp3' | sed -e "s/.*listeningbooth/https:\/\/library.harvard.edu\/poetry\/audio\/listeningbooth\//" | sed -e 's/"//' > sexton_mp3.txt
+ 1939  cd ../..
+ 1940  cd products/fromthepage/fromthepage
+ 1941  rails s
+ 1942  fg
+ 1943  cd
+ 1944  top
+ 1945  gimp &
+ 1946  eog ~/Pictures/si_style*
+ 1947  totem ~/...
+ 1948  mv ~/Downloads/*.mp4 ~/.../dl/new/
+ 1949  nautilus ~/.../dl/new/
+ 1950  nautilus ~/...
+ 1951  totem ~/...
+ 1952  mv ~/Downloads/*.mp4 ~/.../dl/new/
+ 1953  killall ssh
+ 1954  nautilus ~/.../dl/new/
+ 1955  killall ssh
+ 1956  nautilus ~/.../dl/new/
+ 1957  totem ~/...
+ 1958  killall ssh
+ 1959  totem ~/...
+ 1960  ls -lrt Downloads/
+ 1961  rm /home/benwbrum/Downloads/*.part
+ 1962  ls -lrt Downloads/
+ 1963  gzip Documents/fromthepage_subjects_export_23_2018-11-03T23_41_24Z.csv 
+ 1964  ls -lrt Documents/
+ 1965  totem ~/...
+ 1966  ls -lrt Documents/
+ 1967  ps -ef | grep firefox
+ 1968  top
+ 1969  x
+ 1970  cd
+ 1971  cd firefox/
+ 1972  ls
+ 1973  cd firefox/
+ 1974  ls
+ 1975  cd ..
+ 1976  cd
+ 1977  firefox/firefox/firefox &
+ 1978  ls
+ 1979  locate firefox
+ 1980  locate firefox | grep gnome
+ 1981  ls
+ 1982  ls -a
+ 1983  cd .gnome2
+ 1984  ls
+ 1985  ls -a
+ 1986  cd ..
+ 1987  ls -a
+ 1988  cd .compiz-1/
+ 1989  ls
+ 1990  ls -a
+ 1991  cd ..
+ 1992  top
+ 1993  firefox/firefox/firefox &2> /dev/null &
+ 1994  firefox/firefox/firefox > /dev/null &
+ 1995  nautilus ~/.../dl/new/
+ 1996  cd
+ 1997  nautilus ~/.../dl/new/
+ 1998  totem ~/.../dl/new/
+ 1999  top
+ 2000  killall ssh
+ 2001  cd 
+ 2002  cd Downloads/
+ 2003  ls -lrt
+ 2004  ls
+ 2005  cd 
+ 2006  cd dev/clients/delrio/
+ 2007  ls
+ 2008  cd alcedo/
+ 2009  ls
+ 2010  ls -lrt
+ 2011  ls -lrt *
+ 2012  killall ssh
+ 2013  ls
+ 2014  cd
+ 2015  cd dev/clients/perdue/ndar
+ 2016  ls
+ 2017  cd bl/
+ 2018  ls
+ 2019  mkdir merge
+ 2020  cd merge/
+ 2021  cp -r ~/Downloads/*.xml .
+ 2022  cp -r ~/Downloads/*.xlsx .
+ 2023  ls
+ 2024  ls -lrt
+ 2025  rm *
+ 2026  ls
+ 2027  ls -lrt ~/Downloads/
+ 2028  cp ~/Downloads/NDARv1FINAL20181020.xml ~/Downloads/NDARv2FINAL20181101.xml ~/Downloads/NDAR\ Vol\ [12]\ Drupal.xlsx .
+ 2029  ls
+ 2030  more NDARv1FINAL20181020.xml 
+ 2031  man diff
+ 2032  diff -w NDARv1FINAL20181020.xml ../../INGEST/Erica\ and\ Jennifer/NDARv1FINAL20180915.xml 
+ 2033  diff -w NDARv1FINAL20181020.xml ../../INGEST/Erica\ and\ Jennifer/NDARv1FINAL20180915.xml  | wc -l
+ 2034  diff -b NDARv1FINAL20181020.xml ../../INGEST/Erica\ and\ Jennifer/NDARv1FINAL20180915.xml  | wc -l
+ 2035* diff -b NDARv1FINAL20181020.xml ../../INGEST/Erica\ and\ Jennifer/NDARv1FINAL20180915.xml | 
+ 2036  less ../../INGEST/Erica\ and\ Jennifer/NDARv1FINAL20180915.xml | less
+ 2037  diff NDARv1FINAL20181020.xml ../../INGEST/Erica\ and\ Jennifer/NDARv1FINAL20180915.xml  | wc -l
+ 2038  man diff
+ 2039  diff NDARv1FINAL20181020.xml ../../INGEST/Erica\ and\ Jennifer/NDARv1FINAL20180915.xml > NDARv1FINAL20181020.xml.diff
+ 2040  gedit NDARv1FINAL20181020.xml.diff 
+ 2041  bg
+ 2042  ls -lrt ../../INGEST/Erica\ and\ Jennifer/processed/
+ 2043  diff NDARv1FINAL20181020.xml ../../INGEST/Erica\ and\ Jennifer/processed/NDARv1FINAL20180915_processed.xml 
+ 2044  diff NDARv1FINAL20181020.xml ../../INGEST/Erica\ and\ Jennifer/processed/NDARv1FINAL20180915_processed.xml  | wc -l
+ 2045  diff -b -w NDARv1FINAL20181020.xml ../../INGEST/Erica\ and\ Jennifer/processed/NDARv1FINAL20180915_processed.xml  | wc -l
+ 2046  diff -b -w NDARv1FINAL20181020.xml ../../INGEST/Erica\ and\ Jennifer/processed/NDARv1FINAL20180915_processed.xml  | less
+ 2047  gedit NDARv1FINAL20181020.xml &
+ 2048  ls ..
+ 2049  cd ..
+ 2050  ls -l
+ 2051  ls -lrt
+ 2052  cd format/
+ 2053  ls
+ 2054  ls -lrt
+ 2055  more NDARv1FINAL20181016.xml 
+ 2056  ls
+ 2057  more NDARv1FINAL20181016.xml 
+ 2058  ls
+ 2059  ls ../../INGEST/Ben\ and\ Sara/
+ 2060  ls ../../INGEST/Ben\ and\ Sara/Oct\ 1\ Deliverable/
+ 2061  ssh fromthepage@newerserver
+ 2062  cat > /dev/null
+ 2063  cd ...
+ 2064  cd ..
+ 2065  ls
+ 2066  cd merge/
+ 2067  ls
+ 2068  gedit NDARv2FINAL20181101.xml 
+ 2069  cd ..
+ 2070  ls
+ 2071  ls -l
+ 2072  ls ner
+ 2073  cd ner/
+ 2074  ls
+ 2075  more ner.rb 
+ 2076  ls -lrt ~/Downloads/
+ 2077  cp  ~/Downloads/NDARv2Final20181209.tsv .
+ 2078  cp  ~/Downloads/NDARv2FINAL20181101.xml .
+ 2079  ls -l
+ 2080  loffice NDARv2Final20181209.tsv
+ 2081  mv NDARv2Final20181209.tsv NDARv2Final20181209.csv
+ 2082  loffice NDARv2Final20181209.csv
+ 2083  gedit NDARv2Final20181209.tsv
+ 2084  gedit NDARv2Final20181209.csv 
+ 2085  history | grep PERSON
+ 2086  history | less
+ 2087  history > notes.txt

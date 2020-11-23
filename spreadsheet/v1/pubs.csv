@@ -1,0 +1,388 @@
+DOC_ID,CANONICAL,CONTEXT,FORMATTED,VERBATIM,CONTAINING_ELEMENT,PATH_TO_ELEMENT
+NDAR_V01_0005,Boston Gazette,"BOSTON GAZETTE , MONDAY, DECEMBER 5, 1774 Bost",Boston Gazette,BOSTON GAZETTE,title,/TaggedPDF-doc/div/doc[5]/title/pub
+NDAR_V01_0012,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, DECEMBER 10, 1774 P",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[12]/title/pub
+NDAR_V01_0018,Boston Evening Post,"BOSTON EVENING POST , MONDAY, DECEMBER 12, 1774 Bos",Boston Evening Post,BOSTON EVENING POST,title,/TaggedPDF-doc/div/doc[18]/title/pub
+NDAR_V01_0020,Newport Mercury,"NEWPORT MERCURY , MONDAY, DECEMBER 12, 1774 New",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[20]/title/pub
+NDAR_V01_0022,New York Gazette,"NEW YORK GAZETTE , MONDAY, DECEMBER 12, 1774 New",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[22]/title/pub
+NDAR_V01_0024,Essex Gazette,"ESSEX GAZETTE , TUESDAY, DECEMBER 13, 1774 Sa",Essex Gazette,ESSEX GAZETTE,title,/TaggedPDF-doc/div/doc[24]/title/pub
+NDAR_V01_0025,Maryland Gazette,"Duckett, clerk of committee 1. MARYLAND GAZETTE , Annapolis, December 15, 1774.",Maryland Gazette,Maryland Gazette,src,/TaggedPDF-doc/div/doc[25]/src/pub
+NDAR_V01_0027,Providence Gazette,"apropos to the affair. 4. See PROVIDENCE GAZETTE , December 10, 1775, which is the public",Providence Gazette,Providence Gazette,note,/TaggedPDF-doc/div/doc[27]/note[3]/pub
+NDAR_V01_0028,New York Gazetteer,"1. James Rivington's NEW YORK GAZETTEER , December 29, 1774. 2. In its",New York Gazetteer,New York Gazetteer,src,/TaggedPDF-doc/div/doc[28]/src/pub
+NDAR_V01_0028,Pennsylvania Journal,"2. In its issue of January 11, 1775, PENNSYLVANIA JOURNAL pronounced this letter ""a lying Extract",Pennsylvania Journal,Pennsylvania Journal,note,/TaggedPDF-doc/div/doc[28]/note/pub
+NDAR_V01_0029,Providence Gazette,"ies were also sent to the editor of the PROVIDENCE GAZETTE . See December 10, 1774.",Providence Gazette,Providence Gazette,note,/TaggedPDF-doc/div/doc[29]/note/pub
+NDAR_V01_0041,New York Journal,"in the Province. 1. NEW YORK JOURNAL , December 29, 1774.",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[41]/src/pub
+NDAR_V01_0042,Newport Mercury,"ral Assembly mentioned therein with the NEWPORT MERCURY , I transmit for your",Newport Mercury,Newport Mercury,p,/TaggedPDF-doc/div/doc[42]/docBody/p[1]/pub
+NDAR_V01_0044,Massachusetts Spy,"MASSACHUSETTS SPY , FRIDAY, DECEMBER 16, 1774",Massachusetts Spy,MASSACHUSETTS SPY,title,/TaggedPDF-doc/div/doc[44]/title/pub
+NDAR_V01_0045,Connecticut Gazette,"CONNECTICUT GAZETTE , FRIDAY, DECEMBER 16, 1774 New",Connecticut Gazette,CONNECTICUT GAZETTE,title,/TaggedPDF-doc/div/doc[45]/title/pub
+NDAR_V01_0054,Connecticut Courant,"wn, now preparing for their reception,"" CONNECTICUT COURANT , Hartford, December 19, 1774.",Connecticut Courant,Connecticut Courant,note,/TaggedPDF-doc/div/doc[54]/note/pub
+NDAR_V01_0057,New York Gazette,"NEW YORK GAZETTE , MONDAY, DECEMBER 19, 1774 New",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[57]/title/pub
+NDAR_V01_0062,Essex Gazette,"ESSEX GAZETTE , TUESDAY, DECEMBER 20, 1774 Sa",Essex Gazette,ESSEX GAZETTE,title,/TaggedPDF-doc/div/doc[62]/title/pub
+NDAR_V01_0065,Massachusetts Spy,"MASSACHUSETTS SPY , THURSDAY, DECEMBER 22, 1774 B",Massachusetts Spy,MASSACHUSETTS SPY,title,/TaggedPDF-doc/div/doc[65]/title/pub
+NDAR_V01_0067,New Hampshire Gazette,"A LOVER OF ORDER"" TO THE PRINTER OF THE NEW HAMPSHIRE GAZETTE 1 Mr. Printer, Portsmo",New Hampshire Gazette,NEW HAMPSHIRE GAZETTE,rec,/TaggedPDF-doc/div/doc[67]/title/rec/pub
+NDAR_V01_0067,New Hampshire Gazette,"A LOVER OF ORDER 1. NEW HAMPSHIRE GAZETTE , December 23, 1774.",New Hampshire Gazette,New Hampshire Gazette,src,/TaggedPDF-doc/div/doc[67]/src/pub
+NDAR_V01_0068,Connecticut Gazette,"CONNECTICUT GAZETTE , FRIDAY, DECEMBER 23, 1774",Connecticut Gazette,CONNECTICUT GAZETTE,title,/TaggedPDF-doc/div/doc[68]/title/pub
+NDAR_V01_0069,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, DECEMBER 24, 1774 P",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[69]/title/pub
+NDAR_V01_0070,Maryland Gazette,"s Williams, clerk committee 1. MARYLAND GAZETTE , Annapolis, January 5, 1775.",Maryland Gazette,Maryland Gazette,src,/TaggedPDF-doc/div/doc[70]/src/pub
+NDAR_V01_0073,Newport Mercury,"NEWPORT MERCURY , MONDAY, DECEMBER 26, 1774 New",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[73]/title/pub
+NDAR_V01_0085,Boston Evening Post,"BOSTON EVENING POST , MONDAY, JANUARY 2, 1775 Bosto",Boston Evening Post,BOSTON EVENING POST,title,/TaggedPDF-doc/div/doc[85]/title/pub
+NDAR_V01_0087,New York Gazette,"NEW-YORK GAZETTE , MONDAY, JANUARY 2, 1775 New-Y",New York Gazette,NEW-YORK GAZETTE,title,/TaggedPDF-doc/div/doc[87]/title/pub
+NDAR_V01_0087,New York Gazetteer,"1. See James Rivington's NEW-YORK GAZETTEER , January 5, 1775.",New York Gazetteer,New-York Gazetteer,note,/TaggedPDF-doc/div/doc[87]/note/pub
+NDAR_V01_0094,New York Journal,"NEW YORK JOURNAL , THURSDAY, JANUARY 5, 1775 New",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[94]/title/pub
+NDAR_V01_0095,Rivington's New York Gazetteer,"RIVINGTON'S NEW YORK GAZETTEER , THURSDAY, JANUARY 5, 1775 New",Rivington's New York Gazetteer,RIVINGTON'S NEW YORK GAZETTEER,title,/TaggedPDF-doc/div/doc[95]/title/pub
+NDAR_V01_0095,New York Gazetteer,"RIVINGTON'S NEW YORK GAZETTEER , THURSDAY, JANUARY 5, 1775 New",New York Gazetteer,NEW YORK GAZETTEER,pub,/TaggedPDF-doc/div/doc[95]/title/pub/pub
+NDAR_V01_0098,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, JANUARY 7, 1775 Pro",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[98]/title/pub
+NDAR_V01_0100,Newport Mercury,"NEWPORT MERCURY , MONDAY, JANUARY 9, 1775 Newpo",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[100]/title/pub
+NDAR_V01_0101,New York Gazette,"NEW YORK GAZETTE , MONDAY, JANUARY 9, 1775 New Y",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[101]/title/pub
+NDAR_V01_0101,Providence Gazette,"1. H.M.S. Hind. See PROVIDENCE GAZETTE , January 7, 1775. 2. Captain N",Providence Gazette,Providence Gazette,note,/TaggedPDF-doc/div/doc[101]/note[1]/pub
+NDAR_V01_0104,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, JANUARY 14, 1775 Pr",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[104]/title/pub
+NDAR_V01_0108,New York Gazette,"NEW YORK GAZETTE MONDAY, JANUARY 16, 1775 New Y",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[108]/title/pub
+NDAR_V01_0110,Maryland Gazette,"MARYLAND GAZETTE , THURSDAY, JANUARY 19, 1775 An",Maryland Gazette,MARYLAND GAZETTE,title,/TaggedPDF-doc/div/doc[110]/title/pub
+NDAR_V01_0128,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, JANUARY 28, 1775 Pr",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[128]/title/pub
+NDAR_V01_0133,New York Gazette,"NEW YORK GAZETTE , MONDAY, JANUARY 30, 1775 New-",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[133]/title/pub
+NDAR_V01_0144,Newport Mercury,"NEWPORT MERCURY , MONDAY, FEBRUARY 6, 1775 Newp",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[144]/title/pub
+NDAR_V01_0153,New York Journal,"NEW YORK JOURNAL , THURSDAY, FEBRUARY 9, 1775 Ne",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[153]/title/pub
+NDAR_V01_0158,Virginia Gazette,"cargo.2 1. Purdie's VIRGINIA GAZETTE , March 3, 1775. 2. See Patters",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[158]/src/pub
+NDAR_V01_0162,Newport Mercury,"NEWPORT MERCURY , MONDAY, FEBRUARY 13, 1775 New",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[162]/title/pub
+NDAR_V01_0163,New York Gazette,"NEW YORK GAZETTE , MONDAY, FEBRUARY 13, 1775 New",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[163]/title/pub
+NDAR_V01_0165,New York Journal,"NEW YORK JOURNAL , THURSDAY, FEBRUARY 14, 1775 N",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[165]/title/pub
+NDAR_V01_0167,Massachusetts Spy,"MASSACHUSETTS SPY , THURSDAY, FEBRUARY 16, 1775 B",Massachusetts Spy,MASSACHUSETTS SPY,title,/TaggedPDF-doc/div/doc[167]/title/pub
+NDAR_V01_0174,Boston Evening Post,"late Parliament. 1. BOSTON EVENING-POST , March 6, 1775.",Boston Evening Post,Boston Evening-Post,src,/TaggedPDF-doc/div/doc[174]/src/pub
+NDAR_V01_0176,Boston Evening Post,"government. 1. BOSTON EVENING POST , March 13, 1775.",Boston Evening Post,Boston Evening Post,src,/TaggedPDF-doc/div/doc[176]/src/pub
+NDAR_V01_0178,Newport Mercury,"NEWPORT MERCURY , MONDAY, FEBRUARY 20, 1775 New",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[178]/title/pub
+NDAR_V01_0181,Essex Gazette,"e abortive expedition to Salem. See the ESSEX GAZETTE , February 28, 1775. 3. John an",Essex Gazette,Essex Gazette,note,/TaggedPDF-doc/div/doc[181]/note[1]/pub
+NDAR_V01_0186,Pennsylvania Packet,"il in a few days. 1. PENNSYLVANIA PACKET , Monday, February 27, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[186]/src/pub
+NDAR_V01_0187,New York Journal,"NEW YORK JOURNAL , THURSDAY, FEBRUARY 23, 1775 N",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[187]/title/pub
+NDAR_V01_0190,North Carolina Gazette,"NORTH CAROLINA GAZETTE , FRIDAY, FEBRUARY 24, 1775 New",North Carolina Gazette,NORTH CAROLINA GAZETTE,title,/TaggedPDF-doc/div/doc[190]/title/pub
+NDAR_V01_0192,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, FEBRUARY 25, 1775 P",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[192]/title/pub
+NDAR_V01_0193,Essex Gazette,"PRO, Admiralty 51/546. 2. See ESSEX GAZETTE , February 28, 1775.",Essex Gazette,Essex Gazette,note,/TaggedPDF-doc/div/doc[193]/note/pub
+NDAR_V01_0198,Boston Evening Post,"S. Graves 1. BOSTON EVENING POST , February 27, 1775.",Boston Evening Post,Boston Evening Post,src,/TaggedPDF-doc/div/doc[198]/src/pub
+NDAR_V01_0199,Essex Gazette,"ESSEX GAZETTE , TUESDAY, FEBRUARY 21 TO 28, 1775",Essex Gazette,ESSEX GAZETTE,title,/TaggedPDF-doc/div/doc[199]/title/pub
+NDAR_V01_0208,Boston Evening Post,"BOSTON EVENING POST , THURSDAY, MARCH 6, 1775 Bosto",Boston Evening Post,BOSTON EVENING POST,title,/TaggedPDF-doc/div/doc[208]/title/pub
+NDAR_V01_0210,Salem Gazette,"SALEM GAZETTE , FRIDAY, MARCH 3, 1775 Salem,",Salem Gazette,SALEM GAZETTE,title,/TaggedPDF-doc/div/doc[210]/title/pub
+NDAR_V01_0211,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, MARCH 3, 1775 William",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[211]/title/pub
+NDAR_V01_0219,Maryland Journal,"landed. 1. MARYLAND JOURNAL , March 29, 1775.",Maryland Journal,Maryland Journal,src,/TaggedPDF-doc/div/doc[219]/src/pub
+NDAR_V01_0220,Essex Gazette,"ESSEX GAZETTE , SALEM, TUESDAY, FEBRUARY 28 TO MARCH 7",Essex Gazette,ESSEX GAZETTE,title,/TaggedPDF-doc/div/doc[220]/title/pub
+NDAR_V01_0224,New York Journal,"ore me D MATTHEWS 1. NEW YORK JOURNAL , March 9, 1775.",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[224]/src/pub
+NDAR_V01_0228,New York Journal,"Jonathan Hampton, Chairman 1. NEW YORK JOURNAL , March 23, 1775.",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[228]/src/pub
+NDAR_V01_0232,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, MARCH 10, 1775 Willia",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[232]/title/pub
+NDAR_V01_0233,New York Journal,"Jonathan Hampton, Chairman 1. NEW YORK JOURNAL , March 23, 1775.",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[233]/src/pub
+NDAR_V01_0235,Boston Gazette,"BOSTON GAZETTE , MONDAY, MARCH 13, 1775 Boston",Boston Gazette,BOSTON GAZETTE,title,/TaggedPDF-doc/div/doc[235]/title/pub
+NDAR_V01_0237,New York Gazette,"NEW YORK GAZETTE , MONDAY, MARCH 13, 1775 New Yo",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[237]/title/pub
+NDAR_V01_0238,New York Journal,"John Murray 1. NEW YORK JOURNAL , March 23, 1775.",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[238]/src/pub
+NDAR_V01_0239,New York Journal,"John Blanchard, Alderman. 1. NEW YORK JOURNAL , March 23, 1775.",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[239]/src/pub
+NDAR_V01_0240,Pennsylvania Packet,"PENNSYLVANIA PACKET , MONDAY, MARCH 13, 1775 Philad",Pennsylvania Packet,PENNSYLVANIA PACKET,title,/TaggedPDF-doc/div/doc[240]/title/pub
+NDAR_V01_0242,South Carolina Gazette,"SOUTH CAROLINA GAZETTE , MONDAY, MARCH 13, 1775",South Carolina Gazette,SOUTH CAROLINA GAZETTE,title,/TaggedPDF-doc/div/doc[242]/title/pub
+NDAR_V01_0244,New York Journal,"Jonathan Hampton, Chairman 1. NEW YORK JOURNAL , March 23, 1775.",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[244]/src/pub
+NDAR_V01_0246,New York Journal,"John Murray 1. NEW YORK JOURNAL , March 23, 1775. 2. The hospit",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[246]/src/pub
+NDAR_V01_0247,New York Journal,"Andrew Gautier 1. NEW YORK JOURNAL , March 23, 1775. 2. For the in",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[247]/src/pub
+NDAR_V01_0248,New York Journal,"before me, Andrew Gautier 1. NEW YORK JOURNAL , March 23, 1775.",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[248]/src/pub
+NDAR_V01_0250,New York Journal,"Isaac Low, Chairman. 1. NEW YORK JOURNAL , March 23, 177 5. 2. Osnaburg,",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[250]/src/pub
+NDAR_V01_0258,South Carolina Gazette,"SOUTH CAROLINA GAZETTE , MONDAY, MARCH 27, 1775 Charle",South Carolina Gazette,SOUTH CAROLINA GAZETTE,title,/TaggedPDF-doc/div/doc[258]/title/pub
+NDAR_V01_0260,Virginia Gazette,"II, 174, 175. 2. See Purdie's VIRGINIA GAZETTE , April 7, 1775, for the conclusion of t",Virginia Gazette,Virginia Gazette,note,/TaggedPDF-doc/div/doc[260]/note/pub
+NDAR_V01_0265,Newport Mercury,"Sign'd Thos Gilbert 1. NEWPORT MERCURY , April 24, 1775; ""The following we have",Newport Mercury,Newport Mercury,src,/TaggedPDF-doc/div/doc[265]/src/pub
+NDAR_V01_0266,Salem Gazette,"SALEM GAZETTE , FRIDAY, MARCH 24, 1775 Salem,",Salem Gazette,SALEM GAZETTE,title,/TaggedPDF-doc/div/doc[266]/title/pub
+NDAR_V01_0269,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, MARCH 25, 1775 Prov",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[269]/title/pub
+NDAR_V01_0271,Newport Mercury,"NEWPORT MERCURY , MONDAY, MARCH 27, 1775 Newpor",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[271]/title/pub
+NDAR_V01_0272,Pennsylvania Packet,"DASHWOOD BACON TO THE PRINTER OF PENNSYLVANIA PACKET 1 Sir, Seeing in",Pennsylvania Packet,PENNSYLVANIA PACKET,rec,/TaggedPDF-doc/div/doc[272]/title/rec/pub
+NDAR_V01_0272,Pennsylvania Packet,"John Birthwhistle, Surgeon. 1. PENNSYLVANIA PACKET , March 27, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[272]/src/pub
+NDAR_V01_0275,Maryland Journal,"MARYLAND JOURNAL , WEDNESDAY, MARCH 29, 1775 Bal",Maryland Journal,MARYLAND JOURNAL,title,/TaggedPDF-doc/div/doc[275]/title/pub
+NDAR_V01_0281,New York Journal,"NEW YORK JOURNAL , THURSDAY, MARCH 30, 1775 Phil",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[281]/title/pub
+NDAR_V01_0286,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, APRIL 1, 1775 Provi",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[286]/title/pub
+NDAR_V01_0289,Newport Mercury,"NEWPORT MERCURY , MONDAY, APRIL 3, 1775 Newport",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[289]/title/pub
+NDAR_V01_0300,Pennsylvania Packet,"nd cleared just prior to April 3, 1775. PENNSYLVANIA PACKET , April 3, 1775.",Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[300]/note/pub
+NDAR_V01_0301,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, APRIL 7, 1775 William",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[301]/title/pub
+NDAR_V01_0316,London Chronicle,"me must discover. 1. LONDON CHRONICLE , from June 15, to Saturday, June 17, 17",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[316]/src/pub
+NDAR_V01_0321,New York Journal,"NEW YORK JOURNAL , THURSDAY, APRIL 13, 177 5 New",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[321]/title/pub
+NDAR_V01_0325,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, APRIL 14, 1775 Willia",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[325]/title/pub
+NDAR_V01_0331,Boston Gazette,"BOSTON GAZETTE , MONDAY, APRIL 17, 1775 Boston",Boston Gazette,BOSTON GAZETTE,title,/TaggedPDF-doc/div/doc[331]/title/pub
+NDAR_V01_0334,Pennsylvania Packet,"AMICUS JUSTICIAE"" TO THE PRINTER OF THE PENNSYLVANIA PACKET 1 [Philadelphia, April 17, 1775",Pennsylvania Packet,Pennsylvania Packet,rec,/TaggedPDF-doc/div/doc[334]/title/rec/pub
+NDAR_V01_0334,Pennsylvania Packet,"AMICUS JUSTICIAE"" TO THE PRINTER OF THE PENNSYLVANIA PACKET 1 [Philadelphia, April 17, 1775",Pennsylvania Packet,Pennsylvania Packet,p,/TaggedPDF-doc/div/doc[334]/docBody[2]/p[1]/pub
+NDAR_V01_0334,Pennsylvania Packet,"AMICUS JUSTICIAE"" TO THE PRINTER OF THE PENNSYLVANIA PACKET 1 [Philadelphia, April 17, 1775",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[334]/src/pub
+NDAR_V01_0334,Pennsylvania Packet,"AMICUS JUSTICIAE"" TO THE PRINTER OF THE PENNSYLVANIA PACKET 1 [Philadelphia, April 17, 1775",Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[334]/note/pub
+NDAR_V01_0346,New York Gazetteer,"RIVINGTON'S NEW YORK GAZETTEER , THURSDAY, APRIL 27, 1775 Bost",New York Gazetteer,NEW YORK GAZETTEER,title,/TaggedPDF-doc/div/doc[346]/title/pub
+NDAR_V01_0353,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, APRIL 21, 1775 Willia",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[353]/title/pub
+NDAR_V01_0354,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, APRIL 21, 1775, SUPPLEMENT",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[354]/title/pub
+NDAR_V01_0358,Virginia Gazette,"DIXON AND HUNTER'S VIRGINIA GAZETTE , SATURDAY, APRIL 22, 1775 Will",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[358]/title/pub
+NDAR_V01_0360,Pennsylvania Packet,"to St. Eustatius. 1. PENNSYLVANIA PACKET , June 19, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[360]/src/pub
+NDAR_V01_0371,Newport Mercury,"NEWPORT MERCURY , MONDAY, APRIL 24, 1775 Newpor",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[371]/title/pub
+NDAR_V01_0376,Pennyslvania Packet,"nd cleared for Portsmouth a week later. PENNYSLVANIA PACKET , April 17 and 24, 1775. 4. Ibi",Pennyslvania Packet,Pennyslvania Packet,note,/TaggedPDF-doc/div/doc[376]/note[2]/pub
+NDAR_V01_0377,Essex Gazette,"ESSEX GAZETTE , TUESDAY, APRIL 18 TO 25, 1775",Essex Gazette,ESSEX GAZETTE,title,/TaggedPDF-doc/div/doc[377]/title/pub
+NDAR_V01_0392,Pennsylvania Packet,"ouse from Rhode Island on May 15, 1775, PENNSYLVANIA PACKET , May 15, 1775. 3. Burned by a",Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[392]/note[1]/pub
+NDAR_V01_0419,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, APRIL 28, 1775 Willia",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[419]/title/pub
+NDAR_V01_0426,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, APRIL 29, 1775 Prov",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[426]/title/pub
+NDAR_V01_0444,Newport Mercury,"NEWPORT MERCURY , MONDAY, MAY 1, 1775 Newport,",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[444]/title/pub
+NDAR_V01_0446,Connecticut Courant,"CONNECTICUT COURANT , MONDAY, MAY 1, 1775 Hartford,",Connecticut Courant,CONNECTICUT COURANT,title,/TaggedPDF-doc/div/doc[446]/title/pub
+NDAR_V01_0458,Virginia Gazette,"1. Dixon and Hunter's VIRGINIA GAZETTE , May 6, 1775.",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[458]/src/pub
+NDAR_V01_0459,Virginia Gazette,"n, Clerk 1. Dixon and Hunter's VIRGINIA GAZETTE , May 6, 1775. 2. ""Williamsburg",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[459]/src/pub
+NDAR_V01_0459,Virginia Gazette,"n, Clerk 1. Dixon and Hunter's VIRGINIA GAZETTE , May 6, 1775. 2. ""Williamsburg",Virginia Gazette,Virginia Gazette,note,/TaggedPDF-doc/div/doc[459]/note/pub
+NDAR_V01_0467,Virginia Gazette,"THE KING 1. Dixon and Hunter's VIRGINIA GAZETTE , May 6, 1775.",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[467]/src/pub
+NDAR_V01_0473,Massachusetts Spy,"Burkley3 1. MASSACHUSETTS SPY , Worcester, May 17, 1775. The senior Gi",Massachusetts Spy,Massachusetts Spy,src,/TaggedPDF-doc/div/doc[473]/src/pub
+NDAR_V01_0476,Virginia Gazette,"1. Dixon and Hunter's VIRGINIA GAZETTE , May 6, 1775. Nelson's place of residen",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[476]/src/pub
+NDAR_V01_0490,Virginia Gazette,"guilt. 1. Purdie's VIRGINIA GAZETTE , May 5, 1775.",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[490]/src/pub
+NDAR_V01_0491,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, MAY 5, 1775 Williamsb",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[491]/title/pub
+NDAR_V01_0492,Virginia Gazette,"THE KING 1. Dixon and Hunter's VIRGINIA GAZETTE , May 13, 1775.",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[492]/src/pub
+NDAR_V01_0495,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, MAY 6, 1775 Provide",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[495]/title/pub
+NDAR_V01_0498,Pennsylvania Evening Post,"PENNSYLVANIA EVENING POST , MAY 6, 1775 Philadelphia, May",Pennsylvania Evening Post,PENNSYLVANIA EVENING POST,title,/TaggedPDF-doc/div/doc[498]/title/pub
+NDAR_V01_0500,Dixon and Hunter's Virginia Gazette,"DIXON AND HUNTER'S VIRGINIA GAZETTE , SATURDAY, MAY 6, 1775 William",Dixon and Hunter's Virginia Gazette,DIXON AND HUNTER'S VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[500]/title/pub
+NDAR_V01_0500,Virginia Gazette,"DIXON AND HUNTER'S VIRGINIA GAZETTE , SATURDAY, MAY 6, 1775 William",Virginia Gazette,VIRGINIA GAZETTE,pub,/TaggedPDF-doc/div/doc[500]/title/pub/pub
+NDAR_V01_0506,Pennsylvania Packet,"PENNSYLVANIA PACKET , MONDAY, MAY 8, 1775 Philadelp",Pennsylvania Packet,PENNSYLVANIA PACKET,title,/TaggedPDF-doc/div/doc[506]/title/pub
+NDAR_V01_0528,Pennsylvania Gazette,"PENNSYLVANIA GAZETTE , WEDNESDAY, MAY 10, 1775 Phila",Pennsylvania Gazette,PENNSYLVANIA GAZETTE,title,/TaggedPDF-doc/div/doc[528]/title/pub
+NDAR_V01_0529,Pennsylvania Journal,"PENNSYLVANIA JOURNAL , WEDNESDAY, MAY 10, 1775 Phila",Pennsylvania Journal,PENNSYLVANIA JOURNAL,title,/TaggedPDF-doc/div/doc[529]/title/pub
+NDAR_V01_0541,New England Chronicle,"ted May 23, I 775, was published in the NEW ENGLAND CHRONICLE , Cambridge, June 1, 1775. While the nam",New England Chronicle,New England Chronicle,src,/TaggedPDF-doc/div/doc[541]/src/pub
+NDAR_V01_0550,New England Chronicle,"NEW ENGLAND CHRONICLE , FRIDAY, MAY 12, 1775 Cambridg",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[550]/title/pub
+NDAR_V01_0556,Massachusetts Spy,"loop; see New York Gazette, May 22, and MASSACHUSETTS SPY , Worcester, May 24, 1775. 3. T",Massachusetts Spy,Massachusetts Spy,note,/TaggedPDF-doc/div/doc[556]/note[2]/pub
+NDAR_V01_0559,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, MAY 12, 1775 Williams",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[559]/title/pub
+NDAR_V01_0560,Virginia Gazette,"3 1. Purdie's VIRGINIA GAZETTE , May 12, 1775. 2. See ""An Anon",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[560]/src/pub
+NDAR_V01_0603,"Virginia Gazette, Supplement","5. 3. The Query is in Purdie's VIRGINIA GAZETTE, SUPPLEMENT , May 5, 1775. 4. Yorktown.","Virginia Gazette, Supplement","Virginia Gazette, Supplement",note,/TaggedPDF-doc/div/doc[603]/note[2]/pub
+NDAR_V01_0604,South Carolina Historical Magazine,"1. Dartmouth Mss., 1270. Printed SOUTH CAROLINA HISTORICAL MAGAZINE , July, 1962, pp. 127-130. 2. L",South Carolina Historical Magazine,South Carolina Historical Magazine,src,/TaggedPDF-doc/div/doc[604]/src/pub
+NDAR_V01_0611,Pennsylvania Packet,", 54. The resolution was printed in the PENNSYLVANIA PACKET , 29 May 1775. 2. Ibid., 192, 1",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[611]/src/pub
+NDAR_V01_0612,Pennsylvania Journal,"PENNSYLVANIA JOURNAL , WEDNESDAY, MAY 17, 1775 Phila",Pennsylvania Journal,PENNSYLVANIA JOURNAL,title,/TaggedPDF-doc/div/doc[612]/title/pub
+NDAR_V01_0618,New England Chronicle,"NEW ENGLAND CHRONICLE , THURSDAY, MAY 18, 1775 Cambri",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[618]/title/pub
+NDAR_V01_0630,New York Gazetteer,"RIVINGTON'S NEW YORK GAZETTEER , THURSDAY, MAY 18, 1775 New Yo",New York Gazetteer,NEW YORK GAZETTEER,title,/TaggedPDF-doc/div/doc[630]/title/pub
+NDAR_V01_0631,New York Journal,"NEW YORK JOURNAL , THURSDAY, MAY 18, 1775 New Yo",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[631]/title/pub
+NDAR_V01_0631,Virginia Gazette,"Lord Dunmore, their Governor, that the VIRGINIA GAZETTE , or Norfolk Intellige",Virginia Gazette,Virginia Gazette,p,/TaggedPDF-doc/div/doc[631]/docBody/p[1]/pub
+NDAR_V01_0638,New Hampshire Gazette,"NEW HAMPSHIRE GAZETTE , FRIDAY, MAY 19, 1775 Portsmou",New Hampshire Gazette,NEW HAMPSHIRE GAZETTE,title,/TaggedPDF-doc/div/doc[638]/title/pub
+NDAR_V01_0647,Pennsylvania Packet,"y such intention. 1. PENNSYLVANIA PACKET , June 5, 1775. 2. Named the Li",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[647]/src/pub
+NDAR_V01_0652,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, MAY 19, 1775 Williams",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[652]/title/pub
+NDAR_V01_0657,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, MAY 20, 1775 Provid",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[657]/title/pub
+NDAR_V01_0698,London Post,"eeable news. We hourly look out for the LONDON POST , should it bring any thing Worth yr",London Post,London Post,p,/TaggedPDF-doc/div/doc[698]/docBody[1]/p/pub
+NDAR_V01_0727,Virginia Gazette,"rom the following extract from Purdie's VIRGINIA GAZETTE , dated May 26, 1775: ""Williamsburg, May",Virginia Gazette,Virginia Gazette,note,/TaggedPDF-doc/div/doc[727]/note/pub
+NDAR_V01_0729,London Chronicle,"f the Government. 1. LONDON CHRONICLE , from Thursday, April 6, to Saturday, A",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[729]/src/pub
+NDAR_V01_0736,London Gazette,"LONDON GAZETTE , TUESDAY, MARCH 28, TO SATURDAY, APRIL",London Gazette,LONDON GAZETTE,title,/TaggedPDF-doc/div/doc[736]/title/pub
+NDAR_V01_0741,London Gazette,er 20 March. Translation was printed in LONDON GAZETTE .,London Gazette,London Gazette,note,/TaggedPDF-doc/div/doc[741]/note/pub
+NDAR_V01_0747,London Gazette,"LONDON GAZETTE , TUESDAY, MARCH 28, TO SATURDAY, APRIL",London Gazette,LONDON GAZETTE,title,/TaggedPDF-doc/div/doc[747]/title/pub
+NDAR_V01_0752,London Gazette,"es, First Series, IV, 617. 2. LONDON GAZETTE , March 28-April 1, 1775.",London Gazette,London Gazette,src,/TaggedPDF-doc/div/doc[752]/src[2]/pub
+NDAR_V01_0758,London Gazette,"LONDON GAZETTE , TUESDAY, APRIL 4 TO SATURDAY, APRIL 8,",London Gazette,LONDON GAZETTE,title,/TaggedPDF-doc/div/doc[758]/title/pub
+NDAR_V01_0761,London Chronicle,"their own risk. 1. LONDON CHRONICLE , from Thursday, April 20, to Saturday,",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[761]/src/pub
+NDAR_V01_0762,London Gazette,"LONDON GAZETTE , TUESDAY, APRIL 11, TO SATURDAY, APRIL",London Gazette,LONDON GAZETTE,title,/TaggedPDF-doc/div/doc[762]/title/pub
+NDAR_V01_0771,London Chronicle,"for America. 1. LONDON CHRONICLE , from Tuesday, April 18 to Thursday, Ap",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[771]/src/pub
+NDAR_V01_0774,London Chronicle,"Spithead. 1. LONDON CHRONICLE , April 18 to April 20, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[774]/src/pub
+NDAR_V01_0778,London Chronicle,"LONDON CHRONICLE , TUESDAY, APRIL 18, TO THURSDAY, APRIL",London Chronicle,LONDON CHRONICLE,title,/TaggedPDF-doc/div/doc[778]/title/pub
+NDAR_V01_0780,London Chronicle,"f war from ditto. 1. LONDON CHRONICLE , April 29 to May 2, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[780]/src/pub
+NDAR_V01_0781,London Chronicle,"omona men of war. 1. LONDON CHRONICLE , April 29 to May 2, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[781]/src/pub
+NDAR_V01_0815,London Chronicle,"LONDON CHRONICLE , SATURDAY, MAY 27, TO TUESDAY, MAY 30,",London Chronicle,LONDON CHRONICLE,title,/TaggedPDF-doc/div/doc[815]/title/pub
+NDAR_V01_0815,Essex Gazette,"From the ESSEX GAZETTE , printed at Salem, in Ne",Essex Gazette,Essex Gazette,ctr,/TaggedPDF-doc/div/doc[815]/docBody[2]/ctr/pub
+NDAR_V01_0815,Essex Gazette,"re is inserted the account given by the ESSEX GAZETTE of Tuesday, April 25, of the engagment",Essex Gazette,"Essex
+                  Gazette",p,/TaggedPDF-doc/div/doc[815]/docBody[2]/p[1]/pub
+NDAR_V01_0816,London Chronicle,"Boston. 1. LONDON CHRONICLE , May 30 to June 1, 1775. 2. Th",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[816]/src/pub
+NDAR_V01_0817,London Evening Post,"you will see printed, and a LONDON EVENING POST Extraordinary was published last night",London Evening Post,"London Evening
+                  Post",p,/TaggedPDF-doc/div/doc[817]/docBody/p/pub
+NDAR_V01_0818,London Gazette,"LONDON GAZETTE , SATURDAY, MAY 27 TO TUESDAY, MAY 30, 1",London Gazette,LONDON GAZETTE,title,/TaggedPDF-doc/div/doc[818]/title/pub
+NDAR_V01_0819,London Gazette,"from a paragraph in the [LONDON] GAZETTE of this evening, I desire to inform all",[London] Gazette,"[London]
+                     Gazette",p,/TaggedPDF-doc/div/doc[819]/docBody[1]/p/pub
+NDAR_V01_0819,London Chronicle,"ssachusetts Bay.2 1. LONDON CHRONICLE , May 30 to June 1, 1775. 2. Un",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[819]/src/pub
+NDAR_V01_0819,Salem Gazette,"published the account as printed in the SALEM GAZETTE , April 25, 1775.",Salem Gazette,Salem Gazette,note,/TaggedPDF-doc/div/doc[819]/note/pub
+NDAR_V01_0821,Pennsylvania Packet,"iladelphia just prior to July 31, 1775. PENNSYLVANIA PACKET , July 31, 1775. 3. Lexington a",Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[821]/note[1]/pub
+NDAR_V01_0824,London Chronicle,"POSTSCRIPT OF LONDON CHRONICLE , TUESDAY, MAY 30 TO THURSDAY, JUNE 1, 1",London Chronicle,LONDON CHRONICLE,title,/TaggedPDF-doc/div/doc[824]/title/pub
+NDAR_V01_0828,London Chronicle,"LONDON CHRONICLE , SATURDAY, JUNE 3, TO TUESDAY, JUNE 6,",London Chronicle,LONDON CHRONICLE,title,/TaggedPDF-doc/div/doc[828]/title/pub
+NDAR_V01_0828,Boston Evening Post,"their march for Boston. The BOSTON EVENING POST of Monday, April 24, has",Boston Evening Post,Boston Evening Post,p,/TaggedPDF-doc/div/doc[828]/docBody/p[3]/pub[1]
+NDAR_V01_0828,Boston Evening Post,"their march for Boston. The BOSTON EVENING POST of Monday, April 24, has",Boston Evening Post,Boston Evening Post,p,/TaggedPDF-doc/div/doc[828]/docBody/p[3]/pub[2]
+NDAR_V01_0833,London Chronicle,"LONDON CHRONICLE , THURSDAY, JUNE 8, TO SATURDAY, JUNE 10",London Chronicle,LONDON CHRONICLE,title,/TaggedPDF-doc/div/doc[833]/title/pub
+NDAR_V01_0834,London Gazette,"LONDON GAZETTE , TUESDAY, JUNE 6, TO SATURDAY, JUNE 10,",London Gazette,LONDON GAZETTE,title,/TaggedPDF-doc/div/doc[834]/title/pub
+NDAR_V01_0835,London Evening Post,"s wch is to yr debt We esteem here the LONDON EVENING POST , published 3 times a wee",London Evening Post,London Evening Post,p,/TaggedPDF-doc/div/doc[835]/docBody/p/pub[1]
+NDAR_V01_0835,L. Chronicle,"ning paper if you choose instead of the L. CHRONICLE , I will have it regularly",L. Chronicle,L. Chronicle,p,/TaggedPDF-doc/div/doc[835]/docBody/p/pub[2]
+NDAR_V01_0837,London Chronicle,"LONDON CHRONICLE , SATURDAY, JUNE 10, TO TUESDAY, JUNE 13",London Chronicle,LONDON CHRONICLE,title,/TaggedPDF-doc/div/doc[837]/title/pub
+NDAR_V01_0844,London Chronicle,"LONDON CHRONICLE , TUESDAY, JUNE 20, TO THURSDAY, JUNE 22",London Chronicle,LONDON CHRONICLE,title,/TaggedPDF-doc/div/doc[844]/title/pub
+NDAR_V01_0851,London Chronicle,"o months advance. 1. LONDON CHRONICLE , June 27 to June 29, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[851]/src/pub
+NDAR_V01_0859,Newport Mercury,"NEWPORT MERCURY , MONDAY, MAY 22, 1775 Newport,",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[859]/title/pub
+NDAR_V01_0861,London Chronicle,"be armed vessels. 1. LONDON CHRONICLE , June 24, to June 27, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[861]/src/pub
+NDAR_V01_0863,New York Gazette,"NEW YORK GAZETTE , MONDAY, MAY 22, 1775 New-York",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[863]/title/pub
+NDAR_V01_0864,Pennsylvania Packet,"PENNSYLVANIA PACKET , MONDAY, MAY 22, 1775 Philadel",Pennsylvania Packet,PENNSYLVANIA PACKET,title,/TaggedPDF-doc/div/doc[864]/title/pub
+NDAR_V01_0873,Newport Mercury,"PRO, Admiralty 51/804. 2. See NEWPORT MERCURY , May 29, 1775.",Newport Mercury,Newport Mercury,note,/TaggedPDF-doc/div/doc[873]/note/pub
+NDAR_V01_0880,Massachusetts Spy,"MASSACHUSETTS SPY , WEDNESDAY, MAY 24, 1775 Worce",Massachusetts Spy,MASSACHUSETTS SPY,title,/TaggedPDF-doc/div/doc[880]/title/pub
+NDAR_V01_0889,New England Chronicle,"NEW ENGLAND CHRONICLE , THURSDAY, MAY 25, 1775 Cambri",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[889]/title/pub
+NDAR_V01_0902,New York Journal,"NEW YORK JOURNAL , THURSDAY, MAY 25, 1775 New Yo",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[902]/title/pub
+NDAR_V01_0906,Essex Journal,"ESSEX JOURNAL , FRIDAY, MAY 26, 1775 Newburyp",Essex Journal,ESSEX JOURNAL,title,/TaggedPDF-doc/div/doc[906]/title/pub
+NDAR_V01_0920,New York Journal,"d in great haste. 1. NEW YORK JOURNAL , June 8, 1775. See also account in Bark",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[920]/src/pub
+NDAR_V01_0931,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, MAY 27, 1775 Provid",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[931]/title/pub
+NDAR_V01_0931,Newport Mercury,"ear Newport.1 1. See NEWPORT MERCURY , May 29, 1775.",Newport Mercury,Newport Mercury,note,/TaggedPDF-doc/div/doc[931]/note/pub
+NDAR_V01_0935,Pennsylvania Packet,e on May 13. 3. Printed in the PENNSYLVANIA PACKET May 29.,Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[935]/note[2]/pub
+NDAR_V01_0953,Newport Mercury,"NEWPORT MERCURY , MONDAY, MAY 29, 1775 Newport,",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[953]/title/pub
+NDAR_V01_0959,New York Gazette,"NEW YORK GAZETTE , MONDAY, MAY 29, 1775 New York",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[959]/title/pub
+NDAR_V01_0975,Newport Mercury,"muel Ward Papers, RIHS. 2. See NEWPORT MERCURY , May 29, 1775.",Newport Mercury,Newport Mercury,note,/TaggedPDF-doc/div/doc[975]/note/pub
+NDAR_V01_0978,Maryland Gazette,e above proceedings be published in the MARYLAND GAZETTE . Signed by order of the Com,Maryland Gazette,Maryland Gazette,p,/TaggedPDF-doc/div/doc[978]/docBody/p[6]/pub
+NDAR_V01_0988,Boston Gazette,"s. Arch., vol. 138, 428. Printed in the BOSTON GAZETTE , Watertown, August 7, 1775, with the fo",Boston Gazette,Boston Gazette,src,/TaggedPDF-doc/div/doc[988]/src/pub
+NDAR_V01_0999,Pennsylvania Packet,"outh, England, about June IO, 1775. See PENNSYLVANIA PACKET , June 12, 1775.",Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[999]/note/pub
+NDAR_V01_1000,New York Journal,"ak our gratitude. 1. NEW YORK JOURNAL , June 15, 1775: ""The following Extract",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[1000]/src/pub
+NDAR_V01_1001,New England Chronicle,"NEW ENGLAND CHRONICLE , THURSDAY, MAY 25, TO THURSDAY, JUNE 1,",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[1001]/title/pub
+NDAR_V01_1013,New Hampshire Gazette,"NEW HAMPSHIRE GAZETTE , FRIDAY, JUNE 2, 1775 Portsmou",New Hampshire Gazette,NEW HAMPSHIRE GAZETTE,title,/TaggedPDF-doc/div/doc[1013]/title/pub
+NDAR_V01_1021,Newport Mercury,"PRO, Admiralty 51/804. 2. See NEWPORT MERCURY , May 29, 1775.",Newport Mercury,Newport Mercury,note,/TaggedPDF-doc/div/doc[1021]/note/pub
+NDAR_V01_1026,Pennsylvania Packet,"2. The resolutions were printed in the PENNSYLVANIA PACKET , June 5, 1775.",Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[1026]/note/pub
+NDAR_V01_1028,South Carolina Gazette,"SOUTH CAROLINA GAZETTE , TUESDAY, JUNE 20, 1775 [Newbe",South Carolina Gazette,SOUTH CAROLINA GAZETTE,title,/TaggedPDF-doc/div/doc[1028]/title/pub
+NDAR_V01_1036,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, JUNE 3, 1775 Provid",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[1036]/title/pub
+NDAR_V01_1037,Pennsylvania Packet,"the port of Philadelphia May 29, 1775, PENNSYLVANIA PACKET , May 29, 1775.",Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[1037]/note/pub
+NDAR_V01_1038,Connecticut Gazette,"CONNECTICUT GAZETTE , SATURDAY, JUNE 3, 1775 New-Lo",Connecticut Gazette,CONNECTICUT GAZETTE,title,/TaggedPDF-doc/div/doc[1038]/title/pub
+NDAR_V01_1040,Pennsylvania Ledger,"PENNSYLVANIA LEDGER , SATURDAY, JUNE 3, 1775 New Yo",Pennsylvania Ledger,PENNSYLVANIA LEDGER,title,/TaggedPDF-doc/div/doc[1040]/title/pub
+NDAR_V01_1042,Pennsylvania Packet,"s, May 15, 1775, and was printed in the PENNSYLVANIA PACKET on May 22.",Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[1042]/note/pub
+NDAR_V01_1043,South Carolina Historical Magazine,"1. Dartmouth Mss., 1270, printed SOUTH CAROLINA HISTORICAL MAGAZINE , July, 1962, pp. 130, 131. 2.",South Carolina Historical Magazine,South Carolina Historical Magazine,src,/TaggedPDF-doc/div/doc[1043]/src/pub
+NDAR_V01_1045,Massachusetts Spy,"m before morning. 1. MASSACHUSETTS SPY , June 21, 1775.",Massachusetts Spy,Massachusetts Spy,src,/TaggedPDF-doc/div/doc[1045]/src/pub
+NDAR_V01_1046,Pennsylvania Packet,"re on the island. 1. PENNSYLVANIA PACKET , June 12, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[1046]/src/pub
+NDAR_V01_1056,Newport Mercury,"NEWPORT MERCURY , MONDAY, JUNE 5, 1775 Newport,",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[1056]/title/pub
+NDAR_V01_1058,Connecticut Courant,"CONNECTICUT COURANT , MONDAY, JUNE 5, 1775 Hartford",Connecticut Courant,CONNECTICUT COURANT,title,/TaggedPDF-doc/div/doc[1058]/title/pub
+NDAR_V01_1059,New York Gazette,"NEW YORK GAZETTE , MONDAY, JUNE 5, 1775 New-York",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[1059]/title/pub
+NDAR_V01_1081,New England Chronicle,"NEW ENGLAND CHRONICLE , THURSDAY, JUNE 8, 1775 Cambri",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[1081]/title/pub
+NDAR_V01_1084,New York Journal,"NEW YORK JOURNAL , THURSDAY, JUNE 8, 1775 New-Yo",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[1084]/title/pub
+NDAR_V01_1084,New York Gazette and the Weekly Mercury,"int and in almost the same words by the NEW YORK GAZETTE AND THE WEEKLY MERCURY on June 5, 1775. The Journal's editoria",New York Gazette and the Weekly Mercury,New York Gazette and the Weekly Mercury,note,/TaggedPDF-doc/div/doc[1084]/note[1]/pub[1]
+NDAR_V01_1084,Journal's,"the Weekly Mercury on June 5, 1775. The JOURNAL'S editorializing from here on indicated c",Journal's,Journal's,note,/TaggedPDF-doc/div/doc[1084]/note[1]/pub[2]
+NDAR_V01_1084,Journal,"the Weekly Mercury on June 5, 1775. The JOURNAL 's editorializing from here on indicated",Journal,Journal,note,/TaggedPDF-doc/div/doc[1084]/note[2]/pub
+NDAR_V01_1102,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, JUNE 9, 1775 Williams",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1102]/title/pub
+NDAR_V01_1107,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, JUNE 10, 1775 Provi",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[1107]/title/pub
+NDAR_V01_1112,New York Gazette,"Charles Murray 1. NEW YORK GAZETTE , June 12, 1775. 2. See the New",New York Gazette,New York Gazette,src,/TaggedPDF-doc/div/doc[1112]/src/pub
+NDAR_V01_1112,New York Journal,"tte, June 12, 1775. 2. See the NEW YORK JOURNAL , May 18, 1775.",New York Journal,New York Journal,note,/TaggedPDF-doc/div/doc[1112]/note/pub
+NDAR_V01_1117,Virginia Gazette,"DUNMORE. 1. Dixon and Hunter's VIRGINIA GAZETTE , June 17, 1775, with the letter headed",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[1117]/src/pub
+NDAR_V01_1133,Newport Mercury,"NEWPORT MERCURY , MONDAY, JUNE 12, 1775 Newport",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[1133]/title/pub
+NDAR_V01_1134,New York Gazette,"NEW YORK GAZETTE , MONDAY, JUNE 12, 1775 New Yor",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[1134]/title/pub
+NDAR_V01_1143,Pennsylvania Packet,"ing assassinated. 1. PENNSYLVANIA PACKET , June 19, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[1143]/src/pub
+NDAR_V01_1170,New York Journal,"NEW YORK JOURNAL , THURSDAY, JUNE 15, 1775 New Y",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[1170]/title/pub
+NDAR_V01_1178,Newport Mercury,"lace's answer, be published in the next NEWPORT MERCURY , and Providence Gazette.2",Newport Mercury,Newport Mercury,p,/TaggedPDF-doc/div/doc[1178]/docBody/p/pub[1]
+NDAR_V01_1178,Providence Gazette,"lished in the next Newport Mercury, and PROVIDENCE GAZETTE .2 1. Bartlett, ed.,",Providence Gazette,Providence Gazette,p,/TaggedPDF-doc/div/doc[1178]/docBody/p/pub[2]
+NDAR_V01_1178,Providence Gazette,"lished in the next Newport Mercury, and PROVIDENCE GAZETTE .2 1. Bartlett, ed.,",Providence Gazette,Providence Gazette,note,/TaggedPDF-doc/div/doc[1178]/note/pub[1]
+NDAR_V01_1178,Newport Mercury,"lace's answer, be published in the next NEWPORT MERCURY , and Providence Gazette.2",Newport Mercury,Newport Mercury,note,/TaggedPDF-doc/div/doc[1178]/note/pub[2]
+NDAR_V01_1198,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, JUNE 17, 1775 Provi",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[1198]/title/pub
+NDAR_V01_1224,Boston Gazette and Country Journal,"jamin Edes and John Gill, publishers of BOSTON GAZETTE AND COUNTRY JOURNAL . Edes had escaped from Boston to Watert",Boston Gazette and Country Journal,Boston Gazette and Country Journal,note,/TaggedPDF-doc/div/doc[1224]/note[1]/pub[1]
+NDAR_V01_1224,Gazette,"des and John Gill, publishers of Boston GAZETTE and Country Journal. Edes had escaped f",Gazette,Gazette,note,/TaggedPDF-doc/div/doc[1224]/note[1]/pub[2]
+NDAR_V01_1229,Newport Mercury,"NEWPORT MERCURY , MONDAY, JUNE 19, 1775 Newport",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[1229]/title/pub
+NDAR_V01_1230,"Pennsylvania Evening Post,","&c. 1. PENNSYLVANIA EVENING POST, Philadelphia, July 1, 1775.","Pennsylvania Evening Post,","Pennsylvania Evening Post,",src,/TaggedPDF-doc/div/doc[1230]/src/pub
+NDAR_V01_1231,New York Gazette,"NEW YORK GAZETTE , MONDAY, JUNE 19, 1775 New Yor",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[1231]/title/pub
+NDAR_V01_1245,Virginia Gazette,"hat this resolution be published in the VIRGINIA GAZETTE . 1. Force, comp., Am",Virginia Gazette,Virginia Gazette,p,/TaggedPDF-doc/div/doc[1245]/docBody/p[3]/pub
+NDAR_V01_1246,South Carolina Gazette,"SOUTH CAROLINA GAZETTE , TUESDAY, JUNE 20, 1775 Charle",South Carolina Gazette,SOUTH CAROLINA GAZETTE,title,/TaggedPDF-doc/div/doc[1246]/title/pub
+NDAR_V01_1260,Providence Gazette,"umber of Pistols. 1. PROVIDENCE GAZETTE , June 24, 1775.",Providence Gazette,Providence Gazette,src,/TaggedPDF-doc/div/doc[1260]/src/pub
+NDAR_V01_1272,New England Chronicle,"NEW ENGLAND CHRONICLE , SATURDAY, JUNE 24, 1775 Water",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[1272]/title/pub
+NDAR_V01_1276,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, JUNE 24, 1775 Provi",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[1276]/title/pub
+NDAR_V01_1281,Virginia Gazette,"DIXON AND HUNTER'S VIRGINIA GAZETTE , SATURDAY, JUNE 24, 1775 Willi",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1281]/title/pub
+NDAR_V01_1286,New York Journal,"""VERITAS"" TO JOHN HOLT, PRINTER OF THE NEW YORK JOURNAL 1 Mr. HOLT,",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[1286]/title/pub
+NDAR_V01_1286,New England Chronicle,"ccount which appeared originally in the NEW ENGLAND CHRONICLE , at Cambridge, May 18, 1",New England Chronicle,New England Chronicle,ctr,/TaggedPDF-doc/div/doc[1286]/docBody[2]/ctr/pub
+NDAR_V01_1286,New York Journal,"the Massachusetts service. 1. NEW YORK JOURNAL , August 3, 1775. (Also reprinted in the",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[1286]/src/pub
+NDAR_V01_1290,New York Journal,"y 1/485, LC Transcript. 2. See NEW YORK JOURNAL , June 15, 1775.",New York Journal,New York Journal,note,/TaggedPDF-doc/div/doc[1290]/note/pub
+NDAR_V01_1298,Newport Mercury,"NEWPORT MERCURY , MONDAY, JUNE 26,1775 Newport,",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[1298]/title/pub
+NDAR_V01_1298,Pennsylvania Packet,"habitants"" and the vessel ""passed out."" PENNSYLVANIA PACKET , June 12 and 19, 1775; Graves's Conduct",Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[1298]/note/pub
+NDAR_V01_1300,Pennsylvania Packet,"onathan B. Smith, Secretary 1. PENNSYLVANIA PACKET , July 3, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[1300]/src/pub
+NDAR_V01_1323,Historical Magazine,"Josiah Bartlett 1. HISTORICAL MAGAZINE , October 1860, 298. 2. Governo",Historical Magazine,Historical Magazine,src,/TaggedPDF-doc/div/doc[1323]/src/pub
+NDAR_V01_1333,New York Gazetteer,"RIVINGTON'S NEW-YORK GAZETTEER , THURSDAY, JUNE 29, 1775 New-Y",New York Gazetteer,NEW-YORK GAZETTEER,title,/TaggedPDF-doc/div/doc[1333]/title/pub
+NDAR_V01_1334,Pennsylvania Packet,"J. B. Smith, Secretary 1. PENNSYLVANIA PACKET , Monday, July 3, 1775. 2. The",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[1334]/src/pub
+NDAR_V01_1352,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, JUNE 30, 1775 William",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1352]/title/pub
+NDAR_V01_1366,Virginia Gazette,"DIXON AND HUNTER'S VIRGINIA GAZETTE , SATURDAY, JULY 1, 1775 Willia",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1366]/title/pub
+NDAR_V01_1374,Boston Gazette,"BOSTON GAZETTE , MONDAY,JULY 3, 1775 Watertown",Boston Gazette,BOSTON GAZETTE,title,/TaggedPDF-doc/div/doc[1374]/title/pub
+NDAR_V01_1378,New York Gazette,"NEW YORK GAZETTE , MONDAY, JULY 3, 1775 New York",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[1378]/title/pub
+NDAR_V01_1391,South Carolina Gazette,"rpion Man of War sailed for Cape-Fear."" SOUTH CAROLINA GAZETTE , July 4, 1775.",South Carolina Gazette,South Carolina Gazette,note,/TaggedPDF-doc/div/doc[1391]/note/pub
+NDAR_V01_1401,New York Journal,"Secretary 1. NEW YORK JOURNAL , July 6, 1775.",New York Journal,New York Journal,src,/TaggedPDF-doc/div/doc[1401]/src/pub
+NDAR_V01_1406,Virginia Gazette,"HOLT'S VIRGINIA GAZETTE , NORFOLK, WEDNESDAY, JULY 5, 1775",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1406]/title/pub
+NDAR_V01_1407,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, JULY 7, 1775 Norfolk,",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1407]/title/pub
+NDAR_V01_1432,Maryland Gazette,publick and printed in the MARYLAND GAZETTE . Signed per order:,Maryland Gazette,"Maryland
+               Gazette",p,/TaggedPDF-doc/div/doc[1432]/docBody[2]/p[7]/pub
+NDAR_V01_1433,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, JULY 7, 1775 Williams",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1433]/title/pub
+NDAR_V01_1434,South Carolina and American General Gazette,"SOUTH CAROLINA AND AMERICAN GENERAL GAZETTE , FRIDAY, JULY 7, 1775 Charlest",South Carolina and American General Gazette,SOUTH CAROLINA AND AMERICAN GENERAL GAZETTE,title,/TaggedPDF-doc/div/doc[1434]/title/pub
+NDAR_V01_1441,Virginia Gazette,"DIXON AND HUNTER'S VIRGINIA GAZETTE , SATURDAY, JULY 8, 1775 Willia",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1441]/title/pub
+NDAR_V01_1458,Newport Mercury,"NEWPORT MERCURY , MONDAY, JULY 10, 1775 Newport",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[1458]/title/pub
+NDAR_V01_1466,Historical Magazine,"lphia last night. 1. HISTORICAL MAGAZINE , January, 1863, vol. VII, 22, 23.",Historical Magazine,Historical Magazine,src,/TaggedPDF-doc/div/doc[1466]/src/pub
+NDAR_V01_1467,Pennsylvania Packet,"one on each side. 1. PENNSYLVANIA PACKET , July 24, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[1467]/src/pub
+NDAR_V01_1487,Pennsylvania Gazette,ccording to a Custom House entry in the PENNSYLVANIA GAZETTE of that date.,Pennsylvania Gazette,Pennsylvania Gazette,note,/TaggedPDF-doc/div/doc[1487]/note/pub
+NDAR_V01_1489,Connecticut Journal,"CONNECTICUT JOURNAL , WEDNESDAY, JULY 12, 1775 New",Connecticut Journal,CONNECTICUT JOURNAL,title,/TaggedPDF-doc/div/doc[1489]/title/pub
+NDAR_V01_1492,Pennsylvania Journal,"PENNSYLVANIA JOURNAL , WEDNESDAY, JULY 12, 1775 Phil",Pennsylvania Journal,PENNSYLVANIA JOURNAL,title,/TaggedPDF-doc/div/doc[1492]/title/pub
+NDAR_V01_1493,Virginia Gazette,"HOLT'S VIRGINIA GAZETTE , WEDNESDAY, JULY 12, 1775 Norf",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1493]/title/pub
+NDAR_V01_1495,Virginia Gazette,"nscript. 2. Alexander Purdie's VIRGINIA GAZETTE , June 30, 1775, Number 22, and Suppleme",Virginia Gazette,Virginia Gazette,note,/TaggedPDF-doc/div/doc[1495]/note[1]/pub
+NDAR_V01_1495,Virginia Gazette,"nscript. 2. Alexander Purdie's VIRGINIA GAZETTE , June 30, 1775, Number 22, and Suppleme",Virginia Gazette,Virginia Gazette,note,/TaggedPDF-doc/div/doc[1495]/note[3]/pub
+NDAR_V01_1499,New England Chronicle,"NEW ENGLAND CHRONICLE , THURSDAY, JULY 13, 1775 Cambr",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[1499]/title/pub
+NDAR_V01_1507,"Pennsylvania Evening Post,","PENNSYLVANIA EVENING POST, TUESDAY, JULY 25, 1775 Glouces","Pennsylvania Evening Post,","PENNSYLVANIA EVENING POST,",title,/TaggedPDF-doc/div/doc[1507]/title/pub
+NDAR_V01_1513,Connecticut Gazette,"CONNECTICUT GAZETTE , FRIDAY, JULY 14, 1775 New Lon",Connecticut Gazette,CONNECTICUT GAZETTE,title,/TaggedPDF-doc/div/doc[1513]/title/pub
+NDAR_V01_1514,Connecticut Gazette,". Neither barge nor crew was taken. See CONNECTICUT GAZETTE , July 14, 1775.",Connecticut Gazette,Connecticut Gazette,note,/TaggedPDF-doc/div/doc[1514]/note/pub
+NDAR_V01_1518,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, JULY 14, 1775 William",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1518]/title/pub
+NDAR_V01_1527,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, JULY 15, 1775 Provi",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[1527]/title/pub
+NDAR_V01_1529,"Pennsylvania Evening Post,","PENNSYLVANIA EVENING POST, SATURDAY, JULY 15, 1775 Philad","Pennsylvania Evening Post,","PENNSYLVANIA EVENING POST,",title,/TaggedPDF-doc/div/doc[1529]/title/pub
+NDAR_V01_1534,Virginia Gazette,"DIXON AND HUNTER'S VIRGINIA GAZETTE , SATURDAY, JULY 15, 1775 Willi",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1534]/title/pub
+NDAR_V01_1545,Newport Mercury,"NEWPORT MERCURY , MONDAY, JULY 17, 1775 Newport",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[1545]/title/pub
+NDAR_V01_1549,New York Gazette,"NEW YORK GAZETTE , MONDAY, JULY 17, 1775 New Yor",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[1549]/title/pub
+NDAR_V01_1589,Massassachusetts Spy,"MASSASSACHUSETTS SPY , WEDNESDAY, JULY 19, 1775 Worc",Massassachusetts Spy,MASSASSACHUSETTS SPY,title,/TaggedPDF-doc/div/doc[1589]/title/pub
+NDAR_V01_1591,Pennsylvania Packet,"and stood up the 1. PENNSYLVANIA PACKET , August 7, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[1591]/src/pub
+NDAR_V01_1607,Pennsylvania Evening Post,"was reported in the river off Chester, PENNSYLVANIA EVENING POST .",Pennsylvania Evening Post,Pennsylvania Evening Post,note,/TaggedPDF-doc/div/doc[1607]/note/pub
+NDAR_V01_1610,Maryland Gazette,"MARYLAND GAZETTE , THURSDAY, JULY 20, 1775 Annap",Maryland Gazette,MARYLAND GAZETTE,title,/TaggedPDF-doc/div/doc[1610]/title/pub
+NDAR_V01_1611,Virginia Gazette,"Montague 1. Purdie's VIRGINIA GAZETTE , September 15, 1775. The letter was fou",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[1611]/src/pub
+NDAR_V01_1617,New England Chronicle,"NEW ENGLAND CHRONICLE , FRIDAY,JULY 21, 1775 Cambridg",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[1617]/title/pub
+NDAR_V01_1626,Maryland Gazette,". Adams Family Papers, MassHS. See also MARYLAND GAZETTE , July 20, 1775. 2. The referen",Maryland Gazette,Maryland Gazette,src,/TaggedPDF-doc/div/doc[1626]/src/pub
+NDAR_V01_1628,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, JULY 21, 17751 Willia",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1628]/title/pub
+NDAR_V01_1658,Newport Mercury,"NEWPORT MERCURY , MONDAY, JULY 24, 1775 Newport",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[1658]/title/pub
+NDAR_V01_1660,Connecticut Courant,"CONNECTICUT COURANT , MONDAY, JULY 24, 1775 Hartfor",Connecticut Courant,CONNECTICUT COURANT,title,/TaggedPDF-doc/div/doc[1660]/title/pub
+NDAR_V01_1674,Pennsylvania Packet,"had cleared Philadelphia early in July, PENNSYLVANIA PACKET , July 3, 1775. At Boston the ship was p",Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[1674]/note[2]/pub
+NDAR_V01_1677,Morning Chronicle and London Advertiser,"character. 1. MORNING CHRONICLE AND LONDON ADVERTISER , September 28, 1775.",Morning Chronicle and London Advertiser,Morning Chronicle and London Advertiser,src,/TaggedPDF-doc/div/doc[1677]/src/pub
+NDAR_V01_1682,"Pennsylvania Evening Post,","PENNSYLVANIA EVENING POST, TUESDAY, JULY 25, 1775 Philade","Pennsylvania Evening Post,","PENNSYLVANIA EVENING POST,",title,/TaggedPDF-doc/div/doc[1682]/title/pub
+NDAR_V01_1689,Massachusetts Spy,"MASSACHUSETTS SPY , WEDNESDAY, 26, 1775ー Worceste",Massachusetts Spy,MASSACHUSETTS SPY,title,/TaggedPDF-doc/div/doc[1689]/title/pub
+NDAR_V01_1693,Pennsylvania Journal,"PENNSYLVANIA JOURNAL , WEDNESDAY, JULY 26, 17751 Phi",Pennsylvania Journal,PENNSYLVANIA JOURNAL,title,/TaggedPDF-doc/div/doc[1693]/title/pub
+NDAR_V01_1700,New England Chronicle,"NEW ENGLAND CHRONICLE , THURSDAY, JULY 27, 1775 Cambr",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[1700]/title/pub
+NDAR_V01_1708,New York Journal,"NEW YORK JOURNAL , THURSDAY, JULY 27, 1775 New Y",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[1709]/title/pub
+NDAR_V01_1710,New York Gazetteer,"RIVINGTON'S NEW YORK GAZETTEER , THURSDAY, JULY 27, 1775 New Y",New York Gazetteer,NEW YORK GAZETTEER,title,/TaggedPDF-doc/div/doc[1710]/title/pub
+NDAR_V01_1727,Connecticut Gazette,"CONNECTICUT GAZETTE , THURSDAY, JULY 28, 1775 New L",Connecticut Gazette,CONNECTICUT GAZETTE,title,/TaggedPDF-doc/div/doc[1727]/title/pub
+NDAR_V01_1732,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY,JULY 28, 1775 Williams",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1732]/title/pub
+NDAR_V01_1747,Virginia Gazette,"DIXON AND HUNTER'S VIRGINIA GAZETTE , JULY 29, 17751 Williamsburg,",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1747]/title/pub
+NDAR_V01_1777,Newport Mercury,"NEWPORT MERCURY , MONDAY, JULY 31, 1775 Newport",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[1777]/title/pub
+NDAR_V01_1803,London Chronicle,"in my conveyance. 1. LONDON CHRONICLE , September 26 to September 28, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[1803]/src/pub
+NDAR_V01_1804,Pennsylvania Packet,"the last resolution were printed in the PENNSYLVANIA PACKET , August 21, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[1804]/src/pub
+NDAR_V01_1815,Massachusetts Spy,"MASSACHUSETTS SPY , WEDNESDAY, AUGUST 2, 1775 Wor",Massachusetts Spy,MASSACHUSETTS SPY,title,/TaggedPDF-doc/div/doc[1815]/title/pub
+NDAR_V01_1825,Virginia Gazette,"HOLT'S VIRGINIA GAZETTE , WEDNESDAY, AUGUST 2, 1775 Nor",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1825]/title/pub
+NDAR_V01_1831,New England Chronicle,"NEW ENGLAND CHRONICLE , THURSDAY, AUGUST 3, 1775 Camb",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[1831]/title/pub
+NDAR_V01_1855,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, AUGUST 4, 1775 Willia",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1855]/title/pub
+NDAR_V01_1860,London Chronicle,"wounded. 1. LONDON CHRONICLE , October 10 to October 12, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[1860]/src/pub
+NDAR_V01_1868,Providence Gazette,"coast. 1. PROVIDENCE GAZETTE , August 12, 1775.",Providence Gazette,Providence Gazette,src,/TaggedPDF-doc/div/doc[1868]/src/pub
+NDAR_V01_1888,Boston Gazette,"TER FROM ""A TRAVELLER"" TO THE EDITOR OF BOSTON GAZETTE IN WATERTOWN1 Watertown, Augus",Boston Gazette,BOSTON GAZETTE,rec,/TaggedPDF-doc/div/doc[1888]/title/rec/pub
+NDAR_V01_1893,Newport Mercury,"NEWPORT MERCURY , MONDAY, AUGUST 7, 1775 Newpor",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[1893]/title/pub
+NDAR_V01_1895,New York Gazetteer,"Papers, ConnHS. 2. Rivington's NEW YORK GAZETTEER , and Holt's New York Journal.",New York Gazetteer,New York Gazetteer,note,/TaggedPDF-doc/div/doc[1895]/note/pub[1]
+NDAR_V01_1895,New York Journal,"ington's New York Gazetteer, and Holt's NEW YORK JOURNAL .",New York Journal,New York Journal,note,/TaggedPDF-doc/div/doc[1895]/note/pub[2]
+NDAR_V01_1899,Maryland Gazette,may be publish'd in the MARYLAND GAZETTE for his Vindication to t,Maryland Gazette,Maryland Gazette,p,/TaggedPDF-doc/div/doc[1899]/docBody[1]/p[4]/pub
+NDAR_V01_1927,Virginia Gazette,"HOLT'S VIRGINIA GAZETTE , NORFOLK, WEDNESDAY, AUGUST 9, 1775",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1927]/title/pub
+NDAR_V01_1934,New England Chronicle,"NEW ENGLAND CHRONICLE , THURSDAY,AUGUST 10, 1775 Camb",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[1934]/title/pub
+NDAR_V01_1941,Pennsylvania Packet,"nd 10 hogs. . . . 1. PENNSYLVANIA PACKET , Postscript, August 21, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[1941]/src/pub
+NDAR_V01_1942,New York Gazetteer,"RIVINGTON'S NEW YORK GAZETTEER , THURSDAY, AUGUST 10, 17751 Ne",New York Gazetteer,NEW YORK GAZETTEER,title,/TaggedPDF-doc/div/doc[1942]/title/pub
+NDAR_V01_1944,London Chronicle,"protection. 1. LONDON CHRONICLE , September 30 to October 3, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[1944]/src/pub
+NDAR_V01_1955,London Chronicle,"n a letter from Portsmouth, England, to LONDON CHRONICLE , written by a gentleman who stated, ""I",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[1955]/src/pub[1]
+NDAR_V01_1955,Chronicle,"ter from Portsmouth, England, to London CHRONICLE , written by a gentleman who stated, ""I",Chronicle,Chronicle,src,/TaggedPDF-doc/div/doc[1955]/src/pub[2]
+NDAR_V01_1964,Providence Gazette,"PROVIDENCE GAZETTE , SATURDAY, AUGUST 12, 1775 Pro",Providence Gazette,PROVIDENCE GAZETTE,title,/TaggedPDF-doc/div/doc[1964]/title/pub
+NDAR_V01_1969,Virginia Gazette,"DIXON AND HUNTER'S VIRGINIA GAZETTE , SATURDAY, AUGUST 12, 1775 Wil",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1969]/title/pub
+NDAR_V01_1970,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , POSTSCRIPT, SATURDAY, AUGUST 12, 1775",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[1970]/title/pub
+NDAR_V01_1971,Virginia Gazette,"cartney. 1. Dixon and Hunter's VIRGINIA GAZETTE , September 2, 1775.",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[1971]/src/pub
+NDAR_V01_1974,Massachusetts Spy,"nant returned in. 1. MASSACHUSETTS SPY , Aug. 16, 1775.",Massachusetts Spy,Massachusetts Spy,src,/TaggedPDF-doc/div/doc[1974]/src/pub
+NDAR_V01_1979,Virginia Gazette,"1. Dixon and Hunter's VIRGINIA GAZETTE , September 2, 1775.",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[1979]/src/pub
+NDAR_V01_1986,Boston Gazette,"BOSTON GAZETTE , MONDAY, AUGUST 14, 1775 Water",Boston Gazette,BOSTON GAZETTE,title,/TaggedPDF-doc/div/doc[1986]/title/pub
+NDAR_V01_1993,Newport Mercury,"NEWPORT MERCURY , MONDAY, AUGUST 14, 1775 Newpo",Newport Mercury,NEWPORT MERCURY,title,/TaggedPDF-doc/div/doc[1993]/title/pub
+NDAR_V01_1994,Lloyd's Evening Post and British Chronicle,"inental Congress. 1. LLOYD'S EVENING POST AND BRITISH CHRONICLE , Sept. 18 to Sept. 20, 1775. 2",Lloyd's Evening Post and British Chronicle,Lloyd's Evening Post and British Chronicle,src,/TaggedPDF-doc/div/doc[1994]/src/pub
+NDAR_V01_1998,New York Gazette,"NEW YORK GAZETTE , MONDAY, AUGUST 14, 1775 New Y",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[1998]/title/pub
+NDAR_V01_2001,Virginia Gazette,"1. Dixon and Hunter's VIRGINIA GAZETTE , Sept. 2, 1775.",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[2001]/src/pub
+NDAR_V01_2007,New Hampshire Gazette,"NEW HAMPSHIRE GAZETTE , TUESDAY, AUGUST 15, 1775 Port",New Hampshire Gazette,NEW HAMPSHIRE GAZETTE,title,/TaggedPDF-doc/div/doc[2007]/title/pub
+NDAR_V01_2024,Massachusetts Spy,"MASSACHUSETTS SPY , WEDNESDAY, AUGUST 16, 1775 Wo",Massachusetts Spy,MASSACHUSETTS SPY,title,/TaggedPDF-doc/div/doc[2024]/title/pub
+NDAR_V01_2026,New York Journal,2. The resolutions appeared in the NEW YORK JOURNAL and Rivington's New York Gazetteer on A,New York Journal,New York Journal,note,/TaggedPDF-doc/div/doc[2026]/note/pub[1]
+NDAR_V01_2026,New York Gazetteer,"in the New York Journal and Rivington's NEW YORK GAZETTEER on Aug. 17, 1775.",New York Gazetteer,New York Gazetteer,note,/TaggedPDF-doc/div/doc[2026]/note/pub[2]
+NDAR_V01_2027,Virginia Gazette,"HOLT'S VIRGINIA GAZETTE , WEDNESDAY, AUGUST 16, 1775 No",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[2027]/title/pub
+NDAR_V01_2029,New England Chronicle,"NEW ENGLAND CHRONICLE , THURSDAY, AUGUST 17, 1775 Cam",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[2029]/title/pub
+NDAR_V01_2034,New York Journal,"NEW YORK JOURNAL , THURSDAY, AUGUST 17, 1775 New",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[2034]/title/pub
+NDAR_V01_2048,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, AUGUST 18, 1775 Willi",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[2048]/title/pub
+NDAR_V01_2057,London Chronicle,"h a boxing match. 1. LONDON CHRONICLE , Sept. 21 to Sept. 23, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[2057]/src/pub
+NDAR_V01_2078,Boston Gazette,"BOSTON GAZETTE , MONDAY, AUGUST 21, 1775 Water",Boston Gazette,BOSTON GAZETTE,title,/TaggedPDF-doc/div/doc[2078]/title/pub
+NDAR_V01_2081,New York Gazette,"NEW YORK GAZETTE , MONDAY, AUGUST 21, 1775 New-Y",New York Gazette,NEW YORK GAZETTE,title,/TaggedPDF-doc/div/doc[2081]/title/pub
+NDAR_V01_2083,Virginia Gazette,"sh, T.C. 1. Dixon and Hunter's VIRGINIA GAZETTE , Sept. 2, 1775.",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[2083]/src/pub
+NDAR_V01_2086,Pennsylvania Packet,"ng house near it. 1. PENNSYLVANIA PACKET , Sept. 11, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[2086]/src/pub
+NDAR_V01_2107,London Gazette,"th been published in the LONDON GAZETTE of the 19th Octo, 1774 &",London Gazette,London Gazette,p,/TaggedPDF-doc/div/doc[2107]/docBody/p[1]/pub
+NDAR_V01_2123,London Chronicle,"f North Carolina. 1. LONDON CHRONICLE , Oct. 17 to Oct. 19, 1775. 2.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[2123]/src/pub
+NDAR_V01_2140,Pennsylvania Packet,"aked at midnight. 1. PENNSYLVANIA PACKET , Aug. 28, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[2140]/src/pub
+NDAR_V01_2141,Pennsylvania Packet,"nights.2 1. PENNSYLVANIA PACKET , Aug. 28, 1775. 2. This letter",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[2141]/src/pub
+NDAR_V01_2159,Virginia Gazette,"PURDIE'S VIRGINIA GAZETTE , FRIDAY, AUGUST 25, 1775 Willi",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[2159]/title/pub
+NDAR_V01_2165,Constitutional Gazette,"CONSTITUTIONAL GAZETTE , SATURDAY, AUGUST 26, 1775 New",Constitutional Gazette,CONSTITUTIONAL GAZETTE,title,/TaggedPDF-doc/div/doc[2165]/title/pub
+NDAR_V01_2168,"Pennsylvania Evening Post,","PENNSYLVANIA EVENING POST, SATURDAY, AUGUST 26, 1775 Phil","Pennsylvania Evening Post,","PENNSYLVANIA EVENING POST,",title,/TaggedPDF-doc/div/doc[2168]/title/pub
+NDAR_V01_2171,Virginia Gazette,"DIXON AND HUNTER'S VIRGINIA GAZETTE , SATURDAY, AUGUST 26, 1775. Wi",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[2171]/title/pub
+NDAR_V01_2172,Virginia Gazette,"Loyall. 1. Dixon and Hunter's VIRGINIA GAZETTE , Sept. 2, 1775.",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[2172]/src/pub
+NDAR_V01_2175,Rivington's New York Gazetteer,"bill on Aug. 29, 1775, and reprinted in RIVINGTON'S NEW-YORK GAZETTEER , Aug. 31, 1775.",Rivington's New York Gazetteer,Rivington's New-York Gazetteer,src,/TaggedPDF-doc/div/doc[2175]/src/pub
+NDAR_V01_2187,Maryland Gazette,"e Annapolis and her passengers, see the MARYLAND GAZETTE , Sept. 21, 1775 and the Pennsylvania Pa",Maryland Gazette,Maryland Gazette,note,/TaggedPDF-doc/div/doc[2187]/note/pub[1]
+NDAR_V01_2187,Pennsylvania Packet,"aryland Gazette, Sept. 21, 1775 and the PENNSYLVANIA PACKET , Sept. 25, 1775.",Pennsylvania Packet,Pennsylvania Packet,note,/TaggedPDF-doc/div/doc[2187]/note/pub[2]
+NDAR_V01_2188,Virginia Gazette,"cartney. 1. Dixon and Hunter's VIRGINIA GAZETTE , Sept. 2, 1775.",Virginia Gazette,Virginia Gazette,src,/TaggedPDF-doc/div/doc[2188]/src/pub
+NDAR_V01_2209,London Chronicle,"depended on. 1. LONDON CHRONICLE , Oct. 19 to Oct. 21, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[2209]/src/pub
+NDAR_V01_2211,Pennsylvania Journal,"ware Capes just prior to Aug. 30, 1775, PENNSYLVANIA JOURNAL , Aug. 30, 1775. 3. Probably th",Pennsylvania Journal,Pennsylvania Journal,note,/TaggedPDF-doc/div/doc[2211]/note[1]/pub
+NDAR_V01_2212,Virginia Gazette,"HOLT'S VIRGINIA GAZETTE , WEDNESDAY, AUGUST 30, 17751 N",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[2212]/title/pub
+NDAR_V01_2217,New England Chronicle,"NEW ENGLAND CHRONICLE , THURSDAY, AUGUST 31, 1775 Cam",New England Chronicle,NEW ENGLAND CHRONICLE,title,/TaggedPDF-doc/div/doc[2217]/title/pub
+NDAR_V01_2225,Pennsylvania Packet,"atter is settled. 1. PENNSYLVANIA PACKET , September 4, 1775.",Pennsylvania Packet,Pennsylvania Packet,src,/TaggedPDF-doc/div/doc[2225]/src/pub
+NDAR_V01_2228,New York Journal,"NEW YORK JOURNAL , THURSDAY, AUGUST 31, 1775 New",New York Journal,NEW YORK JOURNAL,title,/TaggedPDF-doc/div/doc[2228]/title/pub
+NDAR_V01_2232,"Pennsylvania Evening Post,","PENNSYLVANIA EVENING POST, THURSDAY, AUGUST 31, 1775 Phil","Pennsylvania Evening Post,","PENNSYLVANIA EVENING POST,",title,/TaggedPDF-doc/div/doc[2232]/title/pub
+NDAR_V01_2243,Connecticut Gazette,"CONNECTICUT GAZETTE , NEW LONDON, FRIDAY, SEPTEMBER 1, 1775",Connecticut Gazette,CONNECTICUT GAZETTE,title,/TaggedPDF-doc/div/doc[2243]/title/pub
+NDAR_V01_2258,Virginia Gazette,"DIXON AND HUNTER'S VIRGINIA GAZETTE , SATURDAY, SEPTEMBER 2, 1775 W",Virginia Gazette,VIRGINIA GAZETTE,title,/TaggedPDF-doc/div/doc[2258]/title/pub
+NDAR_V01_2283,London Chronicle,"for Boston. . . . 1. LONDON CHRONICLE , July 8 to July 11, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[2283]/src/pub
+NDAR_V01_2284,London Chronicle,"ticut Gazette, Sept. 29, 1775, from the LONDON CHRONICLE , July 11-13, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[2284]/src/pub
+NDAR_V01_2302,Pennsylvania Journal,"h in the Delaware about Sept. 15, 1775. PENNSYLVANIA JOURNAL Sept. 20, 1775. 3. The ship Pe",Pennsylvania Journal,Pennsylvania Journal,note,/TaggedPDF-doc/div/doc[2302]/note[1]/pub
+NDAR_V01_2302,Pennsylvania Gazette,". . and kept Company with him 10 Days;"" PENNSYLVANIA GAZETTE , Sept. 20, 1775.",Pennsylvania Gazette,Pennsylvania Gazette,note,/TaggedPDF-doc/div/doc[2302]/note[2]/pub
+NDAR_V01_2308,London Chronicle,"m we do not know. 1. LONDON CHRONICLE , July 27 to July 29, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[2308]/src/pub
+NDAR_V01_2315,London Chronicle,"o those received. 1. LONDON CHRONICLE , July 29 to August 1, 1775.",London Chronicle,London Chronicle,src,/TaggedPDF-doc/div/doc[2315]/src/pub
